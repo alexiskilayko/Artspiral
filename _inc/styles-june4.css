@@ -1,0 +1,258 @@
+/* base CSS */
+body {
+  color: #606483;
+}
+
+::selection {
+background: #ffda6b;
+color: #111;
+ } 
+
+h1, h2, h3, h4, h5, h6 {
+  color: #991b1e;
+}
+
+h1 {
+  border-bottom: 2px solid #991b1e;
+}
+
+h2 {
+  border-bottom: 2px solid #991b1e;
+}
+
+/**LINK STYLING**/
+a {
+  text-decoration:none;
+}
+
+.content-wrapper a, .content-wrapper-narrow a{
+  color: #991b1e;
+  font-weight: 700;
+  text-decoration: none;
+  position:relative;
+  -webkit-transition:  0.5s color ease;
+       -o-transition:  0.5s color ease;
+         transition:   0.5s color ease;
+
+}
+
+  .content-wrapper a:hover, .content-wrapper-narrow a:hover, .content-wrapper-narrow a:focus, .content-wrapper a:focus {
+    color: #D33E43;
+  }
+
+    .content-wrapper-narrow a::after, .content-wrapper a::after{
+      background:#D33E43;
+    }
+
+      .content-wrapper-narrow a:hover::after, .content-wrapper a:hover::after{
+        width:100%;
+      }
+
+
+.next-arrow {
+  color: #991b1e;
+}
+
+.next-arrow:hover {
+  color: #D33E43;
+}
+
+.fotorama__thumb-border {
+  border-color: #991b1e; 
+}
+
+/**ACTIVE LINKS**/
+
+.june41 .menujune41, .june42 .menujune42, .june43 .menujune43, .june44 .menujune44, .june45 .menujune45{
+  background-color: #991b1e !important;
+}
+
+
+
+/**BUTTON STYLING**/
+
+form {text-align: center;}
+
+/***CONTENT ORGANIZATION STYLES***/
+
+.emphasis{
+  font-size: 1.1em;
+  line-height: 1.5em;
+  font-style: italic;
+  color: #333;
+  margin-bottom: 0;}
+
+/***TIMELINE STYLES***/
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      height: 100%;
+      width: 3px;
+      background: #df9fa1;
+  }
+
+  .timeline-block {
+    position: relative;
+    margin: 2em 0;
+  }
+
+    .timeline-block:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+  .timeline-content {
+    position: relative;
+    margin-left: 30px;
+    background: #f5f5f5;
+    padding: 1em;
+    border-radius:5px;
+    box-shadow: 0 3px 0 #df9fa1;
+  }
+
+    .timeline-content:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+      .timeline-content p {
+        font-size: 0.9em;
+        margin-bottom: 0;
+      }
+
+    .timeline-content::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      right: 100%;
+      height: 0;
+      width: 0;
+      border: 7px solid transparent;
+      border-right: 7px solid #f5f5f5;
+    }
+
+  .timeline-circle {
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    width:  10px;
+    height: 10px;
+    background-color: #991b1e;
+    border-radius: 10px;
+    z-index: 5;
+  }
+
+/***MOBILE MENU STYLES***/
+#mm {
+  background-color: #D33E43;
+}
+      #mm a {
+        color:#fff;
+        text-shadow: 1px 1px 1px #333; 
+        }
+
+        #mm a:hover {
+          background-color: #D33E43;
+        }
+
+        #mm ul ul li a {
+          color:#fff;
+          background: #D33E43;
+
+          }
+
+.menu-anchor {
+  background: rgba(255,218,107,0.9);
+  color: #111;
+ 
+}
+
+/**SOCIAL**/
+    #menu ul li.social a:hover, #mm ul li.social a:hover {
+      background: none;
+      color: rgba(255,255,255,0.8);
+    }
+
+@media only screen and (min-width: 960px){
+
+body{
+    background-image: url("/_images/background-red.png");
+    background-repeat: repeat-y;
+    background-position: 0 0;
+}
+
+
+/***MENU STYLES***/
+#mm, .menu-anchor {
+  display: none;
+}
+      #menu a {
+        color: #fff;
+        text-shadow: 1px 1px 1px #333; 
+      }
+
+        #menu a:hover {
+            background-color: #D33E43;
+        }
+
+        #menu ul ul li a {
+          color:#fff;
+          background: #D33E43;
+        }
+
+
+/**CONTENT ORGANIZATION**/
+
+
+.june42 .content-wrapper, .june45 .content-wrapper  {
+  position:absolute;
+}
+
+/***TIMELINE STYLES***/
+.timeline::before {
+  /* this is the vertical line */
+    left: 50%;
+    margin-left: -2px;
+}
+
+.timeline-content {
+  margin-left: 0;
+  width: 45%;
+}
+
+.timeline-content::before {
+  top: 50%;
+  left: 100%;
+  border-color: transparent;
+  border-left-color: #f5f5f5;
+}
+
+.timeline-block:nth-child(even) .timeline-content {
+  float: right;
+}
+
+.timeline-block{
+    margin: -2em 0;
+}
+
+.timeline-block:first-child {
+  margin-top: 2em;
+}
+
+.timeline-block:nth-child(even) .timeline-content::before {
+  top: 50%;
+  left: auto;
+  right: 100%;
+  border-color: transparent;
+  border-right-color: #f5f5f5;
+}
+
+.timeline-circle{
+  left: 49.4%;
+}
+
+}
+

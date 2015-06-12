@@ -1,0 +1,61 @@
+/**backupstyles*/
+
+.section1 {
+width: 100%;
+height: auto;
+background: -moz-linear-gradient(left,  rgba(114,66,82,0.1) 0%, rgba(114,66,82,0.4) 100%), url('/_images/feathers.png'); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(114,66,82,0.1)), color-stop(100%,rgba(114,66,82,0.4))), url('/_images/feathers.png'); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(114,66,82,0.1) 0%,rgba(114,66,82,0.4) 100%), url('/_images/feathers.png'); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(114,66,82,0.1) 0%,rgba(114,66,82,0.4) 100%), url('/_images/feathers.png'); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(114,66,82,0.1) 0%,rgba(114,66,82,0.4) 100%), url('/_images/feathers.png'); /* IE10+ */
+background: linear-gradient(to right,  rgba(114,66,82,0.1) 0%,rgba(114,66,82,0.4) 100%), url('/_images/feathers.png'); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a724252', endColorstr='#66724252',GradientType=1 ); /* IE6-9 */
+background-repeat:  repeat, repeat
+}
+
+.section2 {
+width: 100%;
+height: auto;
+background: -moz-linear-gradient(left,  rgba(255,218,107,0.1) 0%,  rgba(255,218,107,0.3) 100%), url('/_images/arches.png'); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,218,107,0.1)),  color-stop(100%,rgba(255,218,107,0.3))), url('/_images/arches.png'); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(255,218,107,0.1) 0%,rgba(255,218,107,0.3) 100%), url('/_images/arches.png'); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(255,218,107,0.1) 0%,rgba(255,218,107,0.3) 100%), url('/_images/arches.png'); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(255,218,107,0.1) 0%,rgba(255,218,107,0.3) 100%), url('/_images/arches.png'); /* IE10+ */
+background: linear-gradient(to right,  rgba(255,218,107,0.1) 0%,rgba(255,218,107,0.3) 100%), url('/_images/arches.png'); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffda6b', endColorstr='#80ffda6b',GradientType=1 ); /* IE6-9 */
+background-repeat:  repeat, repeat
+}
+
+
+.footer {
+	width: 100%;
+	color: #35335e;
+	height: 30px;
+  text-align: right;
+  font-size: 0.8em;
+
+}
+
+
+.exhibition {
+	width:60%;
+	display: inline-block;
+	vertical-align: top;
+  padding:10px 0;
+}
+
+body.exhibitions .list {
+  display: table;
+  margin-left:40%;
+}
+
+.exhibition-artists {
+width:39%;
+display: inline-block;
+padding: 15px 0;
+}
+
+.section1, .section2{
+	width: auto;
+	margin-left:350px;
+}
