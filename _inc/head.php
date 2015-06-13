@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" type="text/css" href="/_inc/normalize.css" />
 <link rel="stylesheet" type="text/css" href="/_inc/styles.css"/>
+
 <?php if(isset($css)) {
     echo $css;
 }
@@ -13,6 +14,7 @@
 <link rel="stylesheet" type="text/css" href="/_inc/stylesie.css"/>
 <![endif]-->
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+
 <?php if(isset($scripts)) {
     echo $scripts;
 }

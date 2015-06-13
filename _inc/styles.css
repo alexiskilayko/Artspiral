@@ -835,10 +835,6 @@ z-index: 1;
 .content-wrapper {max-width: 1200px;}
 .content-wrapper-narrow {max-width: 1000px;}
 
-.june42 .content-wrapper, .june45 .content-wrapper  {
-  position:absolute;
-}
-
 div.list-columns + h2 {margin-top: 2.5em;}
 
 .emphasis {font-size: 1.2em;}

@@ -206,7 +206,7 @@ body{
 
 /**CONTENT ORGANIZATION**/
 
-
+/**For some reason, relative or static positioning breaks the timeline**/
 .june42 .content-wrapper, .june45 .content-wrapper  {
   position:absolute;
 }
