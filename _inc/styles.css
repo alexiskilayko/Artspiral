@@ -80,6 +80,14 @@ ul {
 
 img {max-width: 100%;}
 
+hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #606483; /* old IE */
+  background-color: #606483; /* Modern Browsers */
+}
+
 /**LINK STYLING**/
 a {
   text-decoration:none;
@@ -251,7 +259,7 @@ form {text-align: center;}
 
   .accordion-content {
     display: none;
-    margin: 0 1em;
+    margin: 0 0.5em;
   }
     .accordion-content.default {display: block;}
 
@@ -662,6 +670,10 @@ display:none;
 .grid-item img{
     width: 150px;
 }
+.accordion-content {
+  margin: 0 1em;
+}
+
 }
 
 

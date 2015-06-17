@@ -1,5 +1,8 @@
 <?php
 $title = 'Uncle Ng';
+$css = '<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">';
+$scripts = '<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>';
+
 
 include '_inc/head.php';
 
@@ -59,12 +62,14 @@ include '_inc/head.php';
 			<p>The rhythms and texts of Muk-yu songs are intimately descriptive of Tai San people's experiences and sensibility. Chinese Americans from this area can recall as they listen to songs both delicate and strong, an era of calm enjoyments and pleasing pastimes. The sorrows they experienced also find expression, as in "Embroidery Song" for an example. Uncle Ng's Muk-yu singing reflects a part of the American historical experience and the meaning of being Chinese in America.	</p>
 			<p>The Arts Centre produced a video documentary on Uncle Ng in 1990 entitled, "Singing to Remember" which traveled to many video festivals. In 1992 he was named a recipient of the prestigious National Heritage Fellowship, and became the first Chinese American to receive such an award. Uncle Ng, along with twelve other master practitioners of a traditional art or craft, was recognized for making "valuable artistic contributions both to their local communities and the country as a whole. They give vivid testimony to the creative genius of the many peoples who compose our nation." During a US Congressional reception, he met then President Bush and later at a gala public performance of about 700 Washington bureaucrats, in response to a love song and his "Award Acceptance Song," he received remarkable enthusiasm and what can only be considered a standing ovation. At 82 years of age he was still a performer who could capture his audience with his simplicity, directness and charm.</p>
 			</div>
+			<hr />
 			<h6 class="accordion-toggle">"Muk'yu: Voice of the People" by Bell Yung</h6>
 			<div class="accordion-content">
 			<p>A large and important catagory of (Chinese) music is called quyi, literally "song-art," which is also referred to as shuochang, literally "speaking-singing." Often translated in English as Narrative Songs, the quyi consists of songs which tell stories in poetic verse, often half-sung and half-spoken in performance, and for centuries served two major social functions: as popular entertainment in the pre-technological age and as a form of mass education. Until this century, the vast majority of the Chinese people were illiterate or semi-literate; quyi offers them a view of the wider world, and plays a major role in giving the Chinese people a shared sense of history, myths, and mores to forge a cultural identity.</p>
 			<p>One distinctive feature -- muk'yu songs are generally sung by ordinary people for their self-enjoyment: men and women, at work or at leisure, singing mainly to and for himself or herself. These songs are enjoyed for their own sake, and may be truly called grassroot voices of the people... </p>
 			<p>Uncle Ng comes from the county of Toisan, which has a long history of sending young men to work in North America--the Gold Mountain. Naturally there developed a repertory of muk'yu songs with that subject matter. In poetic text and simple tunes, they express the anxiety, longing, and hardship of both the sojourners and their family back in China. In particular, "Story of Gold Mountain" ... In vivid details, ... is a valuable record of the trials and tribulations of several generations of overseas Chinese laborers in the United States... </p>
 			</div>
+			<hr />
 			<h6 class="accordion-toggle">"History as Reflected in Song" by Betty Lee Sung</h6>
 			<div class="accordion-content">
 			<p>For the early Chinese immigrants who came to America to open up and develop a new nation, life was more than rough. It was downright brutal. Many of them emigrated out of poverty. They had been farmers, but the land could no longer feed them or their families. Some bound themselves into eight years of indentured servitude simply to gain passage to America.</p>
@@ -84,9 +89,10 @@ include '_inc/head.php';
     $('#accordion').find('.accordion-toggle').click(function(){
       //Expand or collapse this panel
       $(this).next().slideToggle();
-      //Hide the other panels
+      //Hide the other panels if width is large enough
+      if ($('.accordion-toggle').width() > 600){
       $(".accordion-content").not($(this).next()).slideUp();
-
+      }
     });
   });
 </script>
