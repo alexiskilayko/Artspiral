@@ -15,12 +15,12 @@ include '_inc/head.php';
 	</div>
 	<div class="content-wrapper">
 		<h2>June 4 1989 Art Exhibition</h2>
-			<p class="emphasis animated fadeIn">
+			<blockquote class="emphasis animated fadeIn">
 			&ldquo; Tiananmen Square... is an issue that has affected everyone. The spectacle of human courage, the nature of freedom, the crushing of life and its ideals, the issue of human rights, of censorship and its revival, these issues cannot be met with silence, with political and economic expediency. An acute awareness of unviersal aspirations has been raised for people of every culture and political persuasion. The meaning and the drama of China is for all to see and respond. &rdquo;
-			</p>
-			<p class="attribution">
+			</blockquote>
+			<cite class="attribution">
 			- The Asian American Art Centre
-			</p>
+			</cite>
 			<div class="fotorama" data-maxwidth="100%" data-width="545" data-nav="thumbs" data-arrows="true" data-click="true">
 			<img src="/_images/defiance.jpg">
 			<img src="/_images/poster-flag.gif">
