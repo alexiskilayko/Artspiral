@@ -19,27 +19,24 @@ include '_inc/head.php';
 			<h6>Participating artists:</h6>
 			<div class="list-columns">
 			<ul>
-			<li>Arakawas</li>
-			<li>V. C. Igarta</li>
-			<li>Alan Kikuchi</li>
-			<li>Isamu Noguchi</li>
-			<li>Kunie Sugiura</li>
-			<li>Robert Yasuda</li>
-			<li>Chao Chung Hsiang</li>
-			<li>E’wao Kagoshima</li>
-			<li>Kim Won Sook</li>
-			<li>Helen Oji</li>
-			<li>Keung Szeto</li>
-			<li>Emily Cheng</li>
-			<li>On Kawasra</li>
-			<li>Hisako Kobayashi</li>
-			<li>Manuel Rodriguez</li>
-			<li>Paul Wong</li>
-			<li>Teh-Ching Hsieh</li>
-			<li>Kazuko</li>
-			<li>Moon Mi-ae</li>
-			<li>Toshio Sasaki</li>
-			<li>Tony Wong</li>
+			<li>Fong Chow</li>
+			<li>Ming Chip Fung</li>
+			<li>Arlan Huang</li>
+			<li>Kobi</li>
+			<li>Shigeko Kubota</li>
+			<li>Anna Kuo</li>
+			<li>Nina Kuo</li>
+			<li>Kwok Man Ho</li>
+			<li>Liao Shiou Ping</li>
+			<li>Li Lan</li>
+			<li>Liu Tian Wei</li>
+			<li>Kenji Nakahashi</li>
+			<li>Ce Roser</li>
+			<li>Henry Sugimoto</li>
+			<li>Chihung Yang</li>
+			<li>Charles Yuen</li>
+			<li>Zhang Hontu</li>
+			<li>Nam June Paik</li>
 			</ul>
 			</div>
 	</div>

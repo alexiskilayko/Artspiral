@@ -69,6 +69,7 @@ h6 {
   font-size: 0.9em;
   line-height: 2em;
   letter-spacing: 0.2em;
+  margin-top: 14px;
 }
 
 ul {
@@ -334,6 +335,11 @@ span.tag + h2{
 article {
   font-size: 0.85em;
   margin: auto 2em;
+}
+
+.article-images {
+  text-align: center;
+  font-size: 0.85em;
 }
 
 /***TIMELINE STYLES***/
@@ -881,6 +887,7 @@ div.list-columns + h2 {margin-top: 2.5em;}
   font-size: 1em;
 }
 
+
 /***TIMELINE STYLES***/
 .timeline::before {
   /* this is the vertical line */
@@ -1009,6 +1016,14 @@ body {
   width: 100%;
   height: 100%;
   max-height: 464px;
+}
+
+.article-images:nth-of-type(even) {
+  float: right;
+}
+
+.article-images:nth-of-type(odd) {
+  float: left;
 }
 
 }
