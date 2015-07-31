@@ -26,7 +26,7 @@ include '_inc/head.php';
 		<div class="timeline-block">
 			<div class="timeline-circle">	</div>
 			<div class="timeline-content">
-				<span class="date">22-94-1989</span>
+				<span class="date">22-04-1989</span>
 				<p>In spite of government plans made to cordon off the whole of Tiananmen Square, students are able to enter the square and mount their demonstrations and events before police have taken up their positions. In a sincere gesture, reminiscent of Qing practice, several students kneel on the steps of the Great Hall and beg Premier Li Peng to come out and talk to them. He declines.</p>
 				<p class="chinese">儘管政府採取措施封鎖天安門廣場，學生們仍然趕在警察之前進入廣場並立起抗議標誌。數位學生誠懇下跪，請李鵬總理出來講話。李鵬拒絕了。學生抗議規模擴大，超過警察，天安門廣場的氣氛更加緊張。</p>
 			</div> 

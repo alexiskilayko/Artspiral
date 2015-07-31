@@ -12,8 +12,9 @@ include '_inc/head.php';
 	<?php include '_inc/menu.php';?>
 	</div>
 	<div class="content-wrapper-narrow">
-		<span class="tag">1984 &ndash; 1985</span>
+		<span class="tag">1984 – 1985</span>
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
+			<p><span class="date">March 8 – April 5, 1985</span></p>
 			<p>Curated by Robert Lee</p>
 			<h6>Participating artists:</h6>
 			<div class="list-columns">
@@ -23,7 +24,9 @@ include '_inc/head.php';
 			<li>Ti Shan Hsu</li>
 			</ul>
 			</div>
+
 			<h2>Triangular Landscapes</h2>
+			<p><span class="date">April 12 – May 10, 1985</span></p>
 			<p>Curated by Robert Lee. Catalogue includes essays by Robert Lee.</p>
 			<h6>Participating scholars:</h6>
 			
@@ -34,6 +37,7 @@ include '_inc/head.php';
 			</ul>
 			</div>
 			<h2>Dreams and Fantasies</h2>
+			<p><span class="date">May 17 – June 14, 1985</span></p>
 			<p>Curated by Robert Lee. Catalogue includes essays by Barry Schwabsky and Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<div class="list-columns">
@@ -43,9 +47,10 @@ include '_inc/head.php';
 			<li>Paul Wong</li>
 			</ul>
 			</div>
-			<h2>The 1st Annual Open Studio Show – June 1985</h2>
+			<h2>The First Annual Open Studio Show</h2>
+			<p><span class="date">June 1985</span></p>
 			<p>Featured guided tours to ten artists studios in the Chinatown commnity, and a group show of works by eleven artists.</p>
-			<h6>Artists with Open Studios:</h6>
+			<h6>Open studio participants:</h6>
 			<div class="list-columns">
 			<ul>
 			<li>John Duff</li>
@@ -61,7 +66,7 @@ include '_inc/head.php';
 			<li>Tjokorda Gede</li>
 			</ul>
 			</div>
-			<h6>Artists with works at the AAAC:</h6>
+			<h6>Group show participants:</h6>
 			<div class="list-columns">
 			<ul>
 			<li>Amy Cheng</li>

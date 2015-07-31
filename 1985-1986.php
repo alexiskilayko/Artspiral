@@ -13,9 +13,63 @@ include '_inc/head.php';
 	</div>
 	<div class="content-wrapper-narrow">
 		<span class="tag">1985 &ndash; 1986</span>
-			<h2>The 2nd Annual Open Studio Show</h2>
-			<p>May 1986<br />
-			Featured guided tours to thirteen artists studios in the Chinatown commnity, and a group show of works by fifteen artists. </p>
+			<h2>Roots to Reality: A Collaboration</h2>
+			<p><span class="date">October 11 – Nov 24, 1985</span></p>
+			<p>A collaborative show between the Henry Street Settlement and the Alliance for Asian American Arts and Culture, of which the AAAC was a member. The show was held at the Henry Sterrt Settlement and featured a sixteen page catalogue with an introduction by Robert Lee</p>
+			<h6>Participating Artists:</h6> 
+			<div class="list-columns">
+			<ul>
+				<li>Yoshiki Araki</li>
+				<li>Mo Bahc</li>
+				<li>Santiago Bose</li>
+				<li>Yeou-Jui Cho</li>
+			</ul>
+			</div>
+
+			<h2>Ming Chip Fung: The Seal 1975-1985</h2>
+			<p><span class="date">January 9 – February 5 1986</span></p>
+			<p>Curated by Robert Lee, this show includes a catalogue pamphlet with essay by Wang Fangyu. The catalogue was later reprinted by the Han Art Gallery in Hong Kong years later.</p>
+			<div class="list-columns"></div>
+			
+			<h2>New Year’s Embroidery</h2>
+			<p><span class="date">February 7 – February 28, 1986</span></p>
+			<p>From the collection of folklorist in residence Prof. Chen. Held in conjunction with Asian American Dance Theatre’s D’Asia Vu performances of Kuang-Yu Fong, Yung Yung Tsuai, Music from China.</p>
+			<h6>Participating artists:</h6>
+			<div class="list-columns">
+			<ul>
+			<li>Y. J. Cho</li>
+			<li>Jerry Kwan</li>
+			<li>Ming Mur-Ray</li>
+			</ul>
+			</div>		
+
+			<h2>The City</h2>
+			<p><span class="date">March 7 – April 4, 1986</span></p>
+			<p>Curated by Robert Lee</p>
+			<h6>Participating artists:</h6>
+			<div class="list-columns">
+			<ul>
+			<li>Y. J. Cho</li>
+			<li>Jerry Kwan</li>
+			<li>Ming Mur-Ray</li>
+			</ul>
+			</div>
+
+			<h2>Orientalism</h2>
+			<p><span class="date">April 11 – May 9, 1986</span></p>
+			<p>Curated by Robert Lee. This show includes a catalogue with essays by Dominique Nahas, curator at the Everson Museum.</p>
+			<p>A panel discussion entitled “Orientalism – A Surrogate Heritage” was held on April 20. Panelists included Robert G. Lee of Brown University, Dominique Nahas, Peter Kwong of SUNY, Rockwell Chin and Charles Yuen.  </p>
+			<h6>Participating artists:</h6>
+			<div class="list-columns">
+			<ul>
+			<li>Margo Machida</li>
+			<li>Charles Yuen</li>
+			</ul>			
+			</div>
+
+			<h2>The Second Annual Open Studio Show</h2>
+			<p><span class="date">May 1986</span></p>
+			<p>Featured guided tours to thirteen artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
 			<h6>Open studios participants:</h6> 
 			<div class="list-columns">
 			<ul>
@@ -54,31 +108,10 @@ include '_inc/head.php';
 				<li>Chihung Yang</li>
 			</ul>			
 			</div>
-			<h2>Ming Chip Fung: The Seal 1975-1985</h2>
-			<p>Jan 9 - Feb 5 1986<br />
-			Curated by Robert Lee, this show includes a catalogue pamphlet with essay by Wang Fangyu (which was reprinted by Han Art Gallery in Hong Kong years later.)</p>
-			<div class="list-columns"></div>
-			<h2>The City</h2>
-			<p>Curated by Robert Lee</p>
-			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
-			<li>Y. J. Cho</li>
-			<li>Jerry Kwan</li>
-			<li>Ming Murray</li>
-			</ul>
-			</div>
-			<h2>Orientalism</h2>
-			<p>Curated by Robert Lee. This show includes a catalogue with essays by Robert Lee.</p>
-			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
-			<li>Margo Machida</li>
-			<li>Charles Yuen</li>
-			</ul>			
-			</div>
+
 			<h2>Fathers</h2>
-			<p>Catalogue includes essays by Fay Chaing.</p>
+			<p><span class="date">May 30 – June 25, 1986</span></p>
+			<p>Catalogue includes essays by Fay Chiang.</p>
 			<h6>Participating artists:</h6>
 			<div class="list-columns">
 			<ul>

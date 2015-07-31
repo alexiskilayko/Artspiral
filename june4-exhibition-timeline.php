@@ -21,6 +21,7 @@ include '_inc/head.php';
 				<div class="timeline-content">
 					<span class="date">June 1-10, 2014</span>
 					<p>25th Anniversary Exhibition at White Box to honor the 1989 student movement. <a href="https://www.flickr.com/photos/asianamericanartscentre/sets/72157645294053044/">View</a> pictures.</p>
+					<img src="/_images/recent.jpg" alt="Photograph of the doors installation from the June 4 Exhibition at Whitebox">
 				</div> 
 		</div>
 		<div class="timeline-block">
@@ -33,7 +34,7 @@ include '_inc/head.php';
 		<div class="timeline-block">
 			<div class="timeline-circle">	</div>
 			<div class="timeline-content">
-				<span class="date">Oct 14, 1994 to Nov 30, 1994</span>
+				<span class="date">October 14, 1994 to November 30, 1994</span>
 				<p>Buckham Gallery in Flint, Michigan</p>
 			</div> 
 		</div> 	
@@ -77,6 +78,7 @@ include '_inc/head.php';
 			<div class="timeline-content">
 				<span class="date">April 22 - June 17, 1990</span>
 				<p>PS1 Museum in New York</p>
+				<img src="/_images/PS1.jpg" alt="Photograph of the small works section from the June 4 Exhibition at PS1">
 			</div> 
 		</div> 	
 		<div class="timeline-block">
@@ -84,6 +86,7 @@ include '_inc/head.php';
 			<div class="timeline-content">
 				<span class="date">October 12 - November 12, 1989</span>
 				<p>Exhibition installed at Blum Helman Warehouse</p>
+				<img src="/_images/BlumHelman1.jpg" alt="Photograph of the doors installation from the June 4 Exhibition at PS1">
 			</div> 
 		</div> 	
 		<div class="timeline-block">
@@ -98,6 +101,7 @@ include '_inc/head.php';
 			<div class="timeline-content">
 				<span class="date">June 4, 1989 - June 29, 1990</span>
 				<p>"Witnesses: CHINA" at AAAC</p>
+				<img src="/_images/PS1.jpg" alt="Photograph from the first June 4 Exhibition at AAAC">
 			</div> 
 	</section> 		
 

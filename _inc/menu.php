@@ -6,7 +6,7 @@
 			<ul class="openpastprograms">
 			<li><a href='/june4.php'><span>June 4, 1989</span></a></li>
 			<li><a href='/uncle-ng.php'><span>Uncle Ng Comes to America</span></a></li>
-			<li><a href='#'><span>Artspiral Magazine</span></a></li>
+			<li><a href='/artspiral.php'><span>Artspiral Magazine</span></a></li>
 			<li><a href='/aadt.php'><span>Asian American Dance Theatre</span></a></li>
 			</ul>
 			</li>

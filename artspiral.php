@@ -13,8 +13,9 @@ include '_inc/head.php';
     <div class="content-wrapper-narrow">
         <h2>Artspiral Magazine Issue 1</h2>
             <p class="emphasis">Artspiral was ...</p>
-            <hr />        
-            <h6>“Negotiating Modernisms: Contemporary Asian Art and The West,” 1996 by Thomas McEvilley</h6>
+            <article>      
+            <h3 style="text-transform:none">Negotiating Modernisms: Contemporary Asian Art and The West</h3>
+            <h6>Thomas McEvilley, 1996</h6>
             <p>The exhibition Traditions/ Tensions: Contemporary Art from Asia, which was originated by the Asia Society and opened at three venues in New York City in October 1996, contains contemporary art from India, Indonesia, the Philippines, Thailand, and South Korea. The work is “contemporary” not only because it is being made today but also because it is self-consciously historicity in a framework that gives some account of its relationship to the West as well as to its own tradition. I have written elsewhere (Frieze, January 1997) about the exhibition’s structure and some of the artwork in it. Here I would like to mention briefly an important issue that has been in the air for some time but has not been openly discussed enough.</p>
             <p>In 1991 in this publication, Robert Lee conducted an interview with several young artists from a Chinese group called Star Star, which had been formed in 1979, partly in connection with the Democracy Movement. Around 1985, as Sui Kang Zhao, a member of Star Star, said, “The art movement really started... Things were happening so fast, trying to keep up meant breaking through yourself... ” In that year Li Xiaosan wrote an influential article called “The Death of Tradition” in which he argued that every artist should “experiment freely, abandon all strict technical norms and rigid aesthetic standards” in pursuit of a breakthrough into artistic renewal in China. These artists who had come of age after the Cultural Revolution were self-consciously involved with the project of connecting to Euro Modernism. As Wenda Gu, another member of Star Star, put it: “It was revolutionary, it was incredible. Almost 100 years of western modern art repeated itself in only five years in China. Expressionism, Surrealism, Dada, Performance Art, Action Art, everything, everything...”</p>
             <p>Modernism established itself in many countries, and that some of these, not having access to the center of the discourse, remained “marginalized modernism [s].”</p>
@@ -24,13 +25,17 @@ include '_inc/head.php';
             <p>As Carl Jung once remarked, you never solve your problems, you just outgrow them. In the long run the resolution may look like another detail in the chronology of Chinese contemporary art. A Chinese Dadaist of the 1970’s and 80’s, Huang Yong Ping, put a book titled History of Chinese Painting and a book titled History of Western Painting into a washing machine together. The pages disintegrating in the churning hot soapy water suggested a gradual melt-down of cultural boundaries and a cleansing away of traditional identity in both East and West.</p>
             <p>Huang felt that his idea was equally inspired by western Dadaism and Chinese Zen.</p>
             <p><i>Thomas McEvilley is an Art History professor at Rice University, a contributing editor for Artforum and a senior advisor for Trans. He also contributed to the catalogue accompanying Contemporary Art in Asia: Tradition/Tensions, and spoke at the symposium Fast Forward: The Contemporary Art Scene in Asia.</i></p>
-            <hr />
-            <h6>“Sleeping with the Enemy: New York Newsday’s Review of Ancestors,” 1995 by Joan Kee</h6>    
+            </article>
+            <article>
+            <h3 style="text-transform:none">Sleeping with the Enemy: New York Newsday’s Review of Ancestors</h3>
+            <h6>Joan Kee, 1996</h6>    
             <p>On Tuesday, May 2, New York Newsday published a review of the exhibition and its key figures, including Director Robert Lee and several participating artists. In it, multiracial artist Yolanda Skeete was quoted as remarking, “Bob Lee is saying, ‘You’re [Skeete] a half-breed, but we love you anyway.” The author, David Garrick also quoted Skeete as saying, “Never before have Chinese held their hands out to an African group like this,” despite the fact that the Ancestors show was a joint African American-Asian American effort. Skeete never made any of these comments. The editorial and management leadership of Newsday did meet with Asian American community leaders and agreed to “look into the matter.” However, neither they nor Garrick could later be reached for comment. This occurred a few months prior to the termination of Newsday’s Manhattan edition.</p>
             <p>While the prominent placement of the article on page 2 and phrases like “ancestral harmony” and “common roots” suggest a step towards the elimination of racism, Newsday’s article is a reminder that racism through words and generalizations still permeate even the supposedly liberal side of the mass media. However, instead of direct name-calling, writers like Gerrick opt to perpetuate racist sentiments by roundabout ways enabling them to escape accusations of racism. Since mass publications like Newsday reach a wide audience, these manifestations of racism can be disseminated over a large area and Newsday’s liberal reputation lend credibility to these racial slurs as acceptable and legitimate expressions. By allowing “half-breed” to infiltrate a major article, Newsday has endorsed racism, and betrayed the ideals of tolerance and harmony it feigns to purport.</p>
-            <p>To read the original Newsday article by David Garrick, <a href="/artspiral_magazine/issue_01/garrick.html">click here.</a></p> 
-            <hr>
-            <h6>“Ethnicity and Abstraction,” 1993 by Luis Camnitzer</h6>
+            <p>To read the original Newsday article by David Garrick, <a href="/artspiral_magazine/issue_01/garrick.html">click here.</a></p>
+            </article> 
+            <article>
+            <h3 style="text-transform:none">Ethnicity and Abstraction</h3>
+            <h6>Luis Camnitzer, 1993</h6>
             <figure class="article-images">
             <img src="/_images/muhn2.jpg" alt="B.G. Muhn, “Nine Chants,” acrylic on paper, 14 x 10 1/4”">
             <figcaption>B.G. Muhn, “Nine Chants,” acrylic on paper, 14 x 10 1/4”</figcaption>
@@ -83,6 +88,7 @@ include '_inc/head.php';
             <p>“the spiritual quest that its characters are engaged is not a metaphysical struggle for transcendence but a dogged search for a way to live in the here and now with valor and decency, with care for oneself and for others, and with as little self-delusion as possible."</p>
 
             <p>In some ways it is a nice way of rephrasing what Siqueiros said seventy years ago.    </p>
+            </article>
 
     </div>
 <div id="mm">
