@@ -13,6 +13,15 @@
 		<li class="has-sub"><a href='#' class="menuexhibitions"><span>Exhibitions&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-caret-down"></i></span></a>
 			<ul class="openexhibitions">
 			<li><a href='/exhibitions.php'><span>Exhibitions Overview</span></a></li>
+			<li><a href='/2013-2014.php'><span>2013 &ndash; 2014</span></a></li>
+			<li><a href='/2010-2011.php'><span>2010 &ndash; 2011</span></a></li>
+			<li><a href='/2009-2010.php'><span>2009 &ndash; 2010</span></a></li>
+			<li><a href='/2008-2009.php'><span>2008 &ndash; 2009</span></a></li>
+			<li><a href='/1991-1992.php'><span>1991 &ndash; 1992</span></a></li>
+			<li><a href='/1990-1991.php'><span>1990 &ndash; 1991</span></a></li>
+			<li><a href='/1989-1990.php'><span>1989 &ndash; 1990</span></a></li>
+			<li><a href='/1988-1989.php'><span>1988 &ndash; 1989</span></a></li>
+			<li><a href='/1987-1988.php'><span>1987 &ndash; 1988</span></a></li>
 			<li><a href='/1985-1986.php'><span>1985 &ndash; 1986</span></a></li>
 			<li><a href='/1984-1985.php'><span>1984 &ndash; 1985</span></a></li>
 			<li><a href='/1983-1984.php'><span>1983 &ndash; 1984</span></a></li>

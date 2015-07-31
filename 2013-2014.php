@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</div>
 	<div class="content-wrapper-narrow">
 		<span class="tag">2013 &ndash; 2014</span>
-			<h2>China: June 4, 198</h2>
+			<h2>China: June 4, 1989</h2>
 			<p><span class="date">June 1 – 10, 2014</span></p>
 			<p>The 25th Anniversary Exhibition in commemoration of the Tiananmen Square 1989 Student Movement was held at the Whitebox Art Center.  Curated by Robert Lee, the exhibition features works from artists that were part of the original 1989-90 exhibition. <a href="june4.php">Find out more about the exhibition.</a></p>
 			<p>A special screening of “Portraits of Loss and the Quest for Justice”, a documentary produced by Huan Rights in China with footage by the Tiananmen Mothers was held.</p>

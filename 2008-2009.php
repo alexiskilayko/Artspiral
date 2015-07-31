@@ -70,7 +70,7 @@ include '_inc/head.php';
 			</div>
 
 			<h2>ARTSLAM</h2>
-			<p><span class="date">December 13 – January 15, 2009</span></p>
+			<p><span class="date">July 3, 2009</span></p>
 			<p>ARTSLAM is part of a series of events allowing emerging artists the opportunity to present their work, as well as meet and network with established artists and critics/curators. </p>
 			<h6>Participating Artists:</h6> 
 			<div class="list-columns">
