@@ -17,6 +17,9 @@
 			<li><a href='/2010-2011.php'><span>2010 &ndash; 2011</span></a></li>
 			<li><a href='/2009-2010.php'><span>2009 &ndash; 2010</span></a></li>
 			<li><a href='/2008-2009.php'><span>2008 &ndash; 2009</span></a></li>
+			<li><a href='/2007-2008.php'><span>2007 &ndash; 2008</span></a></li>
+			<li><a href='/2006-2007.php'><span>2006 &ndash; 2007</span></a></li>
+			<li><a href='/2005-2006.php'><span>2005 &ndash; 2006</span></a></li>
 			<li><a href='/1991-1992.php'><span>1991 &ndash; 1992</span></a></li>
 			<li><a href='/1990-1991.php'><span>1990 &ndash; 1991</span></a></li>
 			<li><a href='/1989-1990.php'><span>1989 &ndash; 1990</span></a></li>

@@ -17,8 +17,7 @@ include '_inc/head.php';
 			<p><span class="date">August 14 – September 11, 2010</span></p>
 			<p>In collaboration with the Artists Alliance Inc., this exhibition was held at the Chuchifritos art gallery and featured artists from the AAAC digital archive.  </p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Sin-ying Ho</li>
 				<li>Nancy Hom</li>
 				<li>Eunjung Hwang</li>
@@ -28,26 +27,23 @@ include '_inc/head.php';
 				<li>Roger Shimomura</li>
 				<li>Charles Yuen</li>
 			</ul>
-			</div>
-
+			
 			<h2>ART SLAM 2010</h2>
 			<p><span class="date">October 14, 2010</span></p>
 			<p>ARTSLAM is part of a series of events allowing emerging artists the opportunity to present their work, as well as meet and network with established artists and critics/curators. </p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Jing Zhou</li>
 				<li>Vivian Oyarbide</li>
 				<li>Maia Cruz Palileo</li>
 			</ul>
-			</div>
+			
 
 			<h2>Infinite Mirror: Images of American Identity</h2>
 			<p><span class="date">January 25 – March 20, 2011</span></p>
 			<p>The Infinite Mirror exhibition, sponsored by Artrain in conjunction with Brandywine & in partnership with International Arts & Artists, began its exhibition tour at Syracuse University on Jan 25, 2011. Infinite Mirror explores America’s image of itself through 65 diverse works of paintings, prints, photographs and video by 40 different artists. Utilizing portraiture and figurative images, the exhibition tells the story of an array of triumphs, tragedies, relationships, and traditions that inform our notions of nationhood. The artwork is personal, reflective, and often autobiographical. The Curators include Blake Bradford, director of education at the Barnes Foundation, Philadelphia; Robert Lee, executive director of the Asian American Arts Centre, New York; and Benito Huerta, associate professor & director of the Gallery at the University of Texas at Arlington. </p>
 			<h6>Participating Asian American Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Tomie Arai</li>
 				<li>Sung Ho Choi</li>
 				<li>John Yoyogi Fortes</li>
@@ -60,21 +56,19 @@ include '_inc/head.php';
 				<li>Tara Sabharwal</li>
 				<li>Scott Tsuchitani</li>
 			</ul>
-			</div>
-
+			
 			<h2>Boom Box</h2>
 			<p><span class="date">March 16 – March 30, 2011</span></p>
 			<p>Curated by Eun Young Choi.</p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
+			
 				<li>Amy Chan</li>
 				<li>Ming Fay</li>
 				<li>Jung Hyang Kim</li>
 				<li>Hyungsub Shin</li>
 			</ul>
 			</div>
-	</div>
 	<div class="fade"></div>	
 	<div id="mm">
 	<?php include '_inc/menu.php'; ?>

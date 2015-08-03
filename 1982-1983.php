@@ -17,8 +17,7 @@ include '_inc/head.php';
 			<p>This was the first panel on the East Coast bringing together Asian American visual artists to discuss mutual concerns. A slideshow of 21 important artists was presented.</p>
 			<p>Panel Discussion: David Diao, Margo Machida, Lucy Lippard, Lydia Okumura, Kit Yin Snyder, John Woo, John Yau</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 			<li>Fong Chow</li>
 			<li>Ming Chip Fung</li>
 			<li>Arlan Huang</li>
@@ -38,7 +37,6 @@ include '_inc/head.php';
 			<li>Zhang Hontu</li>
 			<li>Nam June Paik</li>
 			</ul>
-			</div>
 	</div>
 <div class="fade"></div>	
 <div id="mm">

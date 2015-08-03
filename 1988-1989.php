@@ -17,8 +17,7 @@ include '_inc/head.php';
 			<p><span class="date">October 1988</span></p>
 			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
 			<h6>Open studios participants:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Lee Brozgold </li>
 				<li>Bruce Edelstein </li>
 				<li>John de Fazio </li>
@@ -26,10 +25,9 @@ include '_inc/head.php';
 				<li>Arleen Schloss </li>
 				<li>April Vollmer</li>
 			</ul>
-			</div>
+			
 			<h6>Gallery show participants:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>John Allen </li>
 				<li>Toyo Tsuchiya </li>
 				<li>Rashid Arshed </li>
@@ -41,50 +39,43 @@ include '_inc/head.php';
 				<li>Kazumi Matsumoto </li>
 				<li>Hilda Shen</li>
 			</ul>
-			</div>
-
+			
 			<h2>The 18 Levels of Hell</h2>
 			<p><span class="date">November 3 – 23, 1988</span></p>
 			<p>An installation by Epoxy Art Group. </p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Kang Lok Chung </li>
 				<li>Kwok </li>
 				<li>Andrew Culver </li>
 				<li>Bing Lee</li>
 				<li>Ming Fay</li>
 			</ul>
-			</div>
-
+			
 			<h2>Invented Selves: Images of Asian American Identity</h2>
 			<p><span class="date">December 1 – 21, 1988</span></p>
 			<p>Guest curator Margo Machida.</p>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Ken Chu</li>
 				<li>Susan Suzuki</li>
 				<li>David Chung</li>
 			</ul>
-			</div>
-			
+						
 			<h2>Two Emerging Artists</h2>
 			<p><span class="date">March 2 – 22, 1989</span></p>
 			<p>Guest curator John Yau.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Editha Mesina</li>
 				<li>Cal Lom</li>
 			</ul>
-			</div>		
+			
 
 			<h2>Uptown/DownTown</h2>
 			<p><span class="date">April 6 – May 12, 1989</span></p>
 			<p>An exhibition of Asian American Artists held at the City Gallery, NY Department of Cultural affairs and at the AAAC. Mary Schimdt Campell gave a talk to accompany the exhibition entitled “Welcoming”.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Toshio Sasaki </li>
 				<li>Martin Wong </li>
 				<li>Tony Wong </li>
@@ -97,14 +88,12 @@ include '_inc/head.php';
 				<li>Ik-Joong Kang </li>
 				<li>Zhang Hongtu</li>
 			</ul>
-			</div>
-
+			
 			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">June 9 - September 30, 198</span></p>
-			<p>Initial stage</p>
+			<p>Initial stage. <a href="june4-exhibition-timeline.php">View a complete timeline</a> of this exhibition.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Stephen J. Albair</li>
 				<li>John Allen</li>
 				<li>David Amdur</li>
@@ -163,7 +152,7 @@ include '_inc/head.php';
 				<li>K. K. Wong</li>
 				<li>Zhang Hongtu</li>
 			</ul>
-			</div>
+			
 	</div>
 	<div class="fade"></div>	
 	<div id="mm">

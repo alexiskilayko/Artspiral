@@ -16,8 +16,7 @@ include '_inc/head.php';
 			<h2>Annual Show</h2>
 			<p><span class="date">September – November, 1990</span></p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Lalitha Ananthanaman</li>
 				<li>Henry Cainglet</li>
 				<li>Ho-Yoon Choi</li>
@@ -35,42 +34,39 @@ include '_inc/head.php';
 				<li>Stanley Nishimura</li>
 				<li>Sui-Kang Zhao</li>
 			</ul>
-			</div>
+			
 
 			<h2>Focus on Artists from Hong Kong </h2>
 			<p><span class="date">November – December 1990</span></p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Choi Yan Chi</li>
 				<li>Terry Chen</li>
 				<li>Comyn Mo</li>
 				<li>Pia Ho</li>
 			</ul>
-			</div>
+			
 
 			<h2>Violence of Victory </h2>
 			<p><span class="date">April 18 – May 16, 1991</span></p>
 			<p>Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Vinod Dave</li>
 				<li>Dorothy Imagire</li>
 				<li>Leo Kwang</li>
 				<li>Vivian Mak</li>
 			</ul>
-			</div>
+			
 			
 			<h2>Okuhara Tetsuaki</h2>
 			<p><span class="date"> June 4 - June 24, 1990</span></p>
 			<p>A one person photography show.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Tetsu Okuhara</li>
 			</ul>
-			</div>		
+					
 	</div>
 	<div class="fade"></div>	
 	<div id="mm">

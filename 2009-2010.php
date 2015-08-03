@@ -22,27 +22,24 @@ include '_inc/head.php';
 			<p>This was the last exhibition held in the gallery at 26 Bowery, AAAC’s home for thirty-three years.</p>
 			<img src="/_images/oota.png" alt="Works from Tomie Arai, Albert Chong, John Yoyogi Fortes, Swati Khurana in the exhibition Out of the Archive">
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Tomie Arai</li>
 				<li>Albert Chong</li>
 				<li>John Yoyogi Fortes</li>
 				<li>Swati Khurana</li>
 			</ul>
-			</div>
+			
 
 			<h2>America’s Chinatown Voices</h2>
 			<p><span class="date">April 23 – May 9, 2010</span></p>
 			<p>This event included both an exhibition and a <a href="https://www.flickr.com/photos/asianamericanartscentre/collections/72157624006184156/">silent auction</a> of red panel artworks from the <a href="https://www.flickr.com/photos/asianamericanartscentre/sets/72157618119632906/">Summer 2009 Outdoor Exhibition</a> in Columbus Park where community members were invited to paint on panels. Three artists generously donated the panels to benefit the Asian American Art Centre.</p>
 			<img src="/_images/red_panels.png" alt="Three black on red panel paintings by Avani Patel and Natalie Pham">
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Nathalie Pham</li>
 				<li>Avani Patel</li>
 			</ul>
-			</div>
-
+			
 	</div>
 	<div class="fade"></div>	
 	<div id="mm">

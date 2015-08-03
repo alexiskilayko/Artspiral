@@ -238,19 +238,29 @@ form {text-align: center;}
 }
 
 
-.list > ul > li , .list-columns > ul > li {
+.list > ul > li{
   list-style-type: none;
-  text-indent: -5px;
 }
 
-  .list > ul > li::before , .list-columns > ul > li::before {
-    content: "- ";
+  .list > ul > li::before/*, .list-columns li::before*/ {
+    content: "-\00a0\00a0\00a0";
     position: relative;
-    left:-10px;
   }
+
+/*hanging indent on long lists*/
+.list ul {
+ margin-left: 0;
+ padding-left: 1em;
+ text-indent: -1em;
+}
 
 .list-columns {
   margin-bottom: 2em;
+  padding-left: 1em;
+}
+
+.list-columns li {
+  margin-left: 1em;
 }
 
 .google-maps {
@@ -701,7 +711,7 @@ display:none;
            column-gap: 30px;
 }
 
-div.list-columns + h2 {margin-top: 2.5em;}
+.list-columns + h2 {margin-top: 2.5em;}
 
 .grid-item img{
     width: 150px;

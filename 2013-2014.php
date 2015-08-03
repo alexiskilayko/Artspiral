@@ -18,8 +18,7 @@ include '_inc/head.php';
 			<p>The 25th Anniversary Exhibition in commemoration of the Tiananmen Square 1989 Student Movement was held at the Whitebox Art Center.  Curated by Robert Lee, the exhibition features works from artists that were part of the original 1989-90 exhibition. <a href="june4.php">Find out more about the exhibition.</a></p>
 			<p>A special screening of “Portraits of Loss and the Quest for Justice”, a documentary produced by Huan Rights in China with footage by the Tiananmen Mothers was held.</p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Vito Acconci</li>
 				<li>Grimanessa Amoros</li>
 				<li>Thomas Aprile</li>
@@ -49,7 +48,8 @@ include '_inc/head.php';
 				<li>Ik Joong Kang</li>
 				<li>Byron Kim</li>
 				<li>Anna Kuo</li>
-				<li>Leslie Lalehzar Anna Lascari</li>
+				<li>Leslie Lalehzar</li>
+				<li>Anna Lascari</li>
 				<li>Ian Laughlin</li>
 				<li>Bing Lee</li>
 				<li>Gerald Lee</li>
@@ -69,7 +69,7 @@ include '_inc/head.php';
 				<li>Sofia Zezmer</li>
 				<li>Zhang Hongtu</li>
 			</ul>
-			</div>
+			
 	</div>
 	<div class="fade"></div>	
 	<div id="mm">

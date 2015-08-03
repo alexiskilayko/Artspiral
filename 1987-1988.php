@@ -17,39 +17,34 @@ include '_inc/head.php';
 			<p><span class="date">September 1987</span></p>
 			<p>A mural installation of original rubbings. </p>
 			<h6>Participating Artists:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Sun Jingbo</li>
 			</ul>
-			</div>
+			
 
 			<h2>One Eye or Two</h2>
 			<p><span class="date">December 4, 1987 – January 6, 1988</span></p>
 			<p>Curated by Robert Lee.</p>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Tseng Kwong Chi </li>
 				<li>E'Wao Kagoshima </li>
 				<li>Bing Lee</li>
 			</ul>
-			</div>
-			
+						
 			<h2>From Cambodia to the Bronx</h2>
 			<p><span class="date">January – February 1988</span></p>
 			<p>An exhibit of photographs documenting the Cambodian refugee community in the Bronx. Curated by Robert Lee</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Leah Melnick</li>
 			</ul>
-			</div>		
+					
 
 			<h2>Yesterday: Reflections on Childhood</h2>
 			<p><span class="date">March – April, 1988</span></p>
 			<p>Catalogue essay by Kimiko Hahn.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Yoshiki Araki</li>
 				<li>Amy Cheng</li>
 				<li>Byron Kim</li>
@@ -65,15 +60,14 @@ include '_inc/head.php';
 				<li>Carrie Yamaoka</li>
 				<li>Chuck Yuen</li>
 			</ul>
-			</div>
+			
 
 
 			<h2>The Fourth Annual Open Studio Show</h2>
 			<p><span class="date">May 1986</span></p>
 			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by twelve artists. </p>
 			<h6>Open studios participants:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Kenneth Goldsmith</li>
 				<li>Oli Sihvonen</li>
 				<li>Stewart Wilson</li>
@@ -81,10 +75,9 @@ include '_inc/head.php';
 				<li>Marianne Van Lent </li>
 				<li>Tom Beverly</li>
 			</ul>
-			</div>
+			
 			<h6>Gallery show participants:</h6> 
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Yee Jan Bao</li>
 				<li>Hwa Kyung Chang</li>
 				<li>Kang Lok Chung </li>
@@ -97,14 +90,13 @@ include '_inc/head.php';
 				<li>Martin Wong </li>
 				<li>Zhang Hongtu</li>
 			</ul>	
-			</div>
+			
 
 			<h2>Public Art in Chinatown</h2>
 			<p><span class="date">May 20 – July, 1988</span></p>
 			<p>a selection of sculptures, models, drawing and site plans proposed for specific locations in the Downtown/Chinatown community. Curated by Robert Lee, with catalogue essay by John Yau.</p>
 			<h6>Participating artists:</h6>
-			<div class="list-columns">
-			<ul>
+			<ul class="list-columns">
 				<li>Mikyung Kim</li>
 				<li>Mo Bahc</li>
 				<li>Kazuko</li>
@@ -120,7 +112,7 @@ include '_inc/head.php';
 				<li>Ju Ming</li>
 				<li>Toshio Sasaki</li>
 			</ul>	
-			</div>
+			
 	</div>
 	<div class="fade"></div>	
 	<div id="mm">
