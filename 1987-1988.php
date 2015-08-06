@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">1987 &ndash; 1988</span>
 			<h2>Confucius Life Story</h2>
 			<p><span class="date">September 1987</span></p>

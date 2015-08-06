@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<h1>Support</h1>
 			<p>With the support of members like you, the Asian American Arts Centre will be able to continue to grow and expand, bringing you the ongoing synthesis of contemporary American and Asian art forms through our programming. Any amount is welcomed, and because the Asian American Arts Centre is a non-profit organization, <b>your donation is tax deductible.</b></p>
 

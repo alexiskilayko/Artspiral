@@ -12,7 +12,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/june4menu.php';?>
 	</div>
-<div class="content-wrapper-narrow">
+<div class="content-wrapper narrow">
 		<h2>Press Releases and Publications</h2>
 		<br />
 		<div class="list">

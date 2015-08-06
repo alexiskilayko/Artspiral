@@ -14,7 +14,7 @@
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="/_inc/stylesie.css"/>
 <![endif]-->
-<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
 
 <?php if(isset($scripts)) {
     echo $scripts;

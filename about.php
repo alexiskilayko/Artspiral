@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<h1>About Us</h1>
 			<p>The Asian American Arts Centre is a non-profit community arts organization that was founded in 1974 in New York to address the distinctive concerns of Asian Americans in the United States. The Arts Centre utilizes performances, exhibitions, and public education to present and interpret the ongoing synthesis of contemporary American and Asian art forms. Originally established as <a href="/aadt.php">The Asian American Dance Theatre</a> over forty years ago, the Art Centre’s programs have grown and contracted, touching upon dance performances, contemporary and folk art exhibitions, traditional crafts, and education.</p>
 

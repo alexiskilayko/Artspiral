@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">1983 &ndash; 1984</span>
 			<h2>In the Spirit of Dunhuang: Studies by Zhang Hongtu</h2>
 			<p><span class="date">March 16 – April 9, 1984</span></p>

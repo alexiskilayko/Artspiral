@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">2010 &ndash; 2011</span>
 			<h2>8 Artists: From the Archive</h2>
 			<p><span class="date">August 14 – September 11, 2010</span></p>

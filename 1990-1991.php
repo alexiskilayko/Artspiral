@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">1990 &ndash; 1991</span>
 			<h2>Annual Show</h2>
 			<p><span class="date">September – November, 1990</span></p>

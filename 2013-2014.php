@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">2013 &ndash; 2014</span>
 			<h2>China: June 4, 1989</h2>
 			<p><span class="date">June 1 – 10, 2014</span></p>

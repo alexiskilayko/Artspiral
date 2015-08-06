@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">2006 &ndash; 2007</span>
 			<h2>THREE WOMEN: Art and Spiritual Practice</h2>
 			<p><span class="date">September 22 – November 3, 2006</span></p>

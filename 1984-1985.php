@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">1984 – 1985</span>
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
 			<p><span class="date">March 8 – April 5, 1985</span></p>

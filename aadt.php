@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<h2>Asian American Dance Theatre</h2>
 		<p><img src="/_images/AADTs.jpg"></p>
 			<p>The Asian American Dance Theatre (AADT) was a unique dance company in New York, active from 1974-1993. Under the direction of Eleanor S. Yung, it was notable for combining two distinct repertoires: a traditional repertoire featuring folk and classical dances from all over Asia and a contemporary repertoire which evokes Asian forms and sensibilities. The AADT performed extensively in the U.S. enthralling audiences of all ages and nationalities. The company performed at the Riverside Dance Festival, Metropolitan Museum of Art, Lincoln Center, New York University, Statue of Liberty, Carver Community Cultural Centre in Texas, Mid-Fest in Ohio, Urban-Fest in North Carolina, and numerous other locales across the country. Ms Yung's contemporary choreography can still be seen on video at the Lincoln Center Library for the Performing Arts. The AADT, founded in 1974, to encompass its many Folk and Visual arts programming, became the AAAC after 1987. 

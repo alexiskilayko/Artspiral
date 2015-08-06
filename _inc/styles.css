@@ -39,10 +39,9 @@ c
 h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   margin: 0;
-  line-height: 1.6em;
-  font-weight:400;
   letter-spacing: 0.1em;
   color: #35335e;
+  font-weight: 400;
 }
 
 h1 {
@@ -95,22 +94,23 @@ a {
   text-decoration:none;
 }
 
-.content-wrapper a, .content-wrapper-narrow a{
+.content-wrapper a{
   color: #8a6ab3;
   font-weight: 700;
   text-decoration: none;
   position:relative;
   -webkit-transition:  0.5s color ease;
+     -moz-transition:  0.5s color ease;
        -o-transition:  0.5s color ease;
          transition:   0.5s color ease;
 
 }
 
-  .content-wrapper a:hover, .content-wrapper-narrow a:hover, .content-wrapper-narrow a:focus, .content-wrapper a:focus {
+  .content-wrapper a:hover, .content-wrapper a:focus {
     color: #35335e;
   }
 
-    .content-wrapper-narrow a::after, .content-wrapper a::after{
+     .content-wrapper a::after{
       content: "";
       transition:0.5s all ease;
       -webkit-backface-visibility:hidden;
@@ -123,11 +123,12 @@ a {
       left:50%;
       -webkit-transform:translateX(-50%);
          -moz-transform:translateX(-50%);
+          -ms-transform:translateX(-50%);
            -o-transform:translateX(-50%);
               transform:translateX(-50%);
     }
 
-      .content-wrapper-narrow a:hover::after, .content-wrapper a:hover::after{
+      .content-wrapper a:hover::after{
         width:100%;
       }
 
@@ -151,12 +152,13 @@ a {
 
 /**ACTIVE LINKS**/
 
-body.home .menuhome, body.archives .menuarchives, body.internships .menuinternships,  body.resources .menuresources, body.donate .menudonate, body.pastprograms .menupastprograms, body.exhibitions .menuexhibitions, body.about .menuabout{
+.home .menuhome, .archives .menuarchives, .internships .menuinternships, .resources .menuresources, .donate .menudonate, .pastprograms .menupastprograms, .exhibitions .menuexhibitions, .about .menuabout{
+  background: #8a6ab3;
   background: rgba(138,106,179,.7);
 }
 
-body.exhibitions #menu ul ul.openexhibitions, body.pastprograms #menu ul ul.openpastprograms  {
-  display: block; 
+.exhibitions #menu .openexhibitions, .pastprograms #menu .openpastprograms  {
+  display: block;  
 }
 
 .june41 .menujune41, .june42 .menujune42, .june43 .menujune43, .june44 .menujune44, .june45 .menujune45{
@@ -197,12 +199,8 @@ form {text-align: center;}
       outline: none;
       -webkit-box-shadow: none;
               box-shadow: none;
-      padding-bottom: 0px;
+      padding-bottom: 0;
     }
-
-.button-group {
-  text-align: center;
-}
 
 .button {
   padding: 0 10px;
@@ -230,13 +228,16 @@ form {text-align: center;}
             box-shadow: inset 0 -2px #d66c00;
   }
 
+.filter-button-group {
+  text-align: center;
+} 
+
 
 /***CONTENT ORGANIZATION STYLES***/
-.content-wrapper, .content-wrapper-narrow {
+.content-wrapper{
   width: 100%;
   padding: 0 20px;
 }
-
 
 .list > ul > li{
   list-style-type: none;
@@ -282,15 +283,12 @@ form {text-align: center;}
   text-align: justify;
 }
 
-
 .emphasis{
   font-size: 1.1em;
   line-height: 1.5em;
   font-style: italic;
   color: #35335e;
-  margin-left: 0;
-  margin-right: 0;
-  margin-bottom: 0;}
+}
 
 .right-align {
   margin: 2em 0;
@@ -302,11 +300,10 @@ form {text-align: center;}
   max-width: 350px;
 }
 
-.tag{
+.tag {
   background: #35335e;
   color: #fff;
   padding: 6px 5px 4px 5px;
-  margin-bottom: 2em;
   line-height: 3em;
   letter-spacing: 0.1em;
   border-radius: 4px;
@@ -339,7 +336,6 @@ span.tag + h2{
 }
 
 .isotope-grid {
-  text-align: center;
   margin-left: 10px;
 }
 
@@ -351,7 +347,7 @@ article {
   margin-top: 4em;
 }
 
-.article-images {
+.inline-images {
   text-align: center;
   font-size: 0.85em;
 }
@@ -366,7 +362,7 @@ article {
   clear: both;
 }
 
-body.exhibitions .content-wrapper-narrow img {
+body.exhibitions .content-wrapper img {
   display: block;
   margin: 1.5em auto;
 }
@@ -378,7 +374,7 @@ body.exhibitions .content-wrapper-narrow img {
   margin-top: 2em;
 }
 
-    .timeline::after, {
+    .timeline::after {
       content: '';
       display: table;
       clear: both;
@@ -468,10 +464,6 @@ header {
     height: 8px;
     background: rgba(53,51,94, 0.5);
   }
-
-.info {
-display:none;
-}
 
 .logo {
 	width:100%;
@@ -609,7 +601,7 @@ display:none;
 	overflow-x:hidden;
   margin-top:20px;
 }
-  #mm ul {
+  #mm ul, #menu ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -617,7 +609,7 @@ display:none;
     text-align: center;
   }
 
-    #mm li {
+    #mm li,  #menu li  {
       position: relative;
       margin: 0;
       padding: 0;
@@ -626,7 +618,7 @@ display:none;
       line-height: 3em;
     }
 
-      #mm a {
+      #mm a, #menu a {
         text-decoration: none;
         cursor: pointer;
         color:#35335e;
@@ -639,7 +631,7 @@ display:none;
         position: relative;
       }
 
-        #mm a:hover {
+        #mm a:hover, #menu a:hover  {
         	background-color: rgba(138,106,179,0.7);
          	-webkit-transition: all 0.25s ease-in;
         	   -moz-transition: all 0.25s ease-in;
@@ -648,9 +640,9 @@ display:none;
         	        transition: all 0.25s ease-in;;
         }
 
-      #mm ul ul {display: none;}
+      #mm ul ul, #menu ul ul  {display: none;}
 
-        #mm ul ul li a {
+        #mm ul ul li a, #menu ul ul li a  {
           display: block;
           position: relative;
           color:#35335e;
@@ -696,7 +688,7 @@ display:none;
 	font-size: 1.6em;
 }
 
-.content-wrapper, .content-wrapper-narrow {
+.content-wrapper {
   padding: 0 40px;
   max-width: 650px;
   margin: 0 auto;
@@ -812,19 +804,11 @@ z-index: 1;
   }
 
   #menu ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: block;
-    text-align: right;
+    text-align:right;
     width: 350px;
   }
 
     #menu li {
-      position: relative;
-      margin: 0;
-      padding: 0;
-      text-transform: uppercase;
       font-size: 1.1em;
       line-height: 3em;
       letter-spacing: 0.05em;
@@ -832,29 +816,10 @@ z-index: 1;
     }
 
       #menu a {
-        text-decoration: none;
-        cursor: pointer;
-        color:#35335e;
         padding-right: 50px;
-        display: block;
-        -webkit-transition: all 0.25s ease-in;
-           -moz-transition: all 0.25s ease-in;
-            -ms-transition: all 0.25s ease-in;
-             -o-transition: all 0.25s ease-in;
-                transition: all 0.25s ease-in;
-        position: relative;
       }
 
-        #menu a:hover {
-           	background-color: rgba(138,106,179,0.7);
-           	-webkit-transition: all 0.25s ease-in;
-          	   -moz-transition: all 0.25s ease-in;
-         	      -ms-transition: all 0.25s ease-in;
-          	     -o-transition: all 0.25s ease-in;
-          	        transition: all 0.25s ease-in;;
-        }
-
-          #menu a:hover span {
+           #menu a:hover span {
             display:block;
             transform: translateX(5px);
             -webkit-transition: all 0.25s ease-in;
@@ -864,19 +829,8 @@ z-index: 1;
                     transition: all 0.25s ease-in;;
           }
 
-      #menu ul ul {display: none;}
-
-        #menu ul ul li a {
-          display: block;
-          position: relative;
-          font-size: 0.7em;
-          color:#35335e;
-          background: rgba(255,255,255,0.4);
-          -webkit-transition: all 0.25s ease-in;
-             -moz-transition: all 0.25s ease-in;
-              -ms-transition: all 0.25s ease-in;
-               -o-transition: all 0.25s ease-in;
-                  transition: all 0.25s ease-in;
+      #menu ul ul li a {
+        font-size: 0.7em;
         }
 
 
@@ -884,7 +838,7 @@ z-index: 1;
 
 .page-wrapper {margin: 0 auto -30px;}
 
-.content-wrapper, .content-wrapper-narrow {
+.content-wrapper {
   position:relative;
   margin-left:350px;
   width: auto;
@@ -893,7 +847,7 @@ z-index: 1;
 }
 
 .content-wrapper {max-width: 1200px;}
-.content-wrapper-narrow {max-width: 1000px;}
+.narrow {max-width: 1000px;}
 
 .emphasis {font-size: 1.2em;}
 
@@ -911,14 +865,13 @@ z-index: 1;
   margin: 0 2em;
 }
 
-.isotope-grid {
+.isotope-grid, .filter-button-group  {
   margin-left: 360px;
 }
 
 .button {
   font-size: 1em;
 }
-
 
 /***TIMELINE STYLES***/
 .timeline::before {
@@ -1005,7 +958,7 @@ body {
   width: auto;
 }
 
-.content-wrapper, .content-wrapper-narrow {
+.content-wrapper {
   padding: 10px 80px ;
 }
 

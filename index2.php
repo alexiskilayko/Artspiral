@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<p class="emphasis">The Asian American Arts Centre was founded in 1974 in New York City to address the distinctive concerns of Asian Americans in the United States.</p>
 		<p>Our mission is to promote the preservation and creative vitality of Asian American cultural growth through the arts, and its historical and aesthetic linkage to other communities. The Arts Centre accomplishes this by presenting and interpreting the ongoing synthesis of contemporary American and Asian art forms, utilizing performance, exhibition, and public education. </p>
 		<p>This website primarily serves as a record for our past programs and exhibitions, to keep up with us follow us on <a href="https://www.flickr.com/photos/asianamericanartscentre/">Flickr</a>, <a href="https://www.facebook.com/AsianAmericanArtsCentre">Facebook</a> or <a href="http://artspiral.blogspot.com/">our blog</a>.</p>

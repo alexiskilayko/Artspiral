@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">1991 &ndash; 1992</span>
 			<h2>Annual Show: From “Star Star” to Avant Garde</h2>
 			<p><span class="date">October 17 – November 14th</span>: Part one</p>

@@ -10,7 +10,7 @@ include '_inc/head.php';
     <div id="menu">
     <?php include '_inc/menu.php';?>
     </div>
-    <div class="content-wrapper-narrow">
+    <div class="content-wrapper narrow">
         <h2>Artspiral Magazine Issue 1</h2>
             <p class="emphasis">Artspiral was ...</p>
             <article>      
@@ -36,7 +36,7 @@ include '_inc/head.php';
             <article>
             <h3 style="text-transform:none">Ethnicity and Abstraction</h3>
             <h6>Luis Camnitzer, 1993</h6>
-            <figure class="article-images">
+            <figure class="inline-images">
             <img src="/_images/muhn2.jpg" alt="B.G. Muhn, “Nine Chants,” acrylic on paper, 14 x 10 1/4”">
             <figcaption>B.G. Muhn, “Nine Chants,” acrylic on paper, 14 x 10 1/4”</figcaption>
             </figure>
@@ -45,7 +45,7 @@ include '_inc/head.php';
             <p>Abstraction in this century started as utopian, as an eliminator of visual chaos, as a potentially unifying language to transcend the narrow boundaries of provincialism not unlike the claim of mathematics. It came from the same substratum which, fertilized by a “universal ethic,” had led Zamenhof to invent Esperanto towards the end of the nineteenth century. This view, couple with a more specific notion that ethnic awareness is parochial, cemented the prejudice about abstraction being an improper tool for sponsoring issues of identity.</p>
 
             <p>In defining its own aesthetic enemies, abstractionism went... about to refine its own definition. More than figuration, the target became realism, a term that was politically expedient to lump together the works both Nazi Germany and Stalinist Soviet Union. Thus in the mainstream abstraction stopped being utopian to become an expression of democracy. It grew into an ideology dressed in art, wearing a kind of a uniform which allowed quick recognition without the effort of scholarship. Never mind that the paintings personally made by Hitler, Churchill and Eisenhower all came from the same aesthetic (wrong) corner and never mind all the conundrums posed by Italian fascism. Realism equaled totalitarianism (a cold war term in itself) and abstraction embodied the Western version of freedom to such a degree that it became a USIS tool of propaganda.</p>
-            <figure class="article-images">
+            <figure class="inline-images">
             <img src="/_images/KHY.jpg" alt="Hae Yuon Kim, “Home,” 1994, tempera on paper, 40 x 26”">
             <figcaption>Hae Yuon Kim, “Home,” 1994, tempera on paper, 40 x 26”</figcaption>
             </figure>    

@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">2008 &ndash; 2009</span>
 			<h2>Metro Poles in China Town</h2>
 			<p><span class="date">October 2008 – January 2009</span></p>

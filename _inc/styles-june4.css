@@ -149,16 +149,16 @@ form {text-align: center;}
 #mm {
   background-color: #D33E43;
 }
-      #mm a {
+      #mm a, #menu a  {
         color:#fff;
         text-shadow: 1px 1px 1px #333; 
         }
 
-        #mm a:hover {
+        #mm a:hover, #menu a:hover {
           background-color: #D33E43;
         }
 
-        #mm ul ul li a {
+        #mm ul ul li a,  #menu ul ul li a {
           color:#fff;
           background: #D33E43;
 
@@ -194,20 +194,6 @@ body{
   top: 0;
   position: fixed;
 }
-      #menu a {
-        color: #fff;
-        text-shadow: 1px 1px 1px #333; 
-      }
-
-        #menu a:hover {
-            background-color: #D33E43;
-        }
-
-        #menu ul ul li a {
-          color:#fff;
-          background: #D33E43;
-        }
-
 
 /**CONTENT ORGANIZATION**/
 

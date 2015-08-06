@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<span class="tag">2007 &ndash; 2008</span>
 			<h2>Fibers: Fiero, Kotani & Kim</h2>
 			<p><span class="date">October 11 – December 7, 2007</span></p>

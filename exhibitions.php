@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<h1>Exhibitions Overview</h1>
 			<p>Located on the periphery of New York's Chinatown, the Arts Centre has contracted over a thousand artists over its forty-year history and has reached countless numbers of audiences through its exhibitions and live presentations.</p>
 			<p>Some of the highlights in the exhibition program included the year-long "CHINA: June 4, 1989" exhibition series with over 300 artists shown at PS1, Blum Helman Warehouse and other sites, of which 80 artists works later traveled to Cleveland, Texas, and Michigan, and 15 to Hong Kong, "The Mind's I Series" in 1986 on the issue of identity, "Public Art in Chinatown" in 1988 on new metaphors for a traditional community, "And He Was Looking for Asia" in 1992 on alternatives for the myth of Christopher Columbus, "Passion and Compassion: Five Artists Reflections on Buddhism" 1996, and "Three Generations: Towards a History of Asian American Art" in 1997.</p>

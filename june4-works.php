@@ -12,7 +12,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/june4menu.php';?>
 	</div>
-	<div class="button-group filter-button-group">
+	<div class="center filter-button-group">
 	  <button class="button is-checked" data-filter="*">All</button>
 	  <button class="button" data-filter=".small-works">Small Works</button>
 	  <button class="button" data-filter=".door">Doors</button>
@@ -119,11 +119,11 @@ include '_inc/head.php';
 <script src="/_inc/isotope.js">
 $(document).ready( function() {
   
-$('.isotope-grid').isotope({
+$('.content-wrapper').isotope({
     itemSelector: '.grid-item',
     layoutMode: 'masonry',
     masonry: {
-      columnWidth: 110
+      columnWidth: 110,
     },	
   });
 
@@ -132,7 +132,7 @@ $('.filter-button-group').on( 'click', 'button', function() {
   $container.isotope({ filter: filterValue });
 });
 
- $('.button-group').each( function( i, buttonGroup ) {
+ $('.filter-button-group').each( function( i, buttonGroup ) {
     var $buttonGroup = $( buttonGroup );
     $buttonGroup.on( 'click', 'button', function() {
       $buttonGroup.find('.is-checked').removeClass('is-checked');

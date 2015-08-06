@@ -11,7 +11,7 @@ include '_inc/head.php';
 	<div id="menu">
 	<?php include '_inc/menu.php';?>
 	</div>
-	<div class="content-wrapper-narrow">
+	<div class="content-wrapper narrow">
 		<h1>Archives</h1>
 			<p>The AAAC&#8217;s Artist Archive is one of the largest historical archives on Asian American art. The physical archive consists of about 1500 entries of artists&#8217; materials, including biographical materials, publications, statements, project plans, reviews, exhibition materials (press releases, fliers, etc.), catalogs, taped interviews, and samples of works in slides, photographs and/or digital files. The archive documents Asian American art over the last 60+ years, and in many cases, the relationship between the artist and the AAAC. The archive enables the development of AAAC exhibitions, and has been used by publishers, curators, art consultants, community organizations and global institutions.</p>
 			<p>Portions of the physical archive are available to the public on Asian American Arts Centre&#8217;s new digital archive website <a href="http://artasiamerica.org/">artasiamerica.org</a>. The digital archive is a work in progress, and we hope to continue adding many more artists in the future. The materials in the physical AAAC Artist Archive will be available for viewing by appointment and on a sliding scale fee depending on current conditions.</p>
