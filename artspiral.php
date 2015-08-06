@@ -12,7 +12,7 @@ include '_inc/head.php';
     </div>
     <div class="content-wrapper narrow">
         <h2>Artspiral Magazine Issue 1</h2>
-            <p class="emphasis">Artspiral was ...</p>
+            <p class="emphasis">Artspiral was a...</p>
             <article>      
             <h3 style="text-transform:none">Negotiating Modernisms: Contemporary Asian Art and The West</h3>
             <h6>Thomas McEvilley, 1996</h6>
