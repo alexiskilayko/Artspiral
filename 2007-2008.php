@@ -1,4 +1,4 @@
-<?php
+main<?php
 $title = '2007 &ndash; 2008';
 
 include '_inc/head.php';
@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="navigation" class="content-wrapper narrow">
 		<span class="tag">2007 &ndash; 2008</span>
 			<h2>Fibers: Fiero, Kotani & Kim</h2>
 			<p><span class="date">October 11 – December 7, 2007</span></p>
@@ -58,11 +58,11 @@ include '_inc/head.php';
 			</ul>
 			
 
-	</div>
+	</main>
 	<div class="fade"></div>	
-	<div id="mm">
+	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
-	</div>
+	</nav>
 </div>
 </body>
 </html>

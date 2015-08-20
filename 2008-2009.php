@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="main" class="content-wrapper narrow">
 		<span class="tag">2008 &ndash; 2009</span>
 			<h2>Metro Poles in China Town</h2>
 			<p><span class="date">October 2008 – January 2009</span></p>
@@ -76,11 +76,11 @@ include '_inc/head.php';
 				<li>Xiaoqing Ding</li>
 			</ul>
 			
-	</div>
+	</main>
 	<div class="fade"></div>	
-	<div id="mm">
+	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
-	</div>
+	</nav>
 </div>
 </body>
 </html>

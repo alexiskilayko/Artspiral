@@ -1,4 +1,4 @@
-<?php
+nav<?php
 $title = '1991 &ndash; 1992';
 
 include '_inc/head.php';
@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="main" class="content-wrapper narrow">
 		<span class="tag">1991 &ndash; 1992</span>
 			<h2>Annual Show: From “Star Star” to Avant Garde</h2>
 			<p><span class="date">October 17 – November 14th</span>: Part one</p>
@@ -52,11 +52,11 @@ include '_inc/head.php';
 				<li>Ik-Joong Kang</li>
 			</ul>
 				
-	</div>
+	</main>
 	<div class="fade"></div>	
-	<div id="mm">
+	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
-	</div>
+	</nav>
 </div>
 </body>
 </html>

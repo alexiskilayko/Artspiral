@@ -22,6 +22,9 @@
 ?>
 <script src="/_inc/menu.js"></script>
 <script src="/_inc/scroll.js"></script>
+<!--[if lt IE 9]>
+<script src="/_inc/html5shiv.min.js"></script>
+<![endif]-->
 <title>Asian American Arts Centre - <?php echo "$title";?></title>
 
 

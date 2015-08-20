@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav id="menu" role="navigation">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main class="content-wrapper narrow">
 		<span class="tag">1984 – 1985</span>
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
 			<p><span class="date">March 8 – April 5, 1985</span></p>
@@ -78,12 +78,12 @@ include '_inc/head.php';
 			<li>Chuck Yuen</li>
 			</ul>			
 			
-		</div>
+		</main>
 
 	<div class="fade"></div>		
-	<div id="mm">
-	<?php include '_inc/menu.php'; ?>
-	</div>
+	<nav role="navigation" id="mm">
+	<?php include '_inc/menu.php';?>
+	</nav>
 </div>
 </body>
 </html>

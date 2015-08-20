@@ -10,10 +10,10 @@ include '_inc/head.php';
 <body class="pastprograms june4 june41">
 <div class="page-wrapper">
 <a href="#mm"><div class="menu-anchor">MENU</div></a>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/june4menu.php';?>
-	</div>
-	<div class="content-wrapper">
+	</nav>
+	<main role="main" class="content-wrapper">
 		<h2>June 4 1989 Art Exhibition</h2>
 			<blockquote class="emphasis animated fadeIn">
 			&ldquo; Tiananmen Square... is an issue that has affected everyone. The spectacle of human courage, the nature of freedom, the crushing of life and its ideals, the issue of human rights, of censorship and its revival, these issues cannot be met with silence, with political and economic expediency. An acute awareness of unviersal aspirations has been raised for people of every culture and political persuasion. The meaning and the drama of China is for all to see and respond. &rdquo;
@@ -58,10 +58,10 @@ include '_inc/head.php';
 			</div>
 			</div>
 	<a href="/june4-exhibition-timeline.php"><div class="next-arrow"><i class="fa fa-arrow-right"></i></div></a>
-	</div>
-<div id="mm">
+	</main>
+<nav role="navigation" id="mm">
 	<?php include '_inc/june4menu.php';?>
-</div>
+</nav>
 </div>
 
 </body>

@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="about">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="main" class="content-wrapper narrow">
 		<h1>About Us</h1>
 			<p>The Asian American Arts Centre is a non-profit community arts organization that was founded in 1974 in New York to address the distinctive concerns of Asian Americans in the United States. The Arts Centre utilizes performances, exhibitions, and public education to present and interpret the ongoing synthesis of contemporary American and Asian art forms. Originally established as <a href="/aadt.php">The Asian American Dance Theatre</a> over forty years ago, the Art Centre’s programs have grown and contracted, touching upon dance performances, contemporary and folk art exhibitions, traditional crafts, and education.</p>
 
@@ -22,11 +22,11 @@ include '_inc/head.php';
 			<p>During four decades of activity and through to today, a picture of Asian American art continues to emerge from the Art Centre’s work; the roles of family, community, identity, tradition, folk sources, spirituality, the marketplace and politics of art and innovative personalities have all been essential in shaping the past and current cultural presence of Asians in the US in the 21st century.</p>
 
 			<p>If you would like to explore this ever-changing picture, from its past—which is carefully documented here—to its present, we invite you to take part, explore the story of a few artists, from them the larger story of Asian American art may emerge. You will may find that the lives of artists, in the context of history, shed light not only on the Asian American community but also on the United States as a whole. As a community organization, we walk a fine line between national and international concerns, born in the crucible of local strivings and seeking the next step towards a new world of cross-cultural understandings. International factors beyond its means, yet embedded in an ethnic community’s soul, may determine whether a new equanimity is established between its past and the contradictory forces pulling at its center —this is at the heart of our Asian American endeavor.</p>
-	</div>
+	</main>
 <div class="fade"></div>		
-<div id="mm">
+<nav role="navigation" id="mm">
 <?php include '_inc/menu.php';?>
-</div>
+</nav>
 </div>
 
 </body>

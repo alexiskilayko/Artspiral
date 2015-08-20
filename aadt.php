@@ -8,16 +8,18 @@ include '_inc/head.php';
 <body class="past-programs">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="main" class="content-wrapper narrow">
 		<h2>Asian American Dance Theatre</h2>
 		<p><img src="/_images/AADTs.jpg"></p>
-			<p>The Asian American Dance Theatre (AADT) was a unique dance company in New York, active from 1974-1993. Under the direction of Eleanor S. Yung, it was notable for combining two distinct repertoires: a traditional repertoire featuring folk and classical dances from all over Asia and a contemporary repertoire which evokes Asian forms and sensibilities. The AADT performed extensively in the U.S. enthralling audiences of all ages and nationalities. The company performed at the Riverside Dance Festival, Metropolitan Museum of Art, Lincoln Center, New York University, Statue of Liberty, Carver Community Cultural Centre in Texas, Mid-Fest in Ohio, Urban-Fest in North Carolina, and numerous other locales across the country. Ms Yung's contemporary choreography can still be seen on video at the Lincoln Center Library for the Performing Arts. The AADT, founded in 1974, to encompass its many Folk and Visual arts programming, became the AAAC after 1987. 
+			<section>
+            <p>The Asian American Dance Theatre (AADT) was a unique dance company in New York, active from 1974-1993. Under the direction of Eleanor S. Yung, it was notable for combining two distinct repertoires: a traditional repertoire featuring folk and classical dances from all over Asia and a contemporary repertoire which evokes Asian forms and sensibilities. The AADT performed extensively in the U.S. enthralling audiences of all ages and nationalities. The company performed at the Riverside Dance Festival, Metropolitan Museum of Art, Lincoln Center, New York University, Statue of Liberty, Carver Community Cultural Centre in Texas, Mid-Fest in Ohio, Urban-Fest in North Carolina, and numerous other locales across the country. Ms Yung's contemporary choreography can still be seen on video at the Lincoln Center Library for the Performing Arts. The AADT, founded in 1974, to encompass its many Folk and Visual arts programming, became the AAAC after 1987. 
 			<p>The Asian American Dance Theatre created and sustained a group of artists who helped identify, preserve and enhance many diverse dance styles that originated in the countries of Asia but that were showcased in communities that seek to understand their place in American culture.  These dancers not only enriched people's sense of their own heritage, they also opened up the understanding of movement and choreographic aesthetics for Americans and artists in general.</p>
 			<p>The Asian American Dance Theatre company was notable for its early development and pioneer promotion of contemporary Asian American dance, precursor to many new choreographers of east and west synthesis. Eleanor S. Yung's choreography has yet to be re-discovered: her annual New York Dance Season 1976-90, her cross-country performance tours begun in 1978, her D'Asia Vu choreographer showcase and performance series, and all the traditional and contemporary dancers whom she has helped support.
 			</p>
+            </section>
 			<article>
 			<h5>Statement by Eleanor Yung</h5>
 			<p>I founded the Asian American Dance Theatre (AADT) in 1974. There were very few, if any, Asian American public dance performances in New York City at that time. For that matter, there were hardly any traditional Asian dancers actively practicing their art. There was a general misconception and exoticization of traditional Asian dance in the eyes of the public, and very little opportunity for Asian American choreographers to create or showcase their works. </p>
@@ -51,10 +53,10 @@ include '_inc/head.php';
 			<p>While the dance component of the organization continued briefly into 1992, my tenure at the Asian American Dance Theatre as Artistic and Executive Director ended in 1990, and the organization became primarily a Visual Arts organization.</p>
 			</article>
 			
-	</div>
-<div id="mm">
+	</main>
+<nav role="navigation" id="mm">
 <?php include '_inc/menu.php';?>
-</div>
+</nav>
 </div>
 
 </body>

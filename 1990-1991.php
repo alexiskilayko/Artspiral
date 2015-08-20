@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main role="main" class="content-wrapper narrow">
 		<span class="tag">1990 &ndash; 1991</span>
 			<h2>Annual Show</h2>
 			<p><span class="date">September – November, 1990</span></p>
@@ -67,11 +67,11 @@ include '_inc/head.php';
 				<li>Tetsu Okuhara</li>
 			</ul>
 					
-	</div>
+	</main>
 	<div class="fade"></div>	
-	<div id="mm">
+	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
-	</div>
+	</nav>
 </div>
 </body>
 </html>

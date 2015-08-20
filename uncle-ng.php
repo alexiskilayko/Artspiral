@@ -11,10 +11,10 @@ include '_inc/head.php';
 <body class="pastprograms">
 <div class="page-wrapper">
 <?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper">
+	</nav>
+	<main class="content-wrapper">
 		<h2>Uncle Ng Comes to America 伍伯來金山</h2>
 		<p class="emphasis animated fadeIn">
 			The Asian American Arts Centre is proud to announce that the completed book "Uncle Ng Comes to America", co-edited by Bell Yung and Eleanor Yung, is now available on <a href="http://www.amazon.com/Uncle-Comes-America-Narrative-Immigration/dp/988152184X/ref=sr_1_1?ie=UTF8&qid=1386619361&sr=8-1&keywords=uncle+ng">Amazon.com</a>.
@@ -30,7 +30,7 @@ include '_inc/head.php';
 			<a href="/images/uncleng/Ngcafe-orig.jpg" data-caption="Uncle Ng at a caf&eacute; in SF."></a>
 			<a href="/images/uncleng/NgBok_SFsisterTeriSeto22-1-1-2.jpg" data-caption="In 1996, the San Francisco Chinese Cultural Foundation invited Uncle Ng to perform. There, he was honored at the Ng Family Association. Here, he is pictured with his sister, John Seto, the director of the Foundation, and Teri Chan,  the AAAC staffmember who accompanied him to SF."></a>
 			</div>
-			<div class="grid">
+			<section class="grid">
 			<div class="col-1-2">
 			<p>This multimedia publication on the narrative songs from southern China brings together audio recordings, documentary video, song texts and their English translation, and introductory essays. The songs, recorded in the early 1990s in New York City by the Asian American Arts Centre, were sung by Ng Sheung Chi, or Uncle Ng, of Toisan County (Taishan in Mandarin) in the Pearl River Delta. A farmer all his life but also a superb singer of a type of narrative folksong called muk’yu (“wooden fish”), Ng immigrated to New York in 1979 at the age of 69, and continued to sing his beloved muk'yu songs, on Chinatown street corners, in neighborhood parks, and in community centers.</p>
 			<p>   The original recordings and the video documentary, part of the Asian American Arts Centre's work to collect, document, and exhibit community arts, were meant to preserve Uncle Ng's artistry and captures precious moments of his singing and ruminations about life and music. As a result of the AAAC's video documentary featuring Uncle Ng in 1992, Uncle Ng became the first Chinese American to receive a National Heritage Fellowship. Today this current publication is a testimony to Uncle Ng not only as a singer of unheralded folk music in its pristine form, but also of the Asian American Arts Centre’s tenacity to its local cultural goals.</p>
@@ -38,7 +38,7 @@ include '_inc/head.php';
 			<div class="col-1-2 chinese">
 			<p>伍伯（伍尚熾）原籍廣東省台山縣錦被村，務農出 生，幼年即善唱木魚，在家鄉人人樂聽，個個愛 戴。他 69 歲時（1979年）移民紐約，閒居無事， 經常在唐人街的公園、街頭、老人院等處唱木魚娛 己娛人，為僑居紐約的眾多台山人帶來鄉音。紐約 市的亞美藝術中心熱衷於搜集、保存、推廣、和研 究美國亞裔居民的藝術，深感伍伯的木魚歌內容豐 富，音樂性強，除了有其獨特的民間文學和音樂價 值外，更見證了南中國珠江三角州的歷史、文化、 和社會。且伍伯演唱造詣精深，是中國民間藝術家 的佼佼者；但後繼無人，木魚歌因社會變遷而即將 成絕響。藝術中心遂於1989年開始把伍伯的木魚歌 全部錄音，更以他為主題拍攝電影記錄片一套，使 伍伯的音、容得以流傳於世。本書收集伍伯木魚歌 八首，包括早年華人在美國掘金的血淚故事“金山 論”，伍伯自作木魚歌“伍伯來金山”，和著名口傳 方言文學“第八才子書花箋記”中三章。書中附 有八首木魚歌的原錄音光碟和電影記錄片光碟，全 部漢語歌詞和英語翻譯，及三篇介紹木魚和伍伯的 英語文章。</p>
 			</div>
-			</div>
+			</section>
 			<p>The book is accompanied by a 1 hour CD of Chinese folk music sung by Uncle Ng. The CD includes the following songs & the complete accurate text of the lyrics in Chinese and English:</p>
 			<div class="list">
 			<ul>
@@ -53,6 +53,7 @@ include '_inc/head.php';
 				<li>"Award Acceptance Song, Washington D.C."</li>		
 			</ul>
 			</div>
+            <section>
 			<p>Three informative articles complete this CD package. Excerpt passages can be seen below.</p>
 			<div id="accordion">
 			<h6 class="accordion-toggle">"Introduction: Singing to Remember" by Robert Lee</h6>
@@ -77,11 +78,12 @@ include '_inc/head.php';
 			<p>At that time, the Chinese population was almost all male, a so-called bachelor's society. This meant no feminine companionship, no warmth of family, no children to ease the burden of a day's hard work... The Page Act of 1875, decreed that any woman with American citizenship would lose that citizenship if she married an alien. This deterred American women from marrying anyone Chinese,... Is it any wonder that those men who were literate composed verses that mirrored their experiences, pouring out their souls?! Some of the lines were carved on the walls of Angel Island, and others were set to song following the muk'yu pattern of syllables and rhyme.</p>
 			</div>
 			</div>
+            <section>
 
-	</div>
-<div id="mm">
+	</main>
+<nav role="navigation" id="mm">
 <?php include '_inc/menu.php';?>
-</div>
+</nav>
 </div>
 
 <script type="text/javascript">

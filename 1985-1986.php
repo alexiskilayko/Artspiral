@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav id="menu" role="navigation">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main class="content-wrapper narrow">
 		<span class="tag">1985 &ndash; 1986</span>
 			<h2>Roots to Reality: A Collaboration</h2>
 			<p><span class="date">October 11 – Nov 24, 1985</span></p>
@@ -125,11 +125,11 @@ include '_inc/head.php';
 				<li>Zarina</li>
 			</ul>		
 			</div>
-		</div>
+		</main>
 	<div class="fade"></div>	
-	<div id="mm">
+	<nav id="mm" role="navigation">
 	<?php include '_inc/menu.php'; ?>
-	</div>
+	</nav>
 </div>
 </body>
 </html>

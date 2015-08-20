@@ -10,7 +10,7 @@ include '_inc/head.php';
     <div id="menu">
     <?php include '_inc/menu.php';?>
     </div>
-    <div class="content-wrapper narrow">
+    <main class="content-wrapper narrow">
         <h2>Artspiral Magazine Issue 1</h2>
             <p class="emphasis">Artspiral was a...</p>
             <article>      
@@ -90,10 +90,10 @@ include '_inc/head.php';
             <p>In some ways it is a nice way of rephrasing what Siqueiros said seventy years ago.    </p>
             </article>
 
-    </div>
-<div id="mm">
+    </main>
+<nav role="navigation" id="mm">
 <?php include '_inc/menu.php';?>
-</div>
+</nav>
 </div>
 
 <script type="text/javascript">

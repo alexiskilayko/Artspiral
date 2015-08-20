@@ -8,10 +8,10 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<div id="menu">
+	<nav id="menu" role="menu">
 	<?php include '_inc/menu.php';?>
-	</div>
-	<div class="content-wrapper narrow">
+	</nav>
+	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1982 &ndash; 1983</span>
 			<h2>Eye To Eye</h2>
 			<p>This was the first panel on the East Coast bringing together Asian American visual artists to discuss mutual concerns. A slideshow of 21 important artists was presented.</p>
@@ -37,11 +37,11 @@ include '_inc/head.php';
 			<li>Zhang Hontu</li>
 			<li>Nam June Paik</li>
 			</ul>
-	</div>
+	</main>
 <div class="fade"></div>	
-<div id="mm">
+<nav id="mm" role="menu">
 <?php include '_inc/menu.php';?>
-</div>
+</nav>
 </div>
 
 </body>

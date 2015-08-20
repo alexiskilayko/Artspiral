@@ -25,26 +25,26 @@ a {
   text-decoration:none;
 }
 
-.content-wrapper a, .content-wrapper-narrow a{
+.content-wrapper p a, .content-wrapper li a{
   color: #991b1e;
   font-weight: 700;
   text-decoration: none;
   position:relative;
-  -webkit-transition:  0.5s color ease;
-       -o-transition:  0.5s color ease;
-         transition:   0.5s color ease;
+  -webkit-transition:  0.3s color ease;
+       -o-transition:  0.3s color ease;
+         transition:   0.3s color ease;
 
 }
 
-  .content-wrapper a:hover, .content-wrapper-narrow a:hover, .content-wrapper-narrow a:focus, .content-wrapper a:focus {
+  .content-wrapper p a:hover, .content-wrapper p a:focus, .content-wrapper li a:hover, .content-wrapper li a:focus {
     color: #D33E43;
   }
 
-    .content-wrapper-narrow a::after, .content-wrapper a::after{
+    .content-wrapper p a::after, .content-wrapper li a::after{
       background:#D33E43;
     }
 
-      .content-wrapper-narrow a:hover::after, .content-wrapper a:hover::after{
+       .content-wrapper p a:hover::after, .content-wrapper li a:hover::after{
         width:100%;
       }
 
@@ -109,7 +109,7 @@ form {text-align: center;}
     background: #f5f5f5;
     padding: 1em;
     border-radius:5px;
-    box-shadow: 0 3px 0 #df9fa1;
+    box-shadow: 0 3px 0 #E5D4D5;
   }
 
     .timeline-content:after {
@@ -144,6 +144,10 @@ form {text-align: center;}
     border-radius: 10px;
     z-index: 5;
   }
+
+.date {
+    color: #991b1e;
+}
 
 /***MOBILE MENU STYLES***/
 #mm {

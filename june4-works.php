@@ -9,9 +9,10 @@ include '_inc/head.php';
 <link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/>
 <div class="page-wrapper">
 	<a href="#mm"><div class="menu-anchor">MENU</div></a>	
-	<div id="menu">
+	<nav role="navigation" id="menu">
 	<?php include '_inc/june4menu.php';?>
-	</div>
+	</nav>
+    <main>
 	<div class="center filter-button-group">
 	  <button class="button is-checked" data-filter="*">All</button>
 	  <button class="button" data-filter=".small-works">Small Works</button>
@@ -108,12 +109,12 @@ include '_inc/head.php';
 		<a href="/past_exhibitions/june4/images_large/Tian_Work046_L.jpg" data-lightbox="works" class="grid-item other-works" rel="otherworks" title="Martin Wong"><IMG SRC="/past_exhibitions/june4/images_small2/Tian_Work046_S.jpg" ALT="other"></a>
 		<a href="/past_exhibitions/june4/images_large/Tian_Work050_L.jpg" data-lightbox="works" class="grid-item other-works" rel="otherworks" title="Last Banquet<BR>Hongtu Zhang<BR>60in x168in"><IMG SRC="/past_exhibitions/june4/images_small2/Tian_Work050_S.jpg" ALT="other"></a>
 		</div>
-
+    </main>
 	<a href="/june4-materials.php"><div class="next-arrow"><i class="fa fa-arrow-right"></i></div></a>
-	</div>
-<div id="mm">
-<?php include '_inc/june4menu.php';?>
 </div>
+<nav role="navigation" id="mm">
+<?php include '_inc/june4menu.php';?>
+</nav>
 
 
 <script src="/_inc/isotope.js">

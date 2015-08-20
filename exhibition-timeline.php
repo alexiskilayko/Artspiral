@@ -10,10 +10,10 @@ include '_inc/head.php';
 <link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/>
 <div class="page-wrapper">
 	<a href="#mm"><div class="menu-anchor">MENU</div></a>	
-	<nav role="navigation" id="menu">
+	<div id="menu">
 	<?php include '_inc/june4menu.php';?>
-	</nav>
-	<main role="main" class="content-wrapper">
+	</div>
+	<main class="content-wrapper">
 	<h2>Exhibition Timeline</h2>		
 	<section class="timeline">
 		<div class="timeline-block">
@@ -107,9 +107,9 @@ include '_inc/head.php';
 
 	<a href="/june4-works.php"><div class="next-arrow"><i class="fa fa-arrow-right"></i></div></a>
 	</main>
-		<nav role="navigation" id="mm">
+		<div id="mm">
 		<?php include '_inc/june4menu.php';?>
-		</nav>
+		</div>
 </div>
 
 </body>
