@@ -1,4 +1,4 @@
-main<?php
+<?php
 $title = '2007 &ndash; 2008';
 
 include '_inc/head.php';

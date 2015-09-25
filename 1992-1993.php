@@ -109,7 +109,7 @@ include '_inc/head.php';
 			</ul>
         
         
-            <h2>The AAAC Annual: My Eyes Blur Sometimes, at Beauty</h2>
+            <h2>My Eyes Blur Sometimes, at Beauty: AAAC Annual Exhibition</h2>
 			<p><span class="date">November 20 – December 30, 1992</span></p>
 			<h6>Participating Artists:</h6> 
 			<ul class="list-columns">

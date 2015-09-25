@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main role="main" class="content-wrapper narrow">
 		<span class="tag">1990 &ndash; 1991</span>
-			<h2>Annual Show</h2>
+			<h2>AAAC Annual Exhibition</h2>
 			<p><span class="date">September – November, 1990</span></p>
 			<h6>Participating Artists:</h6> 
 			<ul class="list-columns">
@@ -36,7 +36,7 @@ include '_inc/head.php';
 			</ul>
 			
 
-			<h2>Focus on Artists from Hong Kong </h2>
+			<h2>Focus on Artists from Hong Kong</h2>
 			<p><span class="date">November – December 1990</span></p>
 			<h6>Participating Artists:</h6> 
 			<ul class="list-columns">
@@ -47,7 +47,7 @@ include '_inc/head.php';
 			</ul>
 			
 
-			<h2>Violence of Victory </h2>
+			<h2>Violence of Victory</h2>
 			<p><span class="date">April 18 – May 16, 1991</span></p>
 			<p>Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>

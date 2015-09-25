@@ -29,7 +29,7 @@ include '_inc/head.php';
 			<p>Curated by Robert Lee. Catalogue includes essays by Robert Lee.</p>
 			<h6>Participating scholars:</h6>
 			
-			<div class="list-columns"><ul>
+			<ul class="list-columns">
 			<li>Young Hee Han</li>
 			<li>Akiko Mashima</li>
 			<li>Lydia Okumura</li>

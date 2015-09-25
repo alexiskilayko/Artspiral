@@ -7,7 +7,6 @@ include '_inc/head.php';
 ?>
 
 <body class="pastprograms june42">
-<link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/>
 <div class="page-wrapper">
 	<a href="#mm"><div class="menu-anchor">MENU</div></a>	
 	<nav role="navigation" id="menu">

@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main role="navigation" class="content-wrapper narrow">
 		<span class="tag">1988 &ndash; 1989</span>
-			<h2>The Fifth Annual Open Studio Show</h2>
+			<h2>The 5th Annual Open Studio Show</h2>
 			<p><span class="date">October 1988</span></p>
 			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
 			<h6>Open studios participants:</h6> 

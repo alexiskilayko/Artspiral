@@ -1,4 +1,4 @@
-nav<?php
+<?php
 $title = '2005 &ndash; 2006';
 
 include '_inc/head.php';
@@ -45,7 +45,7 @@ include '_inc/head.php';
 			</ul>
 
 			<h2>Nuo Masks</h2>
-			<p><span class="date">November 28, 2007 – March 10, 2006</span></p>
+			<p><span class="date">November 28, 2005 – March 10, 2006</span></p>
 			<p>The Nuo ritual has been practiced in China since primitive times over four thousand years ago. Ritual "Nuo" masks may be the only living art tradition linked historically to the Bronze Age of China. The origins of Nuo culture in Zhejiang province can be traced back to the Liangzhu culture of the Neolithic period. Nuo is a form of masked drama. Priests or specially trained shaman-dancers used masks to perform at ritual ceremonies to expell ghosts and evil spirits. Nuo is also a theatrical opera held at festival, aimed to establish ties and norms between heaven and earth, man and gods. Traditionally, following the solemn ritual, the Nuo opera was performed to entertain the spirits. According to Chinese folklore, a street parade of legendary generals and deities could best expel evil from the community.</p>
 			<ul class="list-columns">
 			</ul>

@@ -63,7 +63,7 @@ include '_inc/head.php';
 			</ul>			
 			
 
-			<h2>The Second Annual Open Studio Show</h2>
+			<h2>The 2nd Annual Open Studio Show</h2>
 			<p><span class="date">May 1986</span></p>
 			<p>Featured guided tours to thirteen artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
 			<h6>Open studios participants:</h6> 

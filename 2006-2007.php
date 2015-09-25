@@ -52,7 +52,7 @@ include '_inc/head.php';
 			<p>The organizer and researcher,  Ms. Chen Xiaorui, is a partner and Senior Designer of the China Architect Engineering and Consulting Company based in Beijing.</p>
 			<ul class="list-columns"></ul>
 
-			<h2>Mid Career: Bing Lee & Bovey Lee  </h2>
+			<h2>Mid Career: Bing Lee & Bovey Lee</h2>
 			<p><span class="date">March 30 – May 11, 2007</span></p>
 			<p>The eighth installment in the Mid Career series. Bing Lee’s pictographs are an ever-growing series of intuitively generated calligraphic entities, drawn with ink and/or graphite on squares of rice paper.  Lee mirrors the poetic, visual & logical basis of the Chinese written language, while the inspirations for his images or discipline stem from a wide variety of sources.  Lee sites a childhood interest in cartoons, Chinese Opera, urban media, Hong Kong street culture, and American popular culture that flooded Hong Kong. </p>
 			<p>Bovey Lee’s paintings and drawings depict floating and weightless objects, flying in transitional modes and planes, visual metaphors for her experiences of displacement and confusion as a recent immigrant. Since 1995, Bovey has used digital media to deconstruct and reconstruct her body into new landscapes. Bovey’s web-based work explores themes of emerging technology, de-humanization of the body and the moral issues surrounding the fabrication of multiple identities in cyberspace.   </p>

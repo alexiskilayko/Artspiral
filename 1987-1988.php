@@ -63,7 +63,7 @@ include '_inc/head.php';
 			
 
 
-			<h2>The Fourth Annual Open Studio Show</h2>
+			<h2>The 4th Annual Open Studio Show</h2>
 			<p><span class="date">May 1986</span></p>
 			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by twelve artists. </p>
 			<h6>Open studios participants:</h6> 
