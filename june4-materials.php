@@ -1,6 +1,8 @@
 <?php
 $title = 'June 4 Exhibition';
-$css = '<link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/>';
+$css = '<link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/><!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/_inc/stylesie-june4.css"/>
+<![endif]-->';
 include '_inc/head.php';
 
 ?>

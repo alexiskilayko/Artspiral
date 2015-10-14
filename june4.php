@@ -1,6 +1,8 @@
 <?php
 $title = 'June 4 Exhibition';
-$css = '<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/>';
+$css = '<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/><!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/_inc/stylesie-june4.css"/>
+<![endif]-->';
 $scripts = '<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>';
 
 include '_inc/head.php';

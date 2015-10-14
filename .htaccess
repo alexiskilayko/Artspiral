@@ -9,6 +9,7 @@ RewriteRule ^donate.html$ support.php [R=301,L]
 RewriteRule ^membership.html$ support.php [R=301,L] 
 RewriteRule ^archive.html$ archives.php [R=301,L] 
 RewriteRule ^internship.html$ internships.php [R=301,L] 
+RewriteRule ^index2.php$ index.php [R=301,L] 
 
 ErrorDocument 404 /404.php
 

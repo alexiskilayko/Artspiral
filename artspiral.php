@@ -12,7 +12,7 @@ include '_inc/head.php';
     </div>
     <main class="content-wrapper narrow">
         <h2>Artspiral Magazine Issue 1</h2>
-            <p class="emphasis">Artspiral was a...</p>
+            <p class="emphasis">Artspiral was a regular publication produced by the Asian American Art Centre, with seven issues in total. It followed the format of the catalogue for Public Art in Chinatown and was the beginning of our concern for the field of Asian American culture and the art groups that had sprung up seeking to serve their community full time. This then laid the seeds for what became the Asian American Art Alliance and its initial direction. </p>
             <article>      
             <h3 style="text-transform:none">Negotiating Modernisms: Contemporary Asian Art and The West</h3>
             <h6>Thomas McEvilley, 1996</h6>

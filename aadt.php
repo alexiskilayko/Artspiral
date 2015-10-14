@@ -28,7 +28,7 @@ include '_inc/head.php';
 			<blockquote class="emphasis">
 			“American modern and Chinese dance blend in many of her works into theatre that has the urgency of the first and the gestural delicacy of the second.” 
 			</blockquote>
-			<cite class="attribution">- <a href="http://www.nytimes.com/1984/04/08/arts/the-dance-silk-road-by-miss-yung.html">Jennifer Dunning</a></cite>
+			<cite class="attribution"><p>- <a href="http://www.nytimes.com/1984/04/08/arts/the-dance-silk-road-by-miss-yung.html">Jennifer Dunning</a></p></cite>
 			<blockquote class="emphasis">
 			“…Its awareness of cross cultural currents makes the Asian American Dance Theatre a fascinating company.” 
 			</blockquote>

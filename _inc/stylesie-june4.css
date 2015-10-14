@@ -1,0 +1,24 @@
+
+body{
+    background-image: url("/_images/background-red.png");
+    background-repeat: repeat-y;
+    background-position: -100px 0;
+}
+
+
+/***MENU STYLES***/
+#mm, .menu-anchor {
+  display: none;
+}
+
+#menu {
+  top: 0;
+  position: fixed;
+}
+
+/**CONTENT ORGANIZATION**/
+
+/**For some reason, relative or static positioning breaks the timeline**/
+.june42 .content-wrapper, .june45 .content-wrapper  {
+  position:absolute;
+}

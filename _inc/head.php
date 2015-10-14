@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" type="text/css" href="/_inc/normalize.css" />
 <link rel="stylesheet" type="text/css" href="/_inc/styles.css"/>
+<link rel="icon" type="image/png" href="/_images/AAACfavicon.png">
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="/_inc/stylesie.css"/>
 <![endif]-->

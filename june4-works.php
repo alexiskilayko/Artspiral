@@ -1,6 +1,8 @@
 <?php
 $title = 'June 4 Exhibition';
-$css = '<link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/><link rel="stylesheet" type="text/css" href="/_inc/fancybox.css"/>';
+$css = '<link rel="stylesheet" type="text/css" href="/_inc/styles-june4.css"/><!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/_inc/stylesie-june4.css"/>
+<![endif]--><link rel="stylesheet" type="text/css" href="/_inc/fancybox.css"/>';
 $scripts = '<script src="/_inc/isotope.js"></script><script src="/_inc/isotopesettings.js"></script><script type="text/javascript" src="/_inc/fancybox.js"></script><script type="text/javascript" src="/_inc/fancyboxsettings.js"></script>';
 include '_inc/head.php';
 ?>
