@@ -383,7 +383,7 @@ include '_inc/head.php';
 		</div>				
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
-				<a class="timeline-content" href="/1983-1984.php">
+				<a class="timeline-content" href="/1982-1983.php">
 					<span class="date">1982 – 1983</span>
 					<ul>
 						<li>Eye To Eye</li>
