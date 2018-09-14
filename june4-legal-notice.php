@@ -31,7 +31,7 @@ include '_inc/head.php';
       <br />
       <br />212 233 2154
       <br />aaacinfo@artspiral.org
-      Any artist whose work is in the Centre's possession that does not contact the Centre as provided above shall be deemed to have made an unrestricted gift of, and transferred title with respect to, the artwork to the Centre for its own use and benefit. Please contact Robert Lee in regards to any questions in this matter.
+      <p>Any artist whose work is in the Centre's possession that does not contact the Centre as provided above shall be deemed to have made an unrestricted gift of, and transferred title with respect to, the artwork to the Centre for its own use and benefit. Please contact Robert Lee in regards to any questions in this matter.</p>
       <br />created: May 29, 2009
       <br />last updated: Mar 30, 2014
     </p>
