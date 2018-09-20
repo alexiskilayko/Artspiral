@@ -5,5 +5,4 @@
 		<li><a href='/june4-works.php' class="menujune43"><span>Artworks</span></a></li>
 		<li><a href='/june4-materials.php'  class="menujune44"><span>Press Materials</span></a></li>
 		<li><a href='/june4-history.php' class="menujune45"><span>Historical Timeline</span></a></li>
-		<li><a href='/june4-legal-notice.php' class="menujune46"><span>Legal Notices</span></a></li>
 		</ul>

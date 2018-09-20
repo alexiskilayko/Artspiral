@@ -123,7 +123,6 @@ include '_inc/head.php';
 			</div>
 		</div>
 	</section>
-	<a href="/june4-legal-notice.php"><div class="next-arrow"><i class="fa fa-arrow-right"></i></div></a>
 	</main>
 		<nav role="navigation" id="mm">
 		<?php include '_inc/june4menu.php';?>

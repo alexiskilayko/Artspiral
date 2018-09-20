@@ -15,7 +15,7 @@ include '_inc/head.php';
 	<?php include '_inc/june4menu.php';?>
 	</nav>
 	<main role="main" class="content-wrapper">
-		<h2>Important Notice to Artists</h2>
+		<h2>2009 NOTICE TO ARTISTS</h2>
 		<p>
       The artwork displayed herein was received by the Asian American Arts Centre (the "Centre") between 1989 and 1991 in connection with its exhibit commemorating the events of the Tiananmen Square demonstration (the "Exhibit"). The works found herein are intended solely for cultural and educational purposes as it was when first exhibited, and are not being displayed for any commercial motive or purpose. The works found herein may be protected by copyright and other restrictions in favor of parties other than the Centre and should not be copied or otherwise reproduced except as otherwise permitted by the United States Copyright Law.
     </p>
