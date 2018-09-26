@@ -48,7 +48,8 @@ include '_inc/head.php';
 			<br />Robert Lee
 			<br />June 2014</p>
 			<p>(The original June 4, 1989 AAAC exhibitions were documented online in 2009  to commemorate the 20th anniversary of the student movement. The site was updated in 2014 in conjunction with a remounting of the show at White Box in Lower Manhattan to commemorate the 25th anniversary.)</p>
-			<p><a href="/june4-legal-notice.php">Artist Notices</a></p>
+			<p>Click <a href="https://www.flickr.com/photos/asianamericanartscentre/sets/72157645294053044/" title="25th Anniversary Show on Flickr">here</a> to see the 25th Anniversary exhibition.</p>
+			<p><a href="/june4-legal-notice.php" style="font-size: 1.5em">Artist Notices</a></p>
 			</div>
 			<div class="col-1-2 chinese">
 			<p>距天安門廣場學生起義及亞美藝術中心的回應展覽已有25年了。政治危機在當代大量存在，但是這次對峙成就了獨特的藝術事件，並且在事件本身的影響過去多年後仍能有力地擴散。世界繼續前進，對於那些仍然記得的人來說，天安門事件是波蘭獨立黨勝利、捷克斯洛伐克“天鵝絨革命”、匈牙利宣布成為自由共和國、柏林墻的倒塌及蘇聯解體的前兆。數周的時間裏，那些學生的臉龐出現在每個人的電視上，成為一個白天的戲劇，直到在全球觀眾面前構建了一個高潮。一個不能言說的光景揭幕了，觸碰各地人民的心靈。天安門事件的影響不可估量。藝術家們的致力反映了人們的積極參與，他們用生動有力的藝術形式放大了強烈抗議。這個展覽中的藝術超出了畫廊的限度，在政治空間裏訴說它們的意義。視覺，比喻和符號將天安門廣場概述化，以至於公眾可以超越政治去了解危機時刻被塑造的意義。這就是藝術給這個歷史上前所未有的後現代時刻帶來的力量。</p>
