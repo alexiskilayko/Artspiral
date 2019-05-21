@@ -21,31 +21,19 @@ include '_inc/head.php';
 			<p>In the era of globalization, and the discourse associated with international art developments, the exploration of identity has come to be seen as passé in many sectors of the art world.  Yet the importance of visibility and recognition for Asian American artists, from the long view of history rather than the marketplace, continues.  In this light the Gallery Talk event of artists and writers held at White Box on Oct  7th was broadcast live on artasiamerica and remains accessible for <a href="http://www.ustream.tv/channel/out-of-the-archive-process-and-progress"> viewing online.</a> Catalogues can be purchased through a <a href="/support.php">donation</a> to the AAAC. A panel conversation on the exhibition and digital archive was held at the Tribeca Performing Arts Center on December 9, 2009.</p>
 			<p>This was the last exhibition held in the gallery at 26 Bowery, AAAC’s home for thirty-three years.</p>
 			<img src="/_images/oota.png" alt="Works from Tomie Arai, Albert Chong, John Yoyogi Fortes, Swati Khurana in the exhibition Out of the Archive">
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Tomie Arai</li>
 				<li>Albert Chong</li>
 				<li>John Yoyogi Fortes</li>
 				<li>Swati Khurana</li>
 			</ul>
-			
 
-			<h2>America’s Chinatown Voices</h2>
-			<p><span class="date">April 23 – May 9, 2010</span></p>
-			<p>This event included both an exhibition and a <a href="https://www.flickr.com/photos/asianamericanartscentre/collections/72157624006184156/">silent auction</a> of red panel artworks from the <a href="https://www.flickr.com/photos/asianamericanartscentre/sets/72157618119632906/">Summer 2009 Outdoor Exhibition</a> in Columbus Park where community members were invited to paint on panels. Three artists generously donated the panels to benefit the Asian American Art Centre.</p>
-			<img src="/_images/red_panels.png" alt="Three black on red panel paintings by Avani Patel and Natalie Pham">
-			<h6>Participating Artists:</h6> 
-			<ul class="list-columns">
-				<li>Nathalie Pham</li>
-				<li>Avani Patel</li>
-			</ul>
-			
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-

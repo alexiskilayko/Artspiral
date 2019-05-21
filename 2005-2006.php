@@ -16,7 +16,7 @@ include '_inc/head.php';
 			<h2>Organized Spaces</h2>
 			<p><span class="date">August 26 – September 9, 2005</span></p>
 			<p>Curated by Meridith McNeal as a special prelude to the 2005 – 2006 exhibition season, featuring Singaporean artists. </p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Colin Goh</li>
 				<li>Jon Kher Kaw</li>
@@ -29,7 +29,7 @@ include '_inc/head.php';
 				<li>Yen Yen Woo</li>
 				<li>sciSKEW collaborative</li>
 			</ul>
-			
+
 			<h2>Aphasia: 15th Annual Exhibition</h2>
 			<p><span class="date">September 23 – October 28, 2005</span></p>
 			<h6>Participating Artists:</h6>
@@ -56,8 +56,8 @@ include '_inc/head.php';
 			<p>At the opening reception, Lama Tenzin presented a talk on the significance of Thangka paintings. Thangka paintings usually depict deities and saints, aspects of the life of the Buddha, as well as the more abstract Mandalas, astrological charts, medical descriptions and scenes, usually serving as a supplementary aid to religious educational development. They are meant as focal elements for visualization, meditation and contemplation.</p>
 			<img src="/_images/5_Medicine_Buddha.jpg" alt="A Tibetan Thangka Painting of Medicine Buddha">
 			<ul class="list-columns">
-			</ul>				
-			
+			</ul>
+
 			<h2>Detained</h2>
 			<p><span class="date">March 24 – May 5, 2006</span></p>
 			<p>An Arab American & Asian American exhibition aimed to bring two communities together around issues of race, exclusion & spirituality. Organized by  Rabab Abdulhadi, Director of the Center for Arab American Studies, University of Michigan & Robert Lee.</p>
@@ -87,7 +87,7 @@ include '_inc/head.php';
 			<h2>New York Eviction Blues II</h2>
 			<p><span class="date">May 15 – June 9, 2006</span></p>
 			<p>An art exhibition at the Manhattan Borough president's office to call attention to the citywide problem of housing for artists and art organizations. A silent Auction for displayed art work was held to assist the Centre with its legal fees to stay in its home of 31 years.</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 			    <li>Yoshiki Araki</li>
 			    <li>Lotus Do Brooks</li>
@@ -125,7 +125,7 @@ include '_inc/head.php';
 			<p><span class="date">May 19 – June 24, 2006</span></p>
 			<p>Choong Sup Lim deals with the dichotomies of east/west, interior/exterior, rural/urban, and nature/industry through the contradictions and paradoxes in his work. Forms and materials are carefully selected for their capacity to conjure multiple associations.  He has been working both here and in Korea.</p>
 			<p>Since 2001, Mayumi Terada has been building dollhouse-sized interior spaces from balsa wood, Styrofoam and clay, then photographing and enlarging them into large silver gelatin prints. A sense of absence emerges from recent evidence of a presence in these sparsely-furnished rooms.</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Mayumi Terada</li>
 				<li> Choong Sup Lim </li>
@@ -134,18 +134,17 @@ include '_inc/head.php';
 			<h2>Yoshiki Araki: Hiroshima Born</h2>
 			<p><span class="date">July 7 – August 11, 2006</span></p>
 			<p>Yoshiki Araki was born in March 1950 in Hiroshima. He was raised by his mother while his father served in the navy and rose to rear admiral. When the bomb fell in Hiroshima, his mother, then a young girl, went into what was left of the city to search for her father.  She never found him. Yoshiki worked a jackhammer in mine for a year to come to the USA, then spent it all in a month.  Yoshiki did make it to New York studying at the Art Students League, living on Amsterdam Ave, in Harlem and later in Brooklyn. In 2000 he was evicted from his home and studio of many years that was filled with his art works and preparations for many more.  Under the stress and tension of trying to find a new space to accommodate all that he had gathered and planned, Araki became ill and had to be hospitalized. He died shortly thereafter. AAAC offers this opportunity to view some of the paintings and sculpture that he left behind.</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Yoshiki Araki</li>
 			</ul>
-						
+
 
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-

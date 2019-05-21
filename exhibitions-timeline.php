@@ -41,7 +41,6 @@ include '_inc/head.php';
 					<span class="date">2009 – 2010</span>
 					<ul>
 						<li>Out of the Archive: Process and Progress</li>
-						<li>America’s Chinatown Voices</li>
 					</ul>
 				</a>
 		</div>
@@ -53,7 +52,11 @@ include '_inc/head.php';
 						<li>Metro Poles in China Town</li>
 						<li>Clusterbomb!</li>
 						<li>Tibetan Thangka Paintings</li>
+						<li>Art & the Asian Hemisphere</li>
+						<li>America's Chinatown Voices</li>
+						<li>artasiamerica Launch</li>
 						<li>ARTSLAM 2009</li>
+						<li>SPECIAL ARTSLAM</li>
 					</ul>
 				</a>
 		</div>
@@ -63,6 +66,7 @@ include '_inc/head.php';
 					<span class="date">2007 – 2008</span>
 					<ul>
 						<li>Fibers: Fiero, Kotani & Kim</li>
+						<li>boundLES: Celebrating Contemporary Art on the Lower East Side</li>
 						<li>Rare Tribal Textiles from China</li>
 						<li>Yeong Gill Kim</li>
 						<li>Marie Yoho Dorsey</li>
@@ -75,6 +79,7 @@ include '_inc/head.php';
 					<span class="date">2006 – 2007</span>
 					<ul>
 						<li>THREE WOMEN: Art and Spiritual Practice</li>
+						<li>Understanding the Past: Freedom of Expression and Democratic Processes Today</li>
 						<li>Future Creatures in Chinatown</li>
 						<li>Fracture Fairytales: 16th Annual Exhibition</li>
 						<li>Chinese Classical Architecture</li>
@@ -149,6 +154,7 @@ include '_inc/head.php';
 						<li>Chinese New Year Woodblock Prints</li>
 						<li>REAPPEARING EXIT IV: Performance Art of Zheng Lianjie</li>
 						<li>The AAAC Story</li>
+						<li>The Players: Asian American Art</li>
 					</ul>
 				</a>
 		</div>
@@ -157,7 +163,7 @@ include '_inc/head.php';
 				<a class="timeline-content" href="/2000-2001.php">
 					<span class="date">2000 – 2001</span>
 					<ul>
-						<li>10th Annual Exhibition</li>
+						<li>Too Far Too Close: 10th Annual Exhibition</li>
 						<li>Car Pooling from LA</li>
 						<li>Mid Career: Colin Lee</li>
 						<li>Point Arabesque: Paintings by Charles Yuen</li>
@@ -190,6 +196,7 @@ include '_inc/head.php';
 						<li>Gulp and Gallop!</li>
 						<li>7lb9oz: The Reintegration of Tradition into Contemporary Art</li>
 						<li>Six O'Clock Observed: Photos by Toyo Tsuchiya</li>
+						<li>EE! EE! EE! TRANSlation/plantation/formation</li>
 					</ul>
 				</a>
 		</div>
@@ -211,6 +218,7 @@ include '_inc/head.php';
 				<a class="timeline-content" href="/1996-1997.php">
 					<span class="date">1996 – 1997</span>
 					<ul>
+						<li>12 Cicadas in the Tree of Knowledge</li>
 						<li>Milieu Part II</li>
 						<li>Folk Art</li>
 						<li>Impressions: Contemporary Asian Artists Prints</li>
@@ -223,8 +231,11 @@ include '_inc/head.php';
 				<a class="timeline-content" href="/1995-1996.php">
 					<span class="date">1995 – 1996</span>
 					<ul>
+						<li>Ancestors: A Collaborative Project with Kenkeleba House</li>
 						<li>Joseph Yen</li>
 						<li>12 Thoughts and Frank</li>
+						<li>Passion and Compassion: Five Artists' Reflections on Buddhism</li>
+						<li>Art & Buddhism Panel</li>
 
 					</ul>
 				</a>
@@ -251,6 +262,7 @@ include '_inc/head.php';
 						<li>Milieu: Part I</li>
 						<li>Betrayal/Empowerment Part I</li>
 						<li>Betrayal/Empowerment Part II</li>
+						<li>CHINA: June 4 1989</li>
 					</ul>
 				</a>
 		</div>
