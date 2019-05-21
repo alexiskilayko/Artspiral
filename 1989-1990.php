@@ -16,22 +16,22 @@ include '_inc/head.php';
 			<h2>Aurora</h2>
 			<p><span class="date">March 8 – April 4th, 1990</span></p>
 			<p>Guest curated by Fred Wilson</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Sook-Jin Jo</li>
 				<li>Richard Tsao</li>
 				<li>Gar Wong</li>
 			</ul>
-			
+
 			<h2>Witnesses</h2>
 			<p><span class="date">May 10 – June 29, 1990</span></p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
-				<li>Stefan Umaerus</li>
+				<li>Stefan Umaerus (Sweden)</li>
 				<li>Alan Chan</li>
-				<li>“Deng” (Zhang Yong Xu)</li>
+				<li>“Deng” (Zhang Yong Xu) (China)</li>
 			</ul>
-			
+
 			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">June 9 – September 30, 1989</span> at the Asian American Arts Center</p>
 			<p><span class="date">October 12 - November 12, 1989</span> at Blum Helman</p>
@@ -40,7 +40,7 @@ include '_inc/head.php';
 			<p><a href="june4-exhibition-timeline.php">View a complete timeline of this exhibition</a></p>
 			<div class="list-columns">
 			</div>
-			
+
 			<h2>CHINA: June 4 1989 — International Memorial Arts Festival</h2>
 			<p><span class="date"> June 4 – June 24, 1990</span></p>
 			<p>271 artists participated in this show at the Hong Kong Art Centre.</p>
@@ -364,13 +364,12 @@ include '_inc/head.php';
 				<li>Zhang Hongtu</li>
 				<li>Sui Kang Zhao</li>
 			</ul>
-				
+
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-

@@ -12,7 +12,7 @@ include '_inc/head.php';
 	<?php include '_inc/menu.php';?>
 	</nav>
 	<main class="content-wrapper">
-	<h2>Exhibition Timeline</h2>		
+	<h2>Exhibition Timeline</h2>
 	<section class="timeline">
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -21,7 +21,7 @@ include '_inc/head.php';
 					<ul>
 						<li>CHINA: JUNE 4, 1989</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -33,7 +33,7 @@ include '_inc/head.php';
 						<li>Infinite Mirror: Images of American Identity</li>
 						<li>Boom Box</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -43,7 +43,7 @@ include '_inc/head.php';
 						<li>Out of the Archive: Process and Progress</li>
 						<li>America’s Chinatown Voices</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -55,8 +55,8 @@ include '_inc/head.php';
 						<li>Tibetan Thangka Paintings</li>
 						<li>ARTSLAM 2009</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2007-2008.php">
@@ -67,8 +67,8 @@ include '_inc/head.php';
 						<li>Yeong Gill Kim</li>
 						<li>Marie Yoho Dorsey</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2006-2007.php">
@@ -81,8 +81,8 @@ include '_inc/head.php';
 						<li>Mid Career: Bing Lee & Bovey Lee</li>
 						<li>Mixed Skin</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2005-2006.php">
@@ -98,7 +98,7 @@ include '_inc/head.php';
 						<li>Mid Career: Mayumi Terada & Choong Sup Lim</li>
 						<li>Yoshiki Araki: Hiroshima Born</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -111,8 +111,8 @@ include '_inc/head.php';
 						<li>Mid Career: Mei-ling Hom / Zhang Jian-jun</li>
 						<li>ARTSLAM</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2003-2004.php">
@@ -124,8 +124,8 @@ include '_inc/head.php';
 						<li>Landscape and Memory</li>
 						<li>Mid Career: Carol Sun/Nobuho Nagasawa</li>
 					</ul>
-				</a> 
-		</div>																								
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2002-2003.php">
@@ -137,8 +137,8 @@ include '_inc/head.php';
 						<li>Shaping Wholeness: Asian American Artists Create</li>
 						<li>Mid Career: David Diao/Gang Zhao</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2001-2002.php">
@@ -150,8 +150,8 @@ include '_inc/head.php';
 						<li>REAPPEARING EXIT IV: Performance Art of Zheng Lianjie</li>
 						<li>The AAAC Story</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2000-2001.php">
@@ -163,7 +163,7 @@ include '_inc/head.php';
 						<li>Point Arabesque: Paintings by Charles Yuen</li>
 						<li>Power Print</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -178,8 +178,8 @@ include '_inc/head.php';
 						<li>Apartment #3F</li>
 						<li>MILIEU PART III: Color in the Art of </li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1998-1999.php">
@@ -191,8 +191,8 @@ include '_inc/head.php';
 						<li>7lb9oz: The Reintegration of Tradition into Contemporary Art</li>
 						<li>Six O'Clock Observed: Photos by Toyo Tsuchiya</li>
 					</ul>
-				</a> 
-		</div>														
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1997-1998.php">
@@ -204,7 +204,7 @@ include '_inc/head.php';
 						<li>Silk Light: Four Artists From Korea</li>
 						<li>Inside One : Columbia Fiero and Bivas Chaudhuri</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -216,8 +216,8 @@ include '_inc/head.php';
 						<li>Impressions: Contemporary Asian Artists Prints</li>
 						<li>Three Generations: Towards an Asian American Art History</li>
 					</ul>
-				</a> 
-		</div>				
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1995-1996.php">
@@ -227,8 +227,8 @@ include '_inc/head.php';
 						<li>12 Thoughts and Frank</li>
 
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1994-1995.php">
@@ -240,8 +240,8 @@ include '_inc/head.php';
 						<li>Chinese/Korean Calligraphy</li>
 						<li>Ancestors: a Collaborative Project with Kenkeleba House</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1993-1994.php">
@@ -252,8 +252,8 @@ include '_inc/head.php';
 						<li>Betrayal/Empowerment Part I</li>
 						<li>Betrayal/Empowerment Part II</li>
 					</ul>
-				</a> 
-		</div>	
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1992-1993.php">
@@ -265,8 +265,8 @@ include '_inc/head.php';
 						<li>Yin Peet</li>
 						<li>We Count! The State of Asian Pacific America</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1991-1992.php">
@@ -276,8 +276,8 @@ include '_inc/head.php';
 						<li>Four Asian American Artists</li>
 						<li>Collection of Buddhas</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1990-1991.php">
@@ -285,10 +285,14 @@ include '_inc/head.php';
 					<ul>
 						<li>AAAC Annual Exhibition</li>
 						<li>Focus on Artists from Hong Kong</li>
+						<li>Folk Tradition</li>
+						<li>Tai Dang</li>
 						<li>Violence of Victory</li>
+						<li>The Art of Asian American Artists</li>
 						<li>Okuhara Tetsuaki</li>
+						<li>...wa(IT) WA(i)T(in)G... part II: Lessons of History &/or Forgetting Amnesia</li>
 					</ul>
-				</a> 
+				</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -300,8 +304,8 @@ include '_inc/head.php';
 						<li>CHINA: June 4 1989</li>
 						<li>CHINA: June 4 1989 — International Memorial Arts Festival</li>
 					</ul>
-				</a> 
-		</div>				
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1988-1989.php">
@@ -310,12 +314,13 @@ include '_inc/head.php';
 						<li>The 5th Annual Open Studio Show</li>
 						<li>The 18 Levels of Hell</li>
 						<li>Invented Selves: Images of Asian American Identity</li>
+						<li>The Chinese Folk Heritage: Performance, Exhibition, Folk Art Sharing, Talks</li>
 						<li>Two Emerging Artists</li>
 						<li>Uptown/DownTown</li>
 						<li>CHINA: June 4 1989</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1987-1988.php">
@@ -327,22 +332,24 @@ include '_inc/head.php';
 						<li>Yesterday: Reflections on Childhood</li>
 						<li>The 4th Annual Open Studio Show</li>
 						<li>Public Art in Chinatown</li>
+						<li>Artention International</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1986-1987.php">
 					<span class="date">1986 – 1987</span>
 					<ul>
+						<li>Roots to Reality II: ALternate Visions</li>
 						<li>The Mind's I, Part 1</li>
 						<li>The Mind's I, Part 2</li>
 						<li>The Mind's I, Part 3</li>
 						<li>The Mind's I, Part 4</li>
 						<li>The 3rd Annual Open Studio Show</li>
 					</ul>
-				</a> 
-		</div>						
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1985-1986.php">
@@ -355,21 +362,24 @@ include '_inc/head.php';
 						<li>Orientalism</li>
 						<li>The 2nd Annual Open Studio Show</li>
 						<li>Fathers</li>
+						<li>SCA Foundation Exhibition</li>
 					</ul>
-				</a> 
-		</div>					
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1984-1985.php">
 					<span class="date">1984 – 1985</span>
 					<ul>
+						<li>People of China: Photos of Lee C. Lee</li>
 						<li>Emily, Anna and Ti Shan: the First Generation</li>
 						<li>Triangular Landscapes</li>
+						<li>Symposium on Contemporary Asian American Art</li>
 						<li>Dreams and Fantasies</li>
 						<li>The 1st Annual Open Studio Show</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1983-1984.php">
@@ -379,8 +389,8 @@ include '_inc/head.php';
 						<li>Chihung Yang:  Works on Paper</li>
 						<li>Door Gods and Other Household Deities</li>
 					</ul>
-				</a> 
-		</div>				
+				</a>
+		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/1982-1983.php">
@@ -388,10 +398,10 @@ include '_inc/head.php';
 					<ul>
 						<li>Eye To Eye</li>
 					</ul>
-				</a> 
-		</div>		
+				</a>
+		</div>
 
-	</section> 		
+	</section>
 
 	</main>
 		<nav role="navigation" id="mm">
@@ -401,4 +411,3 @@ include '_inc/head.php';
 
 </body>
 </html>
-

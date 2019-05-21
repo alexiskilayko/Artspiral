@@ -13,6 +13,9 @@ include '_inc/head.php';
 	</nav>
 	<main class="content-wrapper narrow">
 		<span class="tag">1984 – 1985</span>
+			<h2>People of China: Photos of Lee C. Lee, Asian American Studies Scholar at Cornell University<h2>
+			<p><span class="date">February 1 - February 27, 1985 (as Asian Arts Institute)</p>
+
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
 			<p><span class="date">March 8 – April 5, 1985</span></p>
 			<p>Curated by Robert Lee</p>
@@ -23,18 +26,30 @@ include '_inc/head.php';
 			<li>Ti Shan Hsu</li>
 			</ul>
 
-
 			<h2>Triangular Landscapes</h2>
 			<p><span class="date">April 12 – May 10, 1985</span></p>
 			<p>Curated by Robert Lee. Catalogue includes essays by Robert Lee.</p>
 			<h6>Participating scholars:</h6>
-			
 			<ul class="list-columns">
 			<li>Young Hee Han</li>
 			<li>Akiko Mashima</li>
 			<li>Lydia Okumura</li>
 			</ul>
-			
+
+			<h2>Symposium on Contemporary Asian American Art</h2>
+			<p><span class="date">May 1, 1985</span></p>
+			<p>Organized by Margo Machida, AIR. A slide show of forty Asian American artists were presented from AAAC Artist Archive to art professionals, corporate-based art curators and independent consultants.</p>
+			<h6>Participating artists & speakers:<h6>
+			<ul class="list-columns">
+			<li>Benny Andrews</li>
+			<li>Robert Lee</li>
+			<li>Geri Thonas</li>
+			<li>Fong Chow</li>
+			<li>Woong Kim</li>
+			<li>Helen Oji</li>
+			<li>Krishna Reddy</li>
+			</ul>
+
 			<h2>Dreams and Fantasies</h2>
 			<p><span class="date">May 17 – June 14, 1985</span></p>
 			<p>Curated by Robert Lee. Catalogue includes essays by Barry Schwabsky and Robert Lee.</p>
@@ -44,7 +59,7 @@ include '_inc/head.php';
 			<li>Ming Fay</li>
 			<li>Paul Wong</li>
 			</ul>
-			
+
 			<h2>The First Annual Open Studio Show</h2>
 			<p><span class="date">June 1985</span></p>
 			<p>Featured guided tours to ten artists studios in the Chinatown commnity, and a group show of works by eleven artists.</p>
@@ -62,7 +77,7 @@ include '_inc/head.php';
 			<li>Arlan Huang</li>
 			<li>Tjokorda Gede</li>
 			</ul>
-			
+
 			<h6>Group show participants:</h6>
 			<ul class="list-columns">
 			<li>Amy Cheng</li>
@@ -76,15 +91,14 @@ include '_inc/head.php';
 			<li>Vivian Tsao</li>
 			<li>Cissy Pao</li>
 			<li>Chuck Yuen</li>
-			</ul>			
-			
+			</ul>
+
 		</main>
 
-	<div class="fade"></div>		
+	<div class="fade"></div>
 	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php';?>
 	</nav>
 </div>
 </body>
 </html>
-

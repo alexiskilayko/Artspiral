@@ -13,17 +13,44 @@ include '_inc/head.php';
 	</nav>
 	<main class="content-wrapper narrow">
 		<span class="tag">1986 &ndash; 1987</span>
+			<h2>Roots to Reality II: Alternate Visions</h2>
+			<p><span class="date">October 17 - November 26, 1986</span></p>
+			<p>A collaboration between Henry St. Settlement and the Alliance for Asian American Arts and Culture. A festival of Asian American visual and performing arts. Other selection committees for dance, media, music, theatre/poetry. Project Director: Joyce Griffen. Catalogue: 36 pages with introduction by Fred Wei-han Houn, Exec. Committee, Exhibition. Introduction by Margo Machida, Project Director. Held at Henry St. Settlement.</p>
+			<h6>Visual Artists Selection Committee:</h6>
+			<ul class="list-columns">
+				<li>David Diao</li>
+				<li>Woong Kim</li>
+				<li>Robert Lee (Chair of the Alliance)</li>
+				<li>Margo Machida</li>
+				<li>Yong Soon Min (Event Coordinator, Catalogue Design)</li>
+				<li>Helen Oji</li>
+				<li>John Woo</li>
+			</ul>
+			<h6>Participating Artists:</h6>
+			<ul class="list-columns">
+				<li>John Allen</li>
+				<li>Ando</li>
+				<li>Kim Hardiman</li>
+				<li>Kwok Mang Ho</li>
+				<li>Gilbert Hsiao</li>
+				<li>Ku-Lim Kim</li>
+				<li>Gene Moy</li>
+				<li>Tetsu Okuhara</li>
+				<li>Carol Sun</li>
+				<li>Alvin M. Tada</li>
+				<li>Hongtu Zhang</li>
+			</ul>
+
 			<h2>The Mind’s I, Part 1</h2>
 			<p><span class="date">February 6 – March 6, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee. 
-			<h6>Participating Artists:</h6> 
+			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Banny Andrew</li>
 				<li>Raphael Soyer</li>
 				<li>Chiu Ya-Tsai</li>
 				<li>Martin Wong</li>
 			</ul>
-			
 
 			<h2>The Mind’s I, Part 2</h2>
 			<p><span class="date">March 13 – April 10, 1987</span></p>
@@ -39,7 +66,7 @@ include '_inc/head.php';
 				<li>William Jung</li>
 				<li>Charles Parness</li>
 				<li>Jorge Tacla</li>
-			</ul>			
+			</ul>
 
 			<h2>The Mind’s I, Part 4</h2>
 			<p><span class="date">March 13 – April 10, 1987</span></p>
@@ -49,11 +76,11 @@ include '_inc/head.php';
 				<li>Alison Saar</li>
 				<li>Patti Warashina</li>
 			</ul>
-			
+
 			<h2>The 3rd Annual Open Studio Show</h2>
 			<p><span class="date">May 1987</span></p>
 			<p>Featured guided tours to thirteen artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
-			<h6>Open studios participants:</h6> 
+			<h6>Open studios participants:</h6>
 			<ul class="list-columns">
 				<li>Amy Cheng</li>
 				<li>Kar Shan</li>
@@ -62,8 +89,8 @@ include '_inc/head.php';
 				<li>Manabu Kimura</li>
 				<li>Roz Dimon</li>
 			</ul>
-			
-			<h6>Gallery show participants:</h6> 
+
+			<h6>Gallery show participants:</h6>
 			<ul class="list-columns">
 				<li>Suzanne Benton</li>
 				<li>Jean Chiang</li>
@@ -81,15 +108,14 @@ include '_inc/head.php';
 				<li>Carol Sun</li>
 				<li>Carrie Yamoaka</li>
 				<li>Teru Yoshida</li>
-			</ul>			
-			
+			</ul>
+
 			</div>
 		</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav id="mm" role="navigation">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-
