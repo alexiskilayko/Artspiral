@@ -29,6 +29,22 @@ include '_inc/head.php';
 				<li>Swati Khurana</li>
 			</ul>
 
+			<h2>Out of the Archive: Progress and Community</h2>
+			<p><span class="date">December 9, 2009</span></p>
+			<p>Held at Tribeca Performing Arts Center, Borough of Manhattan Community College (BMCC). Moderated by Robert Lee. DVA curation by Susan Fleminger.</p>
+			<h6>Participating Artists:</h6>
+			<ul class="list-columns">
+				<li>Nathalie Pham</li>
+				<li>Eun Young Choi</li>
+				<li>Triple Edwards</li>
+			</ul>
+
+			<h2>China on the Way to Modernization: From the Republic to the Present</h2>
+			<p><span class="date">December 13, 2009</span></p>
+			<p>Two lectures by Dr. Fang Lili and Zhu Legeng, held at University Settlemtn, Houston St Center.</p>
+			<p>In her talk, "Inheritance and Development of Jingdezhen Ceramic Craftsmanship," Fang Lili discussed her study of how the handicraft of China has been adapted to modern times. She delineates three stages in China’s modernization and describes the relationships between tradition and modernization at Jingdezhen, a historic center for ceramics. Jindezhen is the case study because its traditional ceramic craftsmanship and the culture system based on it were attacked and essentially overthrown by a modern, industrial system. The craft’s native characteristics persisted and was preserved well in the new internationalized culture. The belief in tradition as a resource for a new culture and economy won out against the attack where reason opposed custom.</p>
+			<p>Zhu Legeng from the Chinese Academy of Arts' talk, entitled, "My Odyssey in Ceramics," recounted how the artist overcame obstacles of the communist cooperative factory ceramics system in China to found and develop one of the first private ceramics studios in the post-Mao era.</p>
+
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">

@@ -19,6 +19,8 @@ include '_inc/head.php';
 				<a class="timeline-content" href="/2013-2014.php">
 					<span class="date">2013 – 2014</span>
 					<ul>
+						<li>Ideas Chinatown</li>
+						<li>Space Time: Presence</li>
 						<li>CHINA: JUNE 4, 1989</li>
 					</ul>
 				</a>
@@ -32,6 +34,7 @@ include '_inc/head.php';
 						<li>ART SLAM 2010</li>
 						<li>Infinite Mirror: Images of American Identity</li>
 						<li>Boom Box</li>
+						<li>The Art of Danny Yung</li>
 					</ul>
 				</a>
 		</div>
@@ -41,6 +44,8 @@ include '_inc/head.php';
 					<span class="date">2009 – 2010</span>
 					<ul>
 						<li>Out of the Archive: Process and Progress</li>
+						<li>Out of the Archive: Progress and Community</li>
+						<li>China on the Way to Modernization: From the Republic to the Present</li>
 					</ul>
 				</a>
 		</div>
