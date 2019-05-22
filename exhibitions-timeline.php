@@ -35,28 +35,36 @@ include '_inc/head.php';
 			</a>
 		</div>
 		<div class="timeline-block">
-				<div class="timeline-circle">	</div>
-				<a class="timeline-content" href="/2013-2014.php">
-					<span class="date">2013 – 2014</span>
-					<ul>
-						<li>Ideas Chinatown</li>
-						<li>Space Time: Presence</li>
-						<li>CHINA: JUNE 4, 1989</li>
-					</ul>
-				</a>
+			<div class="timeline-circle">	</div>
+			<a class="timeline-content" href="/2013-2014.php">
+				<span class="date">2013 – 2014</span>
+				<ul>
+					<li>Ideas Chinatown</li>
+					<li>Space Time: Presence</li>
+					<li>CHINA: JUNE 4, 1989</li>
+				</ul>
+			</a>
 		</div>
 		<div class="timeline-block">
-				<div class="timeline-circle">	</div>
-				<a class="timeline-content" href="/2010-2011.php">
-					<span class="date">2010 – 2011</span>
-					<ul>
-						<li>8 Artists: From the Archive</li>
-						<li>ART SLAM 2010</li>
-						<li>Infinite Mirror: Images of American Identity</li>
-						<li>Boom Box</li>
-						<li>The Art of Danny Yung</li>
-					</ul>
-				</a>
+			<div class="timeline-circle">	</div>
+			<a class="timeline-content" href="/2013-2014.php">
+				<span class="date">2013 – 2014</span>
+				<ul>
+					<li>The Art of Danny Yung</li>
+				</ul>
+			</a>
+		</div>
+		<div class="timeline-block">
+			<div class="timeline-circle">	</div>
+			<a class="timeline-content" href="/2010-2011.php">
+				<span class="date">2010 – 2011</span>
+				<ul>
+					<li>8 Artists: From the Archive</li>
+					<li>ART SLAM 2010</li>
+					<li>Infinite Mirror: Images of American Identity</li>
+					<li>Boom Box</li>
+				</ul>
+			</a>
 		</div>
 		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
@@ -148,6 +156,7 @@ include '_inc/head.php';
 				<a class="timeline-content" href="/2003-2004.php">
 					<span class="date">2003 – 2004</span>
 					<ul>
+						<li>The Players: Asian American Art</li>
 						<li>In the Shadow of 9/11: A Chinatown Memorial Exhibition</li>
 						<li>Provocations: 13th Annual Exhibition</li>
 						<li>dream so much 2</li>
@@ -179,7 +188,6 @@ include '_inc/head.php';
 						<li>Chinese New Year Woodblock Prints</li>
 						<li>REAPPEARING EXIT IV: Performance Art of Zheng Lianjie</li>
 						<li>The AAAC Story</li>
-						<li>The Players: Asian American Art</li>
 					</ul>
 				</a>
 		</div>

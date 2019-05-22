@@ -115,7 +115,7 @@ include '_inc/head.php';
 
 			<h2>Artention International</h2>
 			<p><span class="date">July - August 1988</span></p>
-			<p>A bimonthly publication in Hong Kong, by Zie Yongder.</p>
+			<p>A bimonthly publication in Hong Kong, by Zie Yongder. Full color catalogue, "Public Art in Chinatown," with introduction by Robert Lee.</p>
 
 	</main>
 	<div class="fade"></div>
