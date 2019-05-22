@@ -16,7 +16,7 @@ include '_inc/head.php';
 			<h2>Butternut Ink: the 14th Annual Exhibition</h2>
 			<p><span class="date">September 24 – November 25, 2004</span></p>
 			<p>Held in Collaboration with the Korea Society</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Rutherford Chang</li>
 				<li>Schwufen Lee</li>
@@ -30,7 +30,15 @@ include '_inc/head.php';
 				<li>Jaye Rhee</li>
 				<li>Rashmi Talpade</li>
 			</ul>
-			
+			<h6>Selection Panelists:</h6>
+			<ul class="list-columns">
+				<li>Koan-Jeff Baysa</li>
+				<li>Joan Kee</li>
+				<li>Christopher Ho</li>
+				<li>Thuy Linh Nguyen Tu</li>
+				<li>Jean Shin</li>
+			</ul>
+
 			<h2>The Topography of Absence</h2>
 			<p><span class="date">November 19 – December 31, 2004</span></p>
 			<p>Curated by Katarina Wong, this exhibition offers different ways artists delve into the landscape of their own experiences in an attempt to understand and grasp absence as fullness. Through work that offers viewers a series of quiet meditations of overlooked actions, impulses and detritus, the empty trivial mundane moments of life are given an unexpected wonder. By examining the topography of their lives, artists find overlooked landscapes, not unlike the visual voyage through a Chinese landscape painting, providing an opportunity for us to re-assess what is truly important.</p>
@@ -98,15 +106,15 @@ include '_inc/head.php';
 				<li>Katarina Wong</li>
 				<li>Yoichiro Yoda</li>
 				<li>Charles Yuen</li>
-				<li>Lianjie Zheng</li>			
+				<li>Lianjie Zheng</li>
 			</ul>
 
 			<h2>Mid Career: Mei-ling Hom / Zhang Jian-jun</h2>
 			<p><span class="date">May 27 – July 1, 2005</span></p>
 			<p>Mid-Career Nominating Panelists: Reiko Tomii, Lilly Wei, Johnathan Goodman, Judy Collischan, and Tomie Arai.</p>
 			<ul class="list-columns">
-			</ul>				
-			
+			</ul>
+
 			<h2>ARTSLAMS</h2>
 			<p>Each evening five artists presented their work and had an interactive exchange of ideas with the audience. This is an opportunity for Asian American artists and artists influenced by Asia to share their work with peers in an open forum for critical exchange. Curators Reiko Tomii and Midori Yoshimoto were often present, as was artist Emily Cheng. Artist/university art instructor Bovey Lee also joined the discussion.</p>
 			<p><span class="date">June 16, 2005</span></p>
@@ -135,14 +143,13 @@ include '_inc/head.php';
 				<li>Kiriko Shirobayashi</li>
 				<li>La Thoriel Badenhausen</li>
 				<li>Deanna Lee</li>
-			</ul>			
+			</ul>
 
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav role="navigation" id="mm">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-
