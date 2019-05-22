@@ -15,6 +15,26 @@ include '_inc/head.php';
 	<h2>Exhibition Timeline</h2>
 	<section class="timeline">
 		<div class="timeline-block">
+			<div class="timeline-circle"> </div>
+			<a class="timeline-content" href="/2016-2017.php">
+				<span class="date">2016 - 2017</span>
+				<ul>
+					<li>Hinterland Arts</li>
+					<li>First Responders</li>
+					<li>Selected Works from AAAC Archive & Permanent Collection</li>
+				</ul>
+			</a>
+		</div>
+		<div class="timeline-block">
+			<div class="timeline-circle"> </div>
+			<a class="timeline-content" href="/2015-2016.php">
+				<span class="date">2015 - 2016</span>
+				<ul>
+					<li>Aboveground: 40 Moments of Transformation</li>
+				</ul>
+			</a>
+		</div>
+		<div class="timeline-block">
 				<div class="timeline-circle">	</div>
 				<a class="timeline-content" href="/2013-2014.php">
 					<span class="date">2013 – 2014</span>
