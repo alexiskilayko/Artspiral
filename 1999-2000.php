@@ -144,7 +144,7 @@ include '_inc/head.php';
 
             <h2>Milieu Part III: Color in the Art of </h2>
 			<p><span class="date">May 18 - July 15, 2000</span></p>
-            <p>The second of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965.” Curated by Robert Lee.</p>
+            <p>The third of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965.” Curated by Robert Lee.</p>
             <p>Panel Discussion: Natvar Bhavsar, Corinne Robins, Ninochka Rosca, Patricia Karetzky, co-sponsored by China Institute.</p>
             <h6>Participating Artists:</h6>
 			<ul class="list-columns">

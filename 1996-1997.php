@@ -58,8 +58,7 @@ include '_inc/head.php';
 
       <h2>Three Generations: Towards an Asian American Art History</h2>
 			<p><span class="date">April – May 1997</span></p>
-            <p>A mentoring relationship that spans the post WWII era to the present, from San Francisco to Oberlin to New York.</p>
-            <p>Curated by Robert Lee.</p>
+            <p>A mentoring relationship that spans the post WWII era to the present, from San Francisco to Oberlin to New York. Curated by Robert Lee.</p>
 			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Tseng Ta- Yu</li>

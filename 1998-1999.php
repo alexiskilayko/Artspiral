@@ -54,7 +54,7 @@ include '_inc/head.php';
 
       <h2>7lb9oz: The Reintegration of Tradition into Contemporary Art</h2>
 			<p><span class="date">March 26, 1999 – May 8, 1999</span></p>
-      <p>Curated by Robert Lee.</p>
+      <p>Exhibition showing four artists for whom the continuity of tradition is foremost. Curated by Robert Lee.</p>
       <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Chee Wang Ng</li>
