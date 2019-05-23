@@ -13,7 +13,6 @@ include '_inc/head.php';
 	</nav>
 	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1996 &ndash; 1997</span>
-
 			<h2>12 Cicadas in the Tree of Knowledge</h2>
 			<p><span class="date">September 1996</span></p>
 			<h6>Participating artists:</h6>
@@ -30,45 +29,39 @@ include '_inc/head.php';
 				<li>Khangh Vo, V (Ca)</li>
 				<li>Paul Wong, CA</li>
 				<li>Furong Zhang</li>
+			</ul>
 
 			<h2>Milieu Part II</h2>
       <p><span class="date">December 1996</span></p>
       <p>The second of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965.” Curated by Robert Lee.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Alfonso Ossorio</li>
-          <li>Matsumi Kanemitsu</li>
-          <li>Chao Chung-Hsiang</li>
+        <li>Matsumi Kanemitsu</li>
+        <li>Chao Chung-Hsiang</li>
       </ul>
-
-
 
 			<h2>Folk Art</h2>
 			<p><span class="date">February 1997</span></p>
-      <p>Thang ka painter, Kelsang Wangmo.</p>
+      <p>Works by Tibetan thang ka painter, Kelsang Wangmo.</p>
+			<h6>Participating artists:</h6>
       <ul class="list-columns">
+				<li>Kelsang Wangmo</li>
       </ul>
 
       <h2>Impressions: Contemporary Asian Artists Prints</h2>
 			<p><span class="date">February 1 – April 11, 1997</span></p>
       <p>An exhibition and publication by Brandywine Workshop in Philadelphia.ssay by Robert Lee: “Asian American Art: One Perspective”</p>
-      <ul class="list-columns">
-      </ul>
-
 
       <h2>Three Generations: Towards an Asian American Art History</h2>
 			<p><span class="date">April – May 1997</span></p>
-            <p>A mentoring relationship that spans the post WWII era to the present, from San Francisco to Oberlin to New York. Curated by Robert Lee.</p>
-			<h6>Participating Artists:</h6>
+      <p>A mentoring relationship that spans the post WWII era to the present, from San Francisco to Oberlin to New York. Curated by Robert Lee.</p>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tseng Ta- Yu</li>
-                <li>Phillip P. Chan</li>
-                <li>Theresa Chong</li>
+        <li>Phillip P. Chan</li>
+        <li>Theresa Chong</li>
 			</ul>
-
-
-
-
 	</main>
 	<div class="fade"></div>
 	<nav id="mm" role="navigation">

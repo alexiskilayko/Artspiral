@@ -16,7 +16,7 @@ include '_inc/head.php';
 			<h2>Roots to Reality: A Collaboration</h2>
 			<p><span class="date">October 11 – Nov 24, 1985</span></p>
 			<p>A collaborative show between the Henry Street Settlement and the Alliance for Asian American Arts and Culture, of which the AAAC was a member. The show was held at the Henry Sterrt Settlement and featured a sixteen page catalogue with an introduction by Robert Lee</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Yoshiki Araki</li>
 				<li>Mo Bahc</li>
@@ -24,33 +24,29 @@ include '_inc/head.php';
 				<li>Yeou-Jui Cho</li>
 			</ul>
 
-
 			<h2>Ming Chip Fung: The Seal 1975-1985</h2>
 			<p><span class="date">January 9 – February 5 1986</span></p>
 			<p>Curated by Robert Lee, this show includes a catalogue pamphlet with essay by Wang Fangyu. The catalogue was later reprinted by the Han Art Gallery in Hong Kong years later.</p>
-			<ul class="list-columns"></ul>
 
 			<h2>New Year’s Embroidery</h2>
 			<p><span class="date">February 7 – February 28, 1986</span></p>
 			<p>From the collection of folklorist in residence Prof. Chen. Held in conjunction with Asian American Dance Theatre’s D’Asia Vu performances of Kuang-Yu Fong, Yung Yung Tsuai, Music from China.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-			<li>Y. J. Cho</li>
-			<li>Jerry Kwan</li>
-			<li>Ming Mur-Ray</li>
+				<li>Y. J. Cho</li>
+				<li>Jerry Kwan</li>
+				<li>Ming Mur-Ray</li>
 			</ul>
-
 
 			<h2>The City</h2>
 			<p><span class="date">March 7 – April 4, 1986</span></p>
-			<p>Curated by Robert Lee</p>
+			<p>Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-			<li>Y. J. Cho</li>
-			<li>Jerry Kwan</li>
-			<li>Ming Mur-Ray</li>
+				<li>Y. J. Cho</li>
+				<li>Jerry Kwan</li>
+				<li>Ming Mur-Ray</li>
 			</ul>
-
 
 			<h2>Orientalism</h2>
 			<p><span class="date">April 11 – May 9, 1986</span></p>
@@ -58,15 +54,14 @@ include '_inc/head.php';
 			<p>A panel discussion entitled “Orientalism – A Surrogate Heritage” was held on April 20. Panelists included Robert G. Lee of Brown University, Dominique Nahas, Peter Kwong of SUNY, Rockwell Chin and Charles Yuen.  </p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-			<li>Margo Machida</li>
-			<li>Charles Yuen</li>
+				<li>Margo Machida</li>
+				<li>Charles Yuen</li>
 			</ul>
-
 
 			<h2>The 2nd Annual Open Studio Show</h2>
 			<p><span class="date">May 1986</span></p>
 			<p>Featured guided tours to thirteen artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
-			<h6>Open studios participants:</h6>
+			<h6>Open studio participants:</h6>
 			<ul class="list-columns">
 				<li>Arlan Huang</li>
 				<li>John Allen</li>
@@ -82,7 +77,6 @@ include '_inc/head.php';
 				<li>Cari Rosmarin</li>
 				<li>Stephie Smith</li>
 			</ul>
-
 			<h6>Gallery show participants:</h6>
 			<ul class="list-columns">
 				<li>Albert Chong</li>
@@ -145,7 +139,6 @@ include '_inc/head.php';
 				<li>Yu Ming Yang</li>
 				<li>Zhang Hongtu</li>
 			</ul>
-			</div>
 		</main>
 	<div class="fade"></div>
 	<nav id="mm" role="navigation">

@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1990 &ndash; 1991</span>
 			<h2>AAAC Annual Exhibition</h2>
 			<p><span class="date">September – November, 1990</span></p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Lalitha Ananthanaman</li>
 				<li>Henry Cainglet</li>
@@ -35,10 +35,9 @@ include '_inc/head.php';
 				<li>Sui-Kang Zhao</li>
 			</ul>
 
-
 			<h2>Focus on Artists from Hong Kong</h2>
 			<p><span class="date">November – December 1990</span></p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Choi Yan Chi</li>
 				<li>Terry Chen</li>
@@ -122,7 +121,6 @@ include '_inc/head.php';
 				<li>George Gramelis - vocals</li>
 				<li>July Rose - vocals</li>
 			</ul>
-
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">

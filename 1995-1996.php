@@ -53,15 +53,14 @@ include '_inc/head.php';
 			<p><span class="date">September 1995</span></p>
       <p>Essay by Eleanor Heartney.</p>
       <p>Organized by Yin Peet.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Joseph Yen</li>
 			</ul>
 
-
       <h2>12 Thoughts and Frank</h2>
 			<p><span class="date">November 1995</span></p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Wei-in Chen</li>
         <li>Min S. Lee</li>
@@ -106,8 +105,6 @@ include '_inc/head.php';
 			<ul class="list-columns">
 				<li>Ven. Jihyun Sunim</li>
 			</ul>
-
-
 	</main>
 	<div class="fade"></div>
 	<nav id="mm" role="navigation">
