@@ -25,7 +25,7 @@ include '_inc/head.php';
 
 			<h2>Milieu: Part I</h2>
 			<p><span class="date">November 19 – December 29, 1993</span></p>
-      <p>Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965."</p>
+      <p>The first of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965."</p>
       <p>Curated by Robert Lee.</p>
 			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
@@ -80,7 +80,7 @@ include '_inc/head.php';
 
 			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">October 14, 1994 - November 30, 1994</span></p>
-			<p>Held at Buckham Gallery in Flint, Michigan.</p>
+			<p>The final stage of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. Held at Buckham Gallery in Flint, Michigan.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Aprile, Thomas R.</li>

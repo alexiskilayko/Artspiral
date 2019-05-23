@@ -94,7 +94,7 @@ include '_inc/head.php';
 
 			<h2>Public Art in Chinatown</h2>
 			<p><span class="date">May 20 – July, 1988</span></p>
-			<p>a selection of sculptures, models, drawing and site plans proposed for specific locations in the Downtown/Chinatown community. Curated by Robert Lee, with catalogue essay by John Yau.</p>
+			<p>A selection of sculptures, models, drawing and site plans proposed for specific locations in the Downtown/Chinatown community. Curated by Robert Lee, with catalogue essay by John Yau.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Mikyung Kim</li>

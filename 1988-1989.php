@@ -105,7 +105,7 @@ include '_inc/head.php';
 
 			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">June 9 - September 30, 198</span></p>
-			<p>Initial stage. <a href="june4-exhibition-timeline.php">View a complete timeline</a> of this exhibition.</p>
+			<p>An exhibition of art in response to the Tiananmen Square event in China, in which students protesting for democracy were massacred. Initial stage. <a href="june4-exhibition-timeline.php">View a complete timeline</a> of this exhibition.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Stephen J. Albair</li>

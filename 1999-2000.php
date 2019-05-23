@@ -8,7 +8,7 @@ include '_inc/head.php';
 <body class="exhibitions">
 <div class="page-wrapper">
 	<?php include '_inc/header.php'; ?>
-	<nav id="menu" role="navigation"> 
+	<nav id="menu" role="navigation">
 	<?php include '_inc/menu.php';?>
 	</nav>
 	<main class="content-wrapper narrow" role="main">
@@ -18,7 +18,7 @@ include '_inc/head.php';
             <p><span class="date">September 1 - October 15, 1999</span></p>
             <p>A collaboration with The Korea Society and the Stephen Gang Gallery.</p>
             <p>Curated by Young M. Park.</p>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Sukran Aziz</li>
                 <li>Hu Bing</li>
@@ -30,13 +30,13 @@ include '_inc/head.php';
                 <li>Leemour Pelli</li>
                 <li>Nicholetta West</li>
 			</ul>
-        
-        
-        
+
+
+
 			<h2>FIREHOUSE: AAAC 25th Anniversary</h2>
 			<p><span class="date">Octpber 30 – November 14, 1999</span></p>
             <p>Organized by Young M. Park, Trinh Le, and Robert Lee.</p>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Jackie Chang</li>
                 <li>Bivas Chaudhuri</li>
@@ -63,12 +63,12 @@ include '_inc/head.php';
                 <li>Dolly Unithan</li>
                 <li>Charles Yuen</li>
 			</ul>
-        
-        
-        
+
+
+
             <h2>"This Used To Be a Poodle" - 9th AAAC Annual Exhibition</h2>
 			<p><span class="date">October 29 - December 14, 1999</span></p>
-			<h6>Selection Panel:</h6> 
+			<h6>Selection Panel:</h6>
 			<ul class="list-columns">
 				<li>Zhang Hongtu</li>
                 <li>Kaoru Yanase</li>
@@ -76,7 +76,7 @@ include '_inc/head.php';
                 <li>Junghyang Kim</li>
                 <li>Fay Torres-yap</li>
 			</ul>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Dino Blanche</li>
                 <li>Pao-Tzwu Chang</li>
@@ -89,13 +89,13 @@ include '_inc/head.php';
                 <li>Akiko Kotani</li>
                 <li>Jun Ho Lee</li>
 			</ul>
-        
-        
+
+
             <h2>Looking at Beijing: Photography as Art/CHINA</h2>
 			<p><span class="date">December 16, 1999 - January 6, 2000</span></p>
             <p>A collaboration with the New York University Department of Art and Art Professions. Summer Study Abroad program in Photography initiated by NYU, co-sponsored by the Beijing Film Institute in Beijing.</p>
             <p>Curated by Professors Gerald Pryor & Ann Chwatsky.</p>
-            <h6>Photographers:</h6> 
+            <h6>Photographers:</h6>
 			<ul class="list-columns">
 				<li>Sandra Bermudez</li>
                 <li>Shira Bocar</li>
@@ -115,39 +115,38 @@ include '_inc/head.php';
                 <li>Bridget Webber</li>
                 <li>Juan Zhang</li>
             </ul>
-        
-        
-        
+
+
+
             <h2>Lunar New Year Exhibition</h2>
 			<p><span class="date">January 20 - March 4, 2000</span></p>
             <p>A Sand Painting Creation by Lama Tenzin  and  several "Nuo Masks" and Tibetan Thang-ka paintings by Kalsang Wangmo. Lecture by John M. Lundquist -"Mandala & Temple: Sacred Architecture in Tibet."</p>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Lama Tenzin</li>
                 <li>Kalsang Wangmo</li>
 			</ul>
-        
-        
-        
+
+
+
             <h2>Apartment #3F</h2>
 			<p><span class="date">March 17 - April 29, 2000</span></p>
             <p>This exhibition conceptually converts the exhibition gallery space back into its original living environment and in this way, challenge the formalists' notion of viewing art in an empty, pristine "white cube."</p>
             <p>Curated by Mihee Ahn.</p>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Jean Shin</li>
                 <li>Niizeki Hiromi</li>
                 <li>Yangah Ham</li>
 			</ul>
-        
-        
-        
-            <h2>MILIEU PART III: Color in the Art of </h2>
+
+
+
+            <h2>Milieu Part III: Color in the Art of </h2>
 			<p><span class="date">May 18 - July 15, 2000</span></p>
-            <p>Asian American Artists and their Milieu 1945 - 65 – Third in a Series.</p>
+            <p>The second of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965.” Curated by Robert Lee.</p>
             <p>Panel Discussion: Natvar Bhavsar, Corinne Robins, Ninochka Rosca, Patricia Karetzky, co-sponsored by China Institute.</p>
-            <p>Curated by Robert Lee.</p>
-            <h6>Participating Artists:</h6> 
+            <h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Natvar Bhavsar</li>
                 <li>Venancio C. Igarta</li>
@@ -155,15 +154,14 @@ include '_inc/head.php';
                 <li>Ted Kurahara</li>
                 <li>Seong Moy</li>
 			</ul>
-        
-            
-        
+
+
+
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav id="mm" role="navigation">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-

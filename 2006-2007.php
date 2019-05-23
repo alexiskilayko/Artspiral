@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">2006 &ndash; 2007</span>
 			<h2>THREE WOMEN: Art and Spiritual Practice</h2>
 			<p><span class="date">September 22 – November 3, 2006</span></p>
-			<p>All art to some extent, lays claim to concerns of the spirit. For some artists, however, spiritual issues occupy a central concern, some indicate another realm or existential plane, others are based on access to esoteric knowledge and posit this in their work. The art making practice of these three women is affected by such beliefs as well as the mental states and artistic recipes that have evolved for them as individual personalities, coming to bear fruit with the fragrance of each art work created. Such art intimates a disclosure – that this life is staged in the context of a larger mystery and mundane habits and occurrences can be transformed by the light of this mystery. Curated by Robert Lee.</p>
+			<p>Exhibition of artists who find their calling in a secular society of contradictions and paradox. All art to some extent, lays claim to  concerns of the spirit.  For some artists, however, spiritual issues occupy a central concern, some indicate another realm or existential plane, others are based on access to esoteric knowledge and posit this in their work.  The art making practice of these three women is affected by such beliefs as well as the mental states and  artistic recipes that have evolved for them as individual personalities coming to bare fruit with the fragrance of each art work created  In this way, Mikyung, Anna, & Younhee is an individual, and though one may not draw a direct tie to any one proposition on the spiritual, it is possible to say that to the extent a viewer can appreciate the art created is the extent a viewer senses the fragrant moment of its conception.  Such art intimates a disclosure – that this life is staged in the context of a larger mystery and mundane habits and occurrences can be transformed by the light of this mystery. Curated by Robert Lee.</p>
 			<img src="/_images/threewomen.png" alt="Works in the Three Women: Art and Spiritual Practice exhibition">
 			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
@@ -27,7 +27,7 @@ include '_inc/head.php';
 			<h2>Understanding the Past: Freedom of Expression and Democratic Processes Today</h2>
 			<p><span class="date">October 19, 2006</span></p>
 			<p>Presented by ThaiLinks. Visual presentation on Hok Tulaa by artist Prawat Laucharoen. Paul Handley author of the King Never Smiles. www.thailinks.org</p>
-			
+
 
 			<h2>Future Creatures in Chinatown</h2>
 			<p><span class="date">October 31 – November 30, 2006</span></p>

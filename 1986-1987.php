@@ -43,7 +43,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 1</h2>
 			<p><span class="date">February 6 – March 6, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.
+			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Banny Andrew</li>
@@ -54,6 +54,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 2</h2>
 			<p><span class="date">March 13 – April 10, 1987</span></p>
+			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<ul class="list-columns">
 				<li>Luis Cruz Azaceta</li>
 				<li>Robert Colescott</li>
@@ -62,6 +63,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 3</h2>
 			<p><span class="date">April 17 – May 12, 1987</span></p>
+			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<ul class="list-columns">
 				<li>William Jung</li>
 				<li>Charles Parness</li>
@@ -70,6 +72,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 4</h2>
 			<p><span class="date">March 13 – April 10, 1987</span></p>
+			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<ul class="list-columns">
 				<li>Albert Chong</li>
 				<li>Linda Peer</li>

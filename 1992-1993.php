@@ -16,8 +16,8 @@ include '_inc/head.php';
 			<h2>CHINA: June 4 1989</h2>
             <p><span class="date">June 4 – July 14, 1992</span> at Mexic-Arte in Austin, Texas</p>
             <p><span class="date">August 24, 1992 - October 4, 1992</span> at the Cleveland Institute of Art in Cleveland, Ohio</p>
-            <p>Traveling exhibition.</p>
-			<h6>Participating Artists:</h6> 
+            <p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred.</p>
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Aprile, Thomas R.</li>
                 <li>Albair, Stephen J.</li>
@@ -91,11 +91,12 @@ include '_inc/head.php';
                 <li>Zezmer, Sofia </li>
                 <li>Zhang, Hongtu</li>
 			</ul>
-			
+
 
 			<h2>And He Was Looking for Asia: Alternatives to the Story of Christopher Columbus Today</h2>
 			<p><span class="date">September 25 – October 29, 1992</span></p>
-			<h6>Participating Artists:</h6> 
+			<p>An exhibition exploring the Migration Period, a neglected era in European history.</p>
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Mo Bahc</li>
                 <li>Willie Cole</li>
@@ -107,11 +108,11 @@ include '_inc/head.php';
                 <li>Jorge Tacla</li>
                 <li>Barbara Takenaga</li>
 			</ul>
-        
-        
+
+
             <h2>My Eyes Blur Sometimes, at Beauty: AAAC Annual Exhibition</h2>
 			<p><span class="date">November 20 – December 30, 1992</span></p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Ela Shah </li>
                 <li>Gaye Chan </li>
@@ -125,22 +126,22 @@ include '_inc/head.php';
                 <li>Sowon Kwon </li>
                 <li>Ellen Pau</li>
 			</ul>
-        
-        
+
+
             <h2>Yin Peet</h2>
 			<p><span class="date">March 12 – April 16, 1993</span></p>
             <p>Curated by Robert Lee.</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Yin Peet</li>
 			</ul>
-        
-            
+
+
             <h2>We Count! The State of Asian Pacific America</h2>
 			<p><span class="date">May 10– May 31, 1993</span></p>
-            <p>Extensive documentation accompanied the exhibition on issues gathered by LEAP and amplified by Lorinda Chen with information on NYC. Portions were published in Artspiral. 
+            <p>Extensive documentation accompanied the exhibition on issues gathered by LEAP and amplified by Lorinda Chen with information on NYC. Portions were published in Artspiral.
 Curated by Robert Lee.</p>
-			<h6>Participating Artists:</h6> 
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Rashid Arshed</li>
                 <li>Kip Fulbeck</li>
@@ -162,13 +163,12 @@ Curated by Robert Lee.</p>
                 <li>Charles Yuen</li>
                 <li>Zarina</li>
 			</ul>
-			
+
 	</main>
-	<div class="fade"></div>	
+	<div class="fade"></div>
 	<nav id="mm" role="navigation">
 	<?php include '_inc/menu.php'; ?>
 	</nav>
 </div>
 </body>
 </html>
-

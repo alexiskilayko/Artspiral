@@ -33,7 +33,7 @@ include '_inc/head.php';
 
 			<h2>Milieu Part II</h2>
       <p><span class="date">December 1996</span></p>
-      <p>Curated by Robert Lee.</p>
+      <p>The second of a three-part exhibition exploring Asian American artists and their social environments from the years 1945 to 1965. Based on the research project begun in 1986 entitled "Asian American Artists and Their Milieu 1945 – 1965.” Curated by Robert Lee.</p>
 			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Alfonso Ossorio</li>

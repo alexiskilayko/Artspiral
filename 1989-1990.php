@@ -37,13 +37,13 @@ include '_inc/head.php';
 			<p><span class="date">October 12 - November 12, 1989</span> at Blum Helman</p>
 			<p><span class="date">November 20 -January 12, 1990</span> extended exhibition at the Asian American Arts Centre</p>
 			<p><span class="date">April 22 - June 17, 1990</span>at PS1 Museum</p>
-			<p><a href="june4-exhibition-timeline.php">View a complete timeline of this exhibition</a></p>
+			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. <a href="june4-exhibition-timeline.php">View a complete timeline of this exhibition</a></p>
 			<div class="list-columns">
 			</div>
 
 			<h2>CHINA: June 4 1989 — International Memorial Arts Festival</h2>
 			<p><span class="date"> June 4 – June 24, 1990</span></p>
-			<p>271 artists participated in this show at the Hong Kong Art Centre.</p>
+			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. 271 artists participated in this show at the Hong Kong Art Centre.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Vito Acconci	</li>

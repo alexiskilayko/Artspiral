@@ -60,7 +60,7 @@ include '_inc/head.php';
 
 			<h2>Detained</h2>
 			<p><span class="date">March 24 – May 5, 2006</span></p>
-			<p>An Arab American & Asian American exhibition aimed to bring two communities together around issues of race, exclusion & spirituality. Organized by  Rabab Abdulhadi, Director of the Center for Arab American Studies, University of Michigan & Robert Lee.</p>
+			<p>An Arab American & Asian American exhibition aimed to bring two communities together around issues of race, exclusion & spirituality. Chaplain James Yee, born and raised in New Jersey, chose to convert to Islam after serving in the US Army during the Gulf War, several years before being secretly arrested while serving at Camp Delta in Guantanamo Bay, Cuba, on allegations of espionage. He was detained for 76 days before all criminal charges were dropped. Aside from the issues raised by this incident, are the underlying spiritual questions – an American, and an Asian American, graduate of West Point who choses to convert to Islam.  It is this personal narrative that may enable people to relate to each other, not just intellectually with information and knowledge but to see and encounter each other in a different light. <a href=”www.justiceforyee.com”>Read for more information</a>. Organized by  Rabab Abdulhadi, Director of the Center for Arab American Studies, University of Michigan & Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Wafaa Bilal</li>

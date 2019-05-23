@@ -120,7 +120,7 @@ include '_inc/head.php';
 				<li>Richard Fewell - vocals</li>
 				<li>Rob Galinsky - vocals</li>
 				<li>George Gramelis - vocals</li>
-				<li>July ROse - vocals</li>
+				<li>July Rose - vocals</li>
 			</ul>
 
 	</main>
