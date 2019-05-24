@@ -23,7 +23,7 @@ include '_inc/head.php';
 
 			<h2>Chihung Yang:  Works on Paper</h2>
 			<p><span class="date">April 27 - May 26, 1984</span></p>
-			<p>Catalogue includes an introduction by Robert Lee, essay by John Yau, and several color illustrations.</p>
+			<p>Catalogue includes an introduction by Robert Lee, essay by John Yau, and several color illustrations. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Chihung Yang</li>
@@ -31,7 +31,8 @@ include '_inc/head.php';
 
 			<h2>Door Gods and Other Household Deities</h2>
 			<p><span class="date">January - February 1984</span></p>
-			<p>Rooted in the folk practices and beliefs of China, diverse paper gods are often placed on the doors and in various areas of the house, especially during holidays; they are invested with a wonderful sense of enchantment, piety and humor. Introduction by Anne Goodrich. Essays by Maxine Miska and Robert Lee.</p>
+			<p>Rooted in the folk practices and beliefs of China, diverse paper gods are often placed on the doors and in various areas of the house, especially during holidays; they are invested with a wonderful sense of enchantment, piety and humor.</p>
+			<p>Introduction by Anne Goodrich. Essays by Maxine Miska and Robert Lee. Talk on Chinese folk religion and art on December 11 by Dr. Chi Chong Lee Lao, Howard University and Dr. Sha Shung, Pse of Georgetown University. Sponsored by the Chinese Community & Cultural Center in Washington.</p>
 			<p>This exhibition traveled to the Jamaica Arts Center (May 12 – June 16, 1984), the Martin Luther King Library in Washington, DC  (Dec 9 – Jan 2 1985).</p>
 			<h6>Participating scholars:</h6>
 			<ul class="list-columns">

@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main role="main" class="content-wrapper narrow">
 		<span class="tag">1990 &ndash; 1991</span>
-			<h2>AAAC Annual Exhibition</h2>
+			<h2>1st Annual AAAC Exhibition</h2>
 			<p><span class="date">September – November, 1990</span></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
@@ -60,15 +60,14 @@ include '_inc/head.php';
 				<li>Jeffrey Yuen</li>
 				<li>Mei Wang</li>
 			</ul>
-			<h6>Photographers:</h6>
+			<h6>Photographs by:</h6>
 			<ul class="list-columns">
 				<li>Ley Chyun Lin</li>
 				<li>Editha Mesina</li>
 				<li>Gene Moy</li>
 			</ul>
-			<h6>Festival performers:</h6>
+			<h6>Festival style performances by:</h6>
 			<ul class="list-columns">
-				<li>Kuang Yu Fong - host</li>
 				<li>Richard Chen - Chinese origami</li>
 				<li>Lechuan Hwa - embroidery</li>
 				<li>Yun Shu Xu - New Years mottoes</li>

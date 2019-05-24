@@ -18,7 +18,7 @@ include '_inc/head.php';
 
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
 			<p><span class="date">March 8 – April 5, 1985</span></p>
-			<p>Curated by Robert Lee</p>
+			<p>Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Emily Cheng</li>
@@ -38,7 +38,7 @@ include '_inc/head.php';
 
 			<h2>Symposium on Contemporary Asian American Art</h2>
 			<p><span class="date">May 1, 1985</span></p>
-			<p>Organized by Margo Machida, AIR. A slide show of forty Asian American artists were presented from AAAC Artist Archive to art professionals, corporate-based art curators and independent consultants.</p>
+			<p>A slide show of forty Asian American artists were presented from AAAC Artist Archive to art professionals, corporate-based art curators, and independent consultants. Held at NYC Dept. of Cultural Affairs. Organized by Margo Machida, AIR.</p>
 			<h6>Participating artists & speakers:<h6>
 			<ul class="list-columns">
 				<li>Benny Andrews</li>
@@ -52,7 +52,7 @@ include '_inc/head.php';
 
 			<h2>Dreams and Fantasies</h2>
 			<p><span class="date">May 17 – June 14, 1985</span></p>
-			<p>Curated by Robert Lee. Catalogue includes essays by Barry Schwabsky and Robert Lee.</p>
+			<p>Catalogue includes essays by Barry Schwabsky and Robert Lee. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Helen Oji</li>
@@ -62,7 +62,7 @@ include '_inc/head.php';
 
 			<h2>The First Annual Open Studio Show</h2>
 			<p><span class="date">June 1985</span></p>
-			<p>Featured guided tours to ten artists studios in the Chinatown commnity, and a group show of works by eleven artists.</p>
+			<p>Featured guided tours to ten artists' studios in the Chinatown commnity and a group show of works by eleven artists.</p>
 			<h6>Open studio participants:</h6>
 			<ul class="list-columns">
 				<li>John Duff</li>
@@ -77,7 +77,7 @@ include '_inc/head.php';
 				<li>Arlan Huang</li>
 				<li>Tjokorda Gede</li>
 			</ul>
-			<h6>Group show participants:</h6>
+			<h6>Gallery show participants:</h6>
 			<ul class="list-columns">
 				<li>Amy Cheng</li>
 				<li>Hugo Kobayashi</li>

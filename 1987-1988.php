@@ -33,7 +33,7 @@ include '_inc/head.php';
 
 			<h2>From Cambodia to the Bronx</h2>
 			<p><span class="date">January – February 1988</span></p>
-			<p>An exhibit of photographs documenting the Cambodian refugee community in the Bronx. Curated by Robert Lee</p>
+			<p>An exhibit of photographs documenting the Cambodian refugee community in the Bronx. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Leah Melnick</li>
@@ -41,7 +41,7 @@ include '_inc/head.php';
 
 			<h2>Yesterday: Reflections on Childhood</h2>
 			<p><span class="date">March – April, 1988</span></p>
-			<p>Catalogue essay by Kimiko Hahn.</p>
+			<p>An exhibit of works that reflect the artists' unique perspectives as Asian American through experiences in their childhood. Catalogue essay by Kimiko Hahn.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Yoshiki Araki</li>
@@ -61,7 +61,7 @@ include '_inc/head.php';
 			</ul>
 
 			<h2>The 4th Annual Open Studio Show</h2>
-			<p><span class="date">May 1986</span></p>
+			<p><span class="date">April - May 1986</span></p>
 			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by twelve artists. </p>
 			<h6>Open studio participants:</h6>
 			<ul class="list-columns">

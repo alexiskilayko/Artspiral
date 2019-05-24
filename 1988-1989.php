@@ -15,27 +15,27 @@ include '_inc/head.php';
 		<span class="tag">1988 &ndash; 1989</span>
 			<h2>The 5th Annual Open Studio Show</h2>
 			<p><span class="date">October 1988</span></p>
-			<p>Featured guided tours to six artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
+			<p>Featured guided tours to six artists' studios in the Chinatown community, and a group show of works by ten artists. </p>
 			<h6>Open studios participants:</h6>
 			<ul class="list-columns">
-				<li>Lee Brozgold </li>
-				<li>Bruce Edelstein </li>
-				<li>John de Fazio </li>
+				<li>Lee Brozgold</li>
+				<li>Bruce Edelstein</li>
+				<li>John de Fazio</li>
 				<li>Arlan Huang</li>
-				<li>Arleen Schloss </li>
+				<li>Arleen Schloss</li>
 				<li>April Vollmer</li>
 			</ul>
 			<h6>Gallery show participants:</h6>
 			<ul class="list-columns">
 				<li>John Allen </li>
-				<li>Toyo Tsuchiya </li>
-				<li>Rashid Arshed </li>
+				<li>Toyo Tsuchiya</li>
+				<li>Rashid Arshed</li>
 				<li>Paul Wong</li>
-				<li>Sun Joon Choh </li>
-				<li>Goro Fujii </li>
+				<li>Sun Joon Choh</li>
+				<li>Goro Fujii</li>
 				<li>Sue Kwok Gross</li>
 				<li>Ken Hiratsuka</li>
-				<li>Kazumi Matsumoto </li>
+				<li>Kazumi Matsumoto</li>
 				<li>Hilda Shen</li>
 			</ul>
 
@@ -85,7 +85,7 @@ include '_inc/head.php';
 
 			<h2>Uptown/DownTown</h2>
 			<p><span class="date">April 6 – May 12, 1989</span></p>
-			<p>An exhibition of Asian American Artists held at the City Gallery, NY Department of Cultural affairs and at the AAAC. Mary Schimdt Campell gave a talk to accompany the exhibition entitled “Welcoming”.</p>
+			<p>An exhibition of Asian American Artists held at the City Gallery, NY Department of Cultural affairs and at the AAAC. Mary Schimdt Campell gave a talk to accompany the exhibition entitled “Welcoming.” Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Toshio Sasaki </li>
@@ -103,7 +103,7 @@ include '_inc/head.php';
 
 			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">June 9 - September 30, 198</span></p>
-			<p>An exhibition of art in response to the Tiananmen Square event in China, in which students protesting for democracy were massacred. Initial stage. <a href="june4-exhibition-timeline.php">View a complete timeline</a> of this exhibition.</p>
+			<p>The initial stage of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. <a href="june4-exhibition-timeline.php">View a complete timeline</a> of this exhibition.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Stephen J. Albair</li>

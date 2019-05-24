@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1986 &ndash; 1987</span>
 			<h2>Roots to Reality II: Alternate Visions</h2>
 			<p><span class="date">October 17 - November 26, 1986</span></p>
-			<p>A collaboration between Henry St. Settlement and the Alliance for Asian American Arts and Culture. A festival of Asian American visual and performing arts. Other selection committees for dance, media, music, theatre/poetry. Project Director: Joyce Griffen. Catalogue: 36 pages with introduction by Fred Wei-han Houn, Exec. Committee, Exhibition. Introduction by Margo Machida, Project Director. Held at Henry St. Settlement.</p>
+			<p>A festival of Asian American visual and performing arts and collaboration between Henry St. Settlement and the Alliance for Asian American Arts and Culture. Held at Henry St. Settlement. Introduction by Margo Machida. Project direction by Joyce Griffen. Catalogue includes introduction by Fred Wei-han Houn.</p>
 			<h6>Visual Artists selection committee:</h6>
 			<ul class="list-columns">
 				<li>David Diao</li>
@@ -43,7 +43,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 1</h2>
 			<p><span class="date">February 6 – March 6, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
+			<p>First of four parts in a series that invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Banny Andrew</li>
@@ -54,7 +54,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 2</h2>
 			<p><span class="date">March 13 – April 10, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
+			<p>Second of four parts in a series that invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Luis Cruz Azaceta</li>
@@ -64,7 +64,7 @@ include '_inc/head.php';
 
 			<h2>The Mind’s I, Part 3</h2>
 			<p><span class="date">April 17 – May 12, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
+			<p>Third of four parts in a series that invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>William Jung</li>
@@ -72,20 +72,9 @@ include '_inc/head.php';
 				<li>Jorge Tacla</li>
 			</ul>
 
-			<h2>The Mind’s I, Part 4</h2>
-			<p><span class="date">March 13 – April 10, 1987</span></p>
-			<p>This series invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
-			<h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Albert Chong</li>
-				<li>Linda Peer</li>
-				<li>Alison Saar</li>
-				<li>Patti Warashina</li>
-			</ul>
-
 			<h2>The 3rd Annual Open Studio Show</h2>
 			<p><span class="date">May 1987</span></p>
-			<p>Featured guided tours to thirteen artists studios in the Chinatown community, and a group show of works by fifteen artists. </p>
+			<p>Featured guided tours to thirteen artists' studios in the Chinatown community, and a group show of works by sixteen artists. </p>
 			<h6>Open studio participants:</h6>
 			<ul class="list-columns">
 				<li>Amy Cheng</li>
@@ -113,6 +102,17 @@ include '_inc/head.php';
 				<li>Carol Sun</li>
 				<li>Carrie Yamoaka</li>
 				<li>Teru Yoshida</li>
+			</ul>
+
+			<h2>The Mind’s I, Part 4</h2>
+			<p><span class="date">May 29 – June 23, 1987</span></p>
+			<p>Final of four parts in a series that invites artists of diverse backgrounds to approach their changing self-conceptions. Curated by Robert Lee.</p>
+			<h6>Participating artists:</h6>
+			<ul class="list-columns">
+				<li>Albert Chong</li>
+				<li>Linda Peer</li>
+				<li>Alison Saar</li>
+				<li>Patti Warashina</li>
 			</ul>
 		</main>
 	<div class="fade"></div>

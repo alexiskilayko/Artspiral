@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1982 &ndash; 1983</span>
 			<h2>Eye To Eye</h2>
 			<p>This was the first panel on the East Coast bringing together Asian American visual artists to discuss mutual concerns. A slideshow of 21 important artists was presented.</p>
-			<p>Panel Discussion: David Diao, Margo Machida, Lucy Lippard, Lydia Okumura, Kit Yin Snyder, John Woo, John Yau</p>
+			<p>Panelists: David Diao, Margo Machida, Lucy Lippard, Lydia Okumura, Kit Yin Snyder, John Woo, John Yau</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Fong Chow</li>

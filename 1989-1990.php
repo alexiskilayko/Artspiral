@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1989 &ndash; 1990</span>
 			<h2>Aurora</h2>
 			<p><span class="date">March 8 – April 4th, 1990</span></p>
-			<p>Guest curated by Fred Wilson</p>
+			<p>Guest curated by Fred Wilson.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Sook-Jin Jo</li>
@@ -27,9 +27,9 @@ include '_inc/head.php';
 			<p><span class="date">May 10 – June 29, 1990</span></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-				<li>Stefan Umaerus (Sweden)</li>
+				<li>Stefan Umaerus</li>
 				<li>Alan Chan</li>
-				<li>“Deng” (Zhang Yong Xu) (China)</li>
+				<li>Deng (Zhang Yong Xu)</li>
 			</ul>
 
 			<h2>CHINA: June 4 1989</h2>
@@ -41,7 +41,7 @@ include '_inc/head.php';
 
 			<h2>CHINA: June 4 1989 — International Memorial Arts Festival</h2>
 			<p><span class="date"> June 4 – June 24, 1990</span></p>
-			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. 271 artists participated in this show at the Hong Kong Art Centre.</p>
+			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. About one hundred small works were selected by the guest curators John Yau, Susanna Torruella Leval, Nancy Spiro, and Howard McCalebb. Oversize works were excluded by the curators.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Vito Acconci	</li>
