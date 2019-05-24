@@ -16,7 +16,7 @@ include '_inc/head.php';
 	<section class="timeline">
 		<div class="timeline-block">
 			<div class="timeline-circle"> </div>
-			<a class="timeline-content" href="/2016-2017.php">
+			<a class="timeline-content" href="/2017-2018.php">
 				<span class="date">2017 - 2018</span>
 				<ul>
 					<li>Selected Works from AAAC Archive & Permanent Collection</li>
@@ -29,7 +29,6 @@ include '_inc/head.php';
 				<span class="date">2016 - 2017</span>
 				<ul>
 					<li>First Responders</li>
-					<li>Selected Works from AAAC Archive & Permanent Collection</li>
 				</ul>
 			</a>
 		</div>
@@ -54,7 +53,7 @@ include '_inc/head.php';
 		</div>
 		<div class="timeline-block">
 			<div class="timeline-circle">	</div>
-			<a class="timeline-content" href="/2013-2014.php">
+			<a class="timeline-content" href="/2012-2013.php">
 				<span class="date">2012 – 2013</span>
 				<ul>
 					<li>Ideas Chinatown</li>
