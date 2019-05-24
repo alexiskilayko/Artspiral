@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main class="content-wrapper narrow">
 		<span class="tag">1984 – 1985</span>
-			<h2>People of China: Photos of Lee C. Lee, Asian American Studies Scholar at Cornell University<h2>
+			<h2>People of China: Photos of Lee C. Lee, Asian American Studies Scholar at Cornell University</h2>
 			<p><span class="date">February 1 - February 27, 1985 (as Asian Arts Institute)</span></p>
 
 			<h2>Emily, Anna and Ti Shan: the First Generation</h2>
