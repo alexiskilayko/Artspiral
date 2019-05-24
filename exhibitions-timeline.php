@@ -280,7 +280,6 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/1995-1996.php">
 				<span class="date">1995 – 1996</span>
 				<ul>
-					<li>Ancestors: A Collaborative Project with Kenkeleba House</li>
 					<li>Joseph Yen</li>
 					<li>12 Thoughts and Frank</li>
 					<li>Passion and Compassion: Five Artists' Reflections on Buddhism</li>
@@ -310,7 +309,6 @@ include '_inc/head.php';
 					<li>Milieu: Part I</li>
 					<li>Betrayal/Empowerment Part I</li>
 					<li>Betrayal/Empowerment Part II</li>
-					<li>CHINA: June 4 1989</li>
 				</ul>
 			</a>
 		</div>

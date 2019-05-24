@@ -14,8 +14,8 @@ include '_inc/head.php';
 	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1994 &ndash; 1995</span>
 			<h2>CHINA: June 4 1989</h2>
-			<p><span class="date">October 14 – November 30, 1994</span> at Buckham Gallery in Flint Michigan</p>
-      <p>Traveling exhibition.</p>
+			<p><span class="date">October 14 – November 30, 1994</span>
+      <p>The final stage of a traveling exhibition. Held at Buckham Gallery in Flint, Michigan.</p>
       <p>This was an art exhibition organized by the Asian American Arts Centre marking the massacre in Tiananmen Square, Beijing, on June 4, 1989. The exhibition was jointly curated by Lau Gin Wei (Hong Kong), Robert Lee, director of the Asian American Arts Centre, and John Yau, poet & art critic. This exhibition has traveled from the Asian American Arts Centre in New York to the Institute for Contemporary Art P. S. 1 Museum in Long Island City, the Hong Kong Arts Center, and to Buckham Gallery in Flint, Michigan. This exhibition was selected by Art in America as one of the most important exhibitions of the year.</p>
       <p>This exhibition aims to educate the public about the Tiananmen Square massacre and the struggle for human rights. Hundreds of artists have joined together to create this momentous symbol in memory of Tiananmen Square. Five years after Tiananmen Square and less than a year after the World Conference on Human Rights in Vienna, the terror of Tiananmen Square has receded in time. The memory of Tiananmen Square, however, has not been forgotten. This exhibition of the art that was forged in its aftermath continues to keep that memory alive. Tiananmen Square and the terror of what a government can do to its own people is a potent reminder.</p>
       <p>The symbolic core of the exhibition is a wall of free standing doors, painted and sculpted, which are linked together, enabling additional artists to join in shaping the form of this wall. Linked freestanding doors express and symbolize hope for the future of China through collaboration and participation.</p>
@@ -130,8 +130,9 @@ include '_inc/head.php';
 				<li>Sikay Tang </li>
 			</ul>
 
-			<h2>Photography and Community:  AAAC Annual Exhibition</h2>
+			<h2>Photography and Community: 4th Annual Exhibition</h2>
 			<p><span class="date">November 17 – December 31, 1994</span></p>
+			<p>Curated by Robert Lee.
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Mei-Ling Hom</li>
@@ -141,7 +142,7 @@ include '_inc/head.php';
 
 			<h2>Chinese/Korean Calligraphy</h2>
 			<p><span class="date">February 9 – March 4, 1995</span></p>
-			<p>Organized by Dr. Sun Wuk Kim & Robert Lee.</p>
+			<p>An exhibition in which local Chinatown community business leaders who practice calligraphy/ink painting were paired with two visiting contemporary calligraphers from South Korea. Organized by Dr. Sun Wuk Kim & George Young.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tsui Jin Yuk </li>
@@ -191,6 +192,11 @@ include '_inc/head.php';
         <li>Lui Lan Ding</li>
         <li>Richard Mafong</li>
         <li>Prestone Jackson</li>
+			</ul>
+			<h6>Musicians:</h6>
+			<ul class="list-columns">
+				<li>Butch Morris</li>
+				<li>Sumi Tonooka</li>
 			</ul>
 	</main>
 	<div class="fade"></div>

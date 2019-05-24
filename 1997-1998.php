@@ -60,7 +60,7 @@ include '_inc/head.php';
 
       <h2>Paper Deities in New York: Beliefs and Legends of China</h2>
 			<p><span class="date">January 30 – early March, 1998</span></p>
-      <p>NY Flushing Council on Culture and the Arts.</p>
+      <p>Selections from the Permanent Folk Art Collection of AAAC. Held at the NY Flushing Council on Culture and the Arts.</p>
       <p>An introduction to the Paper Deities of China and their relationship to the Chinese American community in the United States. In Chinese communities throughout the world today, fresh fruit, incense, and liquor are given as offerings to these deities.  In the vivid language of a mythology fraught with significance, these offerings stand silently as the unspoken faith that serves to keep the memory of Chinese ideals alive.  The pantheon of these courageous and noble characters are exemplary spirits in a resilient, ongoing historical process, framing Chinese thought and culture for centuries.</p>
 			<h6>Performances by:</h6>
 			<ul class="list-columns">

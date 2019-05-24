@@ -34,7 +34,8 @@ include '_inc/head.php';
 			</ul>
 
       <h2>Betrayal/Empowerment Part I</h2>
-			<p><span class="date">March 18 – April 30, 1994</span> at AAAC</p>
+			<p><span class="date">March 18 – April 30, 1994</span></p>
+			<p>Held at AAAC.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Diyan Achjadi</li>
@@ -54,7 +55,8 @@ include '_inc/head.php';
       <h2>Betrayal/Empowerment Part II</h2>
 			<p><span class="date">April 18 – May 4, 1994</span></p>
       <p>extended to <span class="date">June 10, 1994</span></p>
-      <p>Held at Columbia University Teacher's College as part of a two-day conference on Asian American issues.</p>
+			<p>Now that diverse peoples have embarked on the path of empowerment, it is appropriate to ask, what will restore our humanity beyond empowerment?  If we have access to the race for power and, perhaps, to win it, is this clearly our aim or is the race for power itself limited, even flawed?   In seeking a humanity beyond empowerment, artists from each generation can recall for us cultural memories that, as Amalia Mesa Bains has said,  "....allows us to assert our sense of continuity against all odds".</p>
+      <p>Exhibition of works by artists who began their careers in the 1950s, 60s, 70s, and 80s. Held at and in collaboration with Columbia University Teacher's College as part of a two-day conference on Asian American issues.</p>
       <p>Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
@@ -70,107 +72,6 @@ include '_inc/head.php';
         <li>Robert E. Reynolds</li>
         <li>Suzanne K. Saylor</li>
         <li>Anjum Singh</li>
-			</ul>
-
-			<h2>CHINA: June 4 1989</h2>
-			<p><span class="date">October 14, 1994 - November 30, 1994</span></p>
-			<p>The final stage of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. Held at Buckham Gallery in Flint, Michigan.</p>
-			<h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Aprile, Thomas R.</li>
-				<li>Albair, Stephen J.</li>
-				<li>Allen, John</li>
-				<li>Amoros, Grimanesa</li>
-				<li>Azaceta, Luis Cruz</li>
-				<li>Bahc, Mo</li>
-				<li>Baron, Ronald</li>
-				<li>Beaumont, Betty</li>
-				<li>Bowman, Daniel</li>
-				<li>Boza, Juan</li>
-				<li>Briere, Manon</li>
-				<li>Byler, James Jay</li>
-				<li>Camnitzer, Luis</li>
-				<li>Chin, Mel & Concoran School of Art</li>
-				<li>Chu, Julia Nee/Ca</li>
-				<li>Clark, Scott Klee</li>
-				<li>Colin, Muriel</li>
-				<li>Cortes, Esperanz</li>
-				<li>Decreeft, Donna Maria</li>
-				<li>Denes, Agnes</li>
-				<li>Diao, David</li>
-				<li>Dimon, Roz</li>
-				<li>Do, Lotus</li>
-				<li>Duff, John</li>
-				<li>Fowler, Paul M.</li>
-				<li>Fu, Woody</li>
-				<li>Golub, Leon</li>
-				<li>Gonzalez, Maria Elena</li>
-				<li>Heap of Birds, Edgar / OK Hill, Robin</li>
-				<li>Hoop</li>
-				<li>Hughes, Holly</li>
-				<li>Hung, Kuan-Chak</li>
-				<li>Hung, Ying S.</li>
-				<li>Ishino, Cathy</li>
-				<li>Izuka, Kunio</li>
-				<li>Kang, Ik-Joong</li>
-				<li>Kim, Byron</li>
-				<li>Koorland, Vivienne</li>
-				<li>Kruger, Barbara</li>
-				<li>Kuo, Anna</li>
-				<li>Laughin, Ian</li>
-				<li>Lascari, Anna</li>
-				<li>Lee, Bing</li>
-				<li>Lee, Gerald</li>
-				<li>Ling Ling (Billy Harlem)</li>
-				<li>Lipski, Donald</li>
-				<li>Lum, Mary</li>
-				<li>Mei, Dean-I</li>
-				<li>Morr, Erik</li>
-				<li>Msika, Jean</li>
-				<li>Mur-Ray Ming /Ca</li>
-				<li>Nabeska, Eva</li>
-				<li>Nemec, Vernita</li>
-				<li>Oshima, Mari</li>
-				<li>Palaia, Franc/NJ</li>
-				<li>Parcher, Joyce</li>
-				<li>Porter, Liliana</li>
-				<li>Rodrigo, Pascal</li>
-				<li>Red Spot (J. Allen Daugherty)</li>
-				<li>Ruhren, Andrew</li>
-				<li>Schimdt, James T.</li>
-				<li>Shih, Nora Ling-Yun</li>
-				<li>Shoemaker, Pamela</li>
-				<li>Sivilli, Valerie</li>
-				<li>Tacla, Jorge</li>
-				<li>Tsuda, Rumiko & Georges, Daniel</li>
-				<li>Tran, Cuon (Han Khiang Hei)</li>
-				<li>Watkins, Tim</li>
-				<li>White, Peter</li>
-				<li>Wong, Martin</li>
-				<li>Young, Laura</li>
-				<li>Yu, Sun Ching</li>
-				<li>Zezmer, Sofia</li>
-				<li>Zhang, Hongtu</li>
-			</ul>
-			<ul class="list-columns">Additional artists from Flint:</ul>
-				<li>Chris Waters</li>
-				<li>Kay Goodall</li>
-				<li>Connie Daros</li>
-				<li>Joseph Mihalic</li>
-				<li>Michelle Reidling</li>
-				<li>Kathryn Pekarek</li>
-				<li>Mike Lily</li>
-				<li>Meghan Carbary</li>
-				<li>Debra Grissom</li>
-				<li>Kathryn Gehrs-Pahl</li>
-				<li>Cheryl Dyelle</li>
-				<li>Gary Gebhardt</li>
-				<li>James Lawton</li>
-				<li>Laura Cloud</li>
-				<li>anonymous student</li>
-				<li>John Dempsey</li>
-				<li>Cathy Smith</li>
-				<li>Laura Cloud's sculpture students at Michigan State University</li>
 			</ul>
     </main>
 	<div class="fade"></div>

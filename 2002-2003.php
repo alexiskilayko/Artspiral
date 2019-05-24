@@ -90,17 +90,17 @@ include '_inc/head.php';
 
 			<h2>Not Your Chop Suey Chinatown: Eight Photographers selected by Corky Lee</h2>
 			<p><span class="date">December 6, 2002 – January 13, 2003</span></p>
-      <p>Each artist offers a different point of view that expresses the contemporary world of Chinatown in today's society. After 9/11, this exhibition seeks to show the inner life of Chinatown. Bringing these images into focus may help alter how Chinatown is regarded, cutting through misperceptions.</p>
+			<p>Each artist offers a different point of view that expresses the contemporary world of Chinatown in today's society. After 9/11, this exhibition seeks to show the inner life of Chinatown. Bringing these images into focus may help alter how Chinatown is regarded, cutting through misperceptions.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-        <li>Chien-Chi Chang</li>
-        <li>Alan Chin</li>
-        <li>Julia Cowling</li>
-        <li>Cheng Hui Hsu</li>
-        <li>Botumroath Keo Lebun</li>
-        <li>Chee Wang Ng</li>
-        <li>Wai Ng</li>
-        <li>Joseph Songco</li>
+				<li>Chien-Chi Chang</li>
+				<li>Alan Chin</li>
+				<li>Julia Cowling</li>
+				<li>Cheng Hui Hsu</li>
+				<li>Botumroath Keo Lebun</li>
+				<li>Chee Wang Ng</li>
+				<li>Wai Ng</li>
+				<li>Joseph Songco</li>
 			</ul>
 
       <h2>Below the Canal: After 9/11</h2>

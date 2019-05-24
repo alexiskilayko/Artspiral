@@ -39,7 +39,7 @@ include '_inc/head.php';
 
       <h2>Gulp and Gallop!</h2>
 			<p><span class="date">December 4, 1998 – January 16, 1999</span></p>
-      <p>Guest Curated by Hideki Kurasawa.</p>
+      <p>Guest curated by Hideki Kurasawa.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Ushio Shinohara </li>
@@ -60,6 +60,8 @@ include '_inc/head.php';
       <h2>Six O'Clock Observed: Photos by Toyo Tsuchiya</h2>
 			<p><span class="date">May 21 – June  26, 1999</span></p>
 			<p>A mid career exhibition.</p>
+			<p>Panelists: Alan W. Moore, Linda Shapiro, Kazuko Miyamoto, Reiko Tomii, Toyo Tsuchiya</p>
+			<p>Nominating panelists: Vinod Dave, Ming Fay, Ti SHan Hsu, Kazuko Miyamoto Joon Lee, Tara Sabharwal, Reiko Tomii</p>
 			<h6>Participating artists:</h6>
       <ul class="list-columns">
 				<li>Toyo Tsuchiya</li>
@@ -67,7 +69,8 @@ include '_inc/head.php';
 
 			<h2>EE! EE! EE! TRANSlation/plantation/formation</h2>
 			<p><span class="date">August 14, 1999</span></p>
-			<p>A free sculptural performance held in Bryant Park, 42nd Street & 6th Ave in NYC. As ice melts a great white ball rises…. A collaboration with a Chinese poet, an American poet, and a sculptor, with additional four women performers.  Collages of multi-layered, multi-faceted aspects in communcation, combine visual elements and three spoken languages – Chinese, Taiwanese & English – to foreground human desire as a process of translation, transplantation, and transformation. Sponsored by Contemporary Arts International in Boston. Administered by AAAC.</p>
+			<p>As ice melts a great white ball rises... A collaboration with a Chinese poet, an American poet, and a sculptor, with additional four women performers.  Collages of multi-layered, multi-faceted aspects in communcation, combine visual elements and three spoken languages – Chinese, Taiwanese & English – to foreground human desire as a process of translation, transplantation, and transformation.</p>
+			<p>A free sculptural performance held in Bryant Park, 42nd Street & 6th Ave in NYC. Sponsored by Contemporary Arts International in Boston. Administered by AAAC.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Meng Lang</li>

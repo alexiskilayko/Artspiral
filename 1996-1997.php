@@ -51,7 +51,7 @@ include '_inc/head.php';
 
       <h2>Impressions: Contemporary Asian Artists Prints</h2>
 			<p><span class="date">February 1 – April 11, 1997</span></p>
-      <p>An exhibition and publication by Brandywine Workshop in Philadelphia.ssay by Robert Lee: “Asian American Art: One Perspective”</p>
+      <p>An exhibition and publication by Brandywine Workshop in Philadelphia. Essay by Robert Lee, “Asian American Art: One Perspective.”</p>
 
       <h2>Three Generations: Towards an Asian American Art History</h2>
 			<p><span class="date">April – May 1997</span></p>

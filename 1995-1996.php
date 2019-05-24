@@ -13,46 +13,9 @@ include '_inc/head.php';
 	</nav>
 	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1995 &ndash; 1996</span>
-			<h2>Ancestors: A Collaborative Project with Kenkeleba House</h2>
-			<p><span class="date">March - May 1995</span></p>
-			<p>Examined the historical ties between African and Asian Americans. Given the rites and beliefs of diverse people permeate society, "...we recognize the wealth of our heritage as Americans and encourage the act of paying homage to all the Ancestors of this Land." Organized by Corrine Jennings and Robert Lee. Mounted at Kenkeleba House, 214 East 2nd St. and at AAAC. Ancestors total: 26. Outdoor I Gung Gong dance by Sumie Arts Center.</p>
-			<h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Camille Billops, AfA</li>
-				<li>Robert Craddock, AfA</li>
-				<li>Helen Oji, JA</li>
-				<li>Roy Hiro Calloway, AfJA</li>
-				<li>David Higginbotham, AfA</li>
-				<li>Yoland Skeete, AfCA (NJ)</li>
-				<li>Simone Leigh, AfCA</li>
-				<li>Toshinori Kuga, JA</li>
-				<li>Anton Wong, AfCA</li>
-				<li>Sana Musasama, AfA</li>
-				<li>Lisa K. Yi, KA</li>
-				<li>Lily Yeh, CA (PA)</li>
-				<li>Howardena Pindell, AfAsA</li>
-				<li>Faith Ringgold, AfA (CA)</li>
-				<li>Eunju Kang, KA</li>
-				<li>Thomas Vu Daniel, VA (T)</li>
-				<li>Lotus Do Brooks, EurCA</li>
-				<li>Charles Burwell, AfA</li>
-				<li>Elaine Wong, AfCA (MA)</li>
-				<li>Albert V. Chong, AfCA (CO)</li>
-				<li>Hyon Joo Kim, KA (W)</li>
-				<li>Lui Lan Ding (China)</li>
-				<li>Richard Mafong, CA (NC)</li>
-				<li>Prestone Jackson, AfA (W)</li>
-			</ul>
-			<h6>Musicians:</h6>
-			<ul class="list-columns">
-				<li>Butch Morris, AfA</li>
-				<li>Sumi Tonooka, AfJA</li>
-			</ul>
-
 			<h2>Joseph Yen</h2>
 			<p><span class="date">September 1995</span></p>
-      <p>Essay by Eleanor Heartney.</p>
-      <p>Organized by Yin Peet.</p>
+      <p>Essay by Eleanor Heartney. Organized by Yin Peet.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Joseph Yen</li>
