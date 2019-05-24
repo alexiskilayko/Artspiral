@@ -15,8 +15,8 @@ include '_inc/head.php';
 		<span class="tag">2005 &ndash; 2006</span>
 			<h2>Butternut Ink: the 14th Annual Exhibition</h2>
 			<p><span class="date">September 24 – November 25, 2004</span></p>
-			<p>Held in Collaboration with the Korea Society</p>
-			<h6>Participating Artists:</h6>
+			<p>Held in collaboration with the Korea Society</p>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Rutherford Chang</li>
 				<li>Schwufen Lee</li>
@@ -30,7 +30,7 @@ include '_inc/head.php';
 				<li>Jaye Rhee</li>
 				<li>Rashmi Talpade</li>
 			</ul>
-			<h6>Selection Panelists:</h6>
+			<h6>Selection panelists:</h6>
 			<ul class="list-columns">
 				<li>Koan-Jeff Baysa</li>
 				<li>Joan Kee</li>
@@ -42,7 +42,7 @@ include '_inc/head.php';
 			<h2>The Topography of Absence</h2>
 			<p><span class="date">November 19 – December 31, 2004</span></p>
 			<p>Curated by Katarina Wong, this exhibition offers different ways artists delve into the landscape of their own experiences in an attempt to understand and grasp absence as fullness. Through work that offers viewers a series of quiet meditations of overlooked actions, impulses and detritus, the empty trivial mundane moments of life are given an unexpected wonder. By examining the topography of their lives, artists find overlooked landscapes, not unlike the visual voyage through a Chinese landscape painting, providing an opportunity for us to re-assess what is truly important.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Amy Kao</li>
 				<li>Shin-ili Kim</li>
@@ -54,8 +54,9 @@ include '_inc/head.php';
 			<h2>為盼 New York Eviction Blues</h2>
 			<p><span class="date">March 31 – March 10, 2006</span></p>
 			<p>Asian American Arts Centre (AAAC) fights eviction from its home of 28 years. It featured a select group of artists who have supported AAAC over many years. Many have a statement/story about their struggle with space, landlords, city regulations and real estate. The history of this urban struggle is reviewed, beginning in the 60s, to the passage of the Loft Law in 1982, to the current recognition among planners and government agencies of the central role the arts play in neighborhood revitalization. </p>
-			<p>A Panel Talk was held on  April 13th featuring Arlene Raven the art critic, Rebecca Goyette of First St. Studios, and Cathy Nanda of chashama.</p>
+			<p>A Panel Talk was held on April 13th featuring Arlene Raven the art critic, Rebecca Goyette of First St. Studios, and Cathy Nanda of chashama.</p>
 			<p>Another exhibition space - ABC No Rio 為V mounted a sister show 為盼 in solidarity 為洫 from April 21 - May 12, 2005</p>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>ON/Megumi Akiyoshi</li>
 				<li>Judith Bernstein</li>
@@ -112,7 +113,10 @@ include '_inc/head.php';
 			<h2>Mid Career: Mei-ling Hom / Zhang Jian-jun</h2>
 			<p><span class="date">May 27 – July 1, 2005</span></p>
 			<p>Mid-Career Nominating Panelists: Reiko Tomii, Lilly Wei, Johnathan Goodman, Judy Collischan, and Tomie Arai.</p>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
+				<li>Mei-ling Hom</li>
+				<li>Zhang Jian-jun</li>
 			</ul>
 
 			<h2>ARTSLAMS</h2>
@@ -144,7 +148,6 @@ include '_inc/head.php';
 				<li>La Thoriel Badenhausen</li>
 				<li>Deanna Lee</li>
 			</ul>
-
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">

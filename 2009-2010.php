@@ -21,7 +21,7 @@ include '_inc/head.php';
 			<p>In the era of globalization, and the discourse associated with international art developments, the exploration of identity has come to be seen as passé in many sectors of the art world.  Yet the importance of visibility and recognition for Asian American artists, from the long view of history rather than the marketplace, continues.  In this light the Gallery Talk event of artists and writers held at White Box on Oct  7th was broadcast live on artasiamerica and remains accessible for <a href="http://www.ustream.tv/channel/out-of-the-archive-process-and-progress"> viewing online.</a> Catalogues can be purchased through a <a href="/support.php">donation</a> to the AAAC. A panel conversation on the exhibition and digital archive was held at the Tribeca Performing Arts Center on December 9, 2009.</p>
 			<p>This was the last exhibition held in the gallery at 26 Bowery, AAAC’s home for thirty-three years.</p>
 			<img src="/_images/oota.png" alt="Works from Tomie Arai, Albert Chong, John Yoyogi Fortes, Swati Khurana in the exhibition Out of the Archive">
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tomie Arai</li>
 				<li>Albert Chong</li>
@@ -32,7 +32,7 @@ include '_inc/head.php';
 			<h2>Out of the Archive: Progress and Community</h2>
 			<p><span class="date">December 9, 2009</span></p>
 			<p>Held at Tribeca Performing Arts Center, Borough of Manhattan Community College (BMCC). Moderated by Robert Lee. DVA curation by Susan Fleminger.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Nathalie Pham</li>
 				<li>Eun Young Choi</li>
@@ -44,7 +44,6 @@ include '_inc/head.php';
 			<p>Two lectures by Dr. Fang Lili and Zhu Legeng, held at University Settlemtn, Houston St Center.</p>
 			<p>In her talk, "Inheritance and Development of Jingdezhen Ceramic Craftsmanship," Fang Lili discussed her study of how the handicraft of China has been adapted to modern times. She delineates three stages in China’s modernization and describes the relationships between tradition and modernization at Jingdezhen, a historic center for ceramics. Jindezhen is the case study because its traditional ceramic craftsmanship and the culture system based on it were attacked and essentially overthrown by a modern, industrial system. The craft’s native characteristics persisted and was preserved well in the new internationalized culture. The belief in tradition as a resource for a new culture and economy won out against the attack where reason opposed custom.</p>
 			<p>Zhu Legeng from the Chinese Academy of Arts' talk, entitled, "My Odyssey in Ceramics," recounted how the artist overcame obstacles of the communist cooperative factory ceramics system in China to found and develop one of the first private ceramics studios in the post-Mao era.</p>
-
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">

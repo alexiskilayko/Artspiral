@@ -20,7 +20,7 @@ include '_inc/head.php';
 			<h2>Space Time: Presence</h2>
 			<p><span class="date">May 3, 2013</span></p>
 			<p>Theories of Relativity and Quantum Mechanics are popular notions yet Newtonian perceptions continue to prevail. In a cultural matrix where diverse cultural expressions are welcome, Asian PAcific American artists' works can give insight into our era and the cultural horizons to be embraced. With profound changes to such fundamental notions, cultural issues are at stake here, along with implications for the protocols implemented in public space. This event proposes a dialogue between scientists, artists, and humanists on this question in the context of the new physics and consider their art in terms of how we eperience and perceive - a lived sensibility. A talk mounted by Asian American Arts Centre in conjunction with the New Museum's Ideas Festival. Held at the Christopher Henry Gallery, 127 Elizabeth St, New York, NY. Moderated by Professor Yibing Huang, literary scholar, and tentatively by Dr. R. Crease, philosopher of science, with Robert Lee.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Christine Chow</li>
 				<li>Mikyung Kim</li>
@@ -28,11 +28,11 @@ include '_inc/head.php';
 				<li>Haeri Yoo</li>
 			</ul>
 
-			<h2>China: June 4, 1989</h2>
+			<h2>CHINA: June 4 1989</h2>
 			<p><span class="date">June 1 – 10, 2014</span></p>
 			<p>The 25th Anniversary Exhibition in commemoration of the Tiananmen Square 1989 Student Movement was held at the Whitebox Art Center.  Curated by Robert Lee, the exhibition features works from artists that were part of the original 1989-90 exhibition. <a href="june4.php">Find out more about the exhibition.</a></p>
 			<p>A special screening of “Portraits of Loss and the Quest for Justice”, a documentary produced by Huan Rights in China with footage by the Tiananmen Mothers was held.</p>
-			<h6>Participating Artists:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Vito Acconci</li>
 				<li>Grimanessa Amoros</li>
@@ -84,7 +84,6 @@ include '_inc/head.php';
 				<li>Sofia Zezmer</li>
 				<li>Zhang Hongtu</li>
 			</ul>
-
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">

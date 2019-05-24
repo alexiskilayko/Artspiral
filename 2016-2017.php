@@ -13,7 +13,6 @@ include '_inc/head.php';
 	</nav>
 	<main role="main" class="content-wrapper narrow">
 		<span class="tag">2016 &ndash; 2017</span>
-
 			<h2>Hinterland Arts</h2>
       <p><span class="date">May 30, 2016</span></p>
       <p>Equity is finally on the agenda of NYC. Now is the time for open public dialogue and to begin a process to understand what "equity" will mean for neighborhoods, NYC, and the nation. A presentation of Asian American Arts Centre and the Cultural Equity Group (CEG) held as part of the New Museum's IDEAS CITY FESTIVAL. Brought artists and members of CEG together to view art images and speak about an equitable Comprehensive Cultural Plan for New York City. CEG is a network of art organizations of color whose cultures represent many if not most of New York residents. Sited in the pavilion located across Houston St in the First Street Green.</p>
@@ -21,11 +20,15 @@ include '_inc/head.php';
       <h2>First Responders</h2>
       <p><span class="date">September 10 - 30, 2016</span></p>
       <p>A solo exhibition featuring the work of artist Yang Yi 收件人. Presented in collaboration with Chinatown Soup and in partnership with Chinatown Partnership Local Development Corporation (CPLDC). It is fitting that as Americans we should find an immigrant whose remarkable skills and devotion gives to us the fruits of his heart and his labor. Yang Yi's pentaptych took five years to complete and gives tribute to the brave members of the FDNY and paramedics, featuring all 343 faces of the first responders who were killed at the World Trade Center. Sited at 168 Orchard St.</p>
+			<h6>Participating artists:</h6>
+			<ul class="list-columns">
+				<li>Yang Yi</li>
+			</ul>
 
       <h2>Selected Works from AAAC Archive & Permanent Collection</h2>
       <p><span class="date">January - April 2018</span></p>
       <p>A video presentation on artasiamerica.org, an Asian American Artists Archive, in the window of 384 Broadway. A 23 minute video on two score and ten artists' works are brought together, presented as an introduction to the creative side of Asia America from the post-WWII era to the present. Held in conjunction with Think Chinatown's Art Across Archives.</p>
-      <h6>Participating Artists:</h6>
+      <h6>Participating artists:</h6>
       <ul class="list-columns">
         <li>Ashley Yang-Thompson</li>
         <li>J. Triangular</li>
@@ -76,7 +79,6 @@ include '_inc/head.php';
         <li>Charles Yuen</li>
         <li>Lily Yeh</li>
       </ul>
-
 	</main>
 	<div class="fade"></div>
 	<nav role="navigation" id="mm">
