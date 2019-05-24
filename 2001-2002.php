@@ -43,11 +43,13 @@ include '_inc/head.php';
 
 			<h2>Chinese New Year Woodblock Prints</h2>
 			<p><span class="date">January – March 2002</span></p>
-      <p>Birmingham Museum, Alabama. Loaned from the Permanent Folk Art Collection.</p>
+      <p>Held in Birmingham Museum, Alabama. Loaned from the Permanent Folk Art Collection.</p>
 
       <h2>REAPPEARING EXIT IV: Performance Art of Zheng Lianjie</h2>
 			<p><span class="date">March 15 – April 28, 2002</span></p>
-      <p>Panel discussion: Gao Minglu, Prof. at SUNY Buffalo, Qian Zhijian, Post-doctoral Candidate at the Institute of Fine Arts and Bing Yi, independent curator, Robert Lee, and Zheng Lianjie.</p>
+			<p>Zheng Lianjie is a New York-based artist originally from Beijing who has been doing performance art since the late 1980's.  His most well-known work internationally, "BINDING THE LOST SOULS: Huge Explosion," done in 1993 was a 17-day performance and installation piece that involved wrapping ten thousand bricks along the Si Ma Tai section of the Great Wall with red cloth ribbons. Zheng and his compatriots recruited from the local rural villagers of Dongpo their assistance in completing this grueling performance. The lives of the villagers, both young and old, bring to contemporary art another dimension, a more wholesome responsibility for a future, and an important critique of international urban culture.  </p>
+			<p>Zheng Lianjie emerged from China’s Cultural Revolution a self taught artist.  He is an artist who seeks an enlarged humanity, a radiant soul. In his own words, Zheng Lianjie states: "Enthusiasm and appreciation for the ordinary has given me the chance to examine my own heart…The life and field of vision of avant garde art must pay attention to a broader field and social space. The freedom of an artist to create is no different from the freedom of peasants to own their land.</p>
+			<p>Panel discussion: Gao Minglu, Prof. at SUNY Buffalo, Qian Zhijian, Post-doctoral Candidate at the Institute of Fine Arts and Bing Yi, independent curator, Robert Lee, and Zheng Lianjie.</p>
       <p>Curated by Robert Lee.</p>
 
       <h2>The AAAC Story</h2>
