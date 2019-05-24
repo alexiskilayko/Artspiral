@@ -17,9 +17,17 @@ include '_inc/head.php';
 		<div class="timeline-block">
 			<div class="timeline-circle"> </div>
 			<a class="timeline-content" href="/2016-2017.php">
+				<span class="date">2017 - 2018</span>
+				<ul>
+					<li>Selected Works from AAAC Archive & Permanent Collection</li>
+				</ul>
+			</a>
+		</div>
+		<div class="timeline-block">
+			<div class="timeline-circle"> </div>
+			<a class="timeline-content" href="/2016-2017.php">
 				<span class="date">2016 - 2017</span>
 				<ul>
-					<li>Hinterland Arts</li>
 					<li>First Responders</li>
 					<li>Selected Works from AAAC Archive & Permanent Collection</li>
 				</ul>
@@ -31,6 +39,7 @@ include '_inc/head.php';
 				<span class="date">2015 - 2016</span>
 				<ul>
 					<li>Aboveground: 40 Moments of Transformation</li>
+					<li>Hinterland Arts</li>
 				</ul>
 			</a>
 		</div>
@@ -39,8 +48,6 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/2013-2014.php">
 				<span class="date">2013 – 2014</span>
 				<ul>
-					<li>Ideas Chinatown</li>
-					<li>Space Time: Presence</li>
 					<li>CHINA: JUNE 4, 1989</li>
 				</ul>
 			</a>
@@ -48,7 +55,17 @@ include '_inc/head.php';
 		<div class="timeline-block">
 			<div class="timeline-circle">	</div>
 			<a class="timeline-content" href="/2013-2014.php">
-				<span class="date">2013 – 2014</span>
+				<span class="date">2012 – 2013</span>
+				<ul>
+					<li>Ideas Chinatown</li>
+					<li>Space Time: Presence</li>
+				</ul>
+			</a>
+		</div>
+		<div class="timeline-block">
+			<div class="timeline-circle">	</div>
+			<a class="timeline-content" href="/2013-2014.php">
+				<span class="date">2011 – 2012</span>
 				<ul>
 					<li>The Art of Danny Yung</li>
 				</ul>
