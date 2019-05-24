@@ -1,5 +1,5 @@
 <?php
-$title = '2016 &ndash; 2017';
+$title = '2017 &ndash; 2018';
 
 include '_inc/head.php';
 
@@ -12,7 +12,7 @@ include '_inc/head.php';
 	<?php include '_inc/menu.php';?>
 	</nav>
 	<main role="main" class="content-wrapper narrow">
-		<span class="tag">2016 &ndash; 2017</span>
+		<span class="tag">2017 &ndash; 2018</span>
       <h2>Selected Works from AAAC Archive & Permanent Collection</h2>
       <p><span class="date">January - April 2018</span></p>
       <p>A video presentation on artasiamerica.org, an Asian American Artists Archive, in the window of 384 Broadway. A 23 minute video on two score and ten artists' works are brought together, presented as an introduction to the creative side of Asia America from the post-WWII era to the present. Held in conjunction with Think Chinatown's Art Across Archives.</p>
