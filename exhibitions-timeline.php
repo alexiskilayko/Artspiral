@@ -63,7 +63,7 @@ include '_inc/head.php';
 		</div>
 		<div class="timeline-block">
 			<div class="timeline-circle">	</div>
-			<a class="timeline-content" href="/2013-2014.php">
+			<a class="timeline-content" href="/2011-2012.php">
 				<span class="date">2011 – 2012</span>
 				<ul>
 					<li>The Art of Danny Yung</li>
