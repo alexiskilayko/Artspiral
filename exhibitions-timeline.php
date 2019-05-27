@@ -334,6 +334,7 @@ include '_inc/head.php';
 					<li>From “Star Star” to Avant Garde: AAAC Annual Exhibition</li>
 					<li>Four Asian American Artists</li>
 					<li>Collection of Buddhas</li>
+					<li>RE... To be Continued</li>
 				</ul>
 			</a>
 		</div>
@@ -400,7 +401,7 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/1986-1987.php">
 				<span class="date">1986 – 1987</span>
 				<ul>
-					<li>Roots to Reality II: ALternate Visions</li>
+					<li>Roots to Reality II: Alternate Visions</li>
 					<li>The Mind's I, Part 1</li>
 					<li>The Mind's I, Part 2</li>
 					<li>The Mind's I, Part 3</li>
