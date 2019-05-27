@@ -119,6 +119,7 @@ include '_inc/head.php';
 					<li>Rare Tribal Textiles from China</li>
 					<li>Yeong Gill Kim</li>
 					<li>Marie Yoho Dorsey</li>
+					<li>ARTSLAM 2008</li>
 				</ul>
 			</a>
 		</div>
@@ -172,7 +173,6 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/2003-2004.php">
 				<span class="date">2003 – 2004</span>
 				<ul>
-					<li>The Players: Asian American Art</li>
 					<li>In the Shadow of 9/11: A Chinatown Memorial Exhibition</li>
 					<li>Provocations: 13th Annual Exhibition</li>
 					<li>dream so much 2</li>
@@ -204,6 +204,7 @@ include '_inc/head.php';
 					<li>Chinese New Year Woodblock Prints</li>
 					<li>REAPPEARING EXIT IV: Performance Art of Zheng Lianjie</li>
 					<li>The AAAC Story</li>
+					<li>The Players: Asian American Art</li>
 				</ul>
 			</a>
 		</div>
