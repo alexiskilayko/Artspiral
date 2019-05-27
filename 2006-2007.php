@@ -26,7 +26,7 @@ include '_inc/head.php';
 
 			<h2>Understanding the Past: Freedom of Expression and Democratic Processes Today</h2>
 			<p><span class="date">October 19, 2006</span></p>
-			<p>Presented by <a href="www.thailinks.org">ThaiLinks</a>. Visual presentation on Hok Tulaa by artist Prawat Laucharoen. Paul Handley author of the King Never Smiles.</p>
+			<p>Presented by <a href="http://www.thailinks.org/">ThaiLinks</a>. Visual presentation on Hok Tulaa by artist Prawat Laucharoen. Paul Handley author of the King Never Smiles.</p>
 
 			<h2>Future Creatures in Chinatown</h2>
 			<p><span class="date">October 31 – November 30, 2006</span></p>
