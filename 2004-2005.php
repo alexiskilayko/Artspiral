@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">2005 &ndash; 2006</span>
 			<h2>Butternut Ink: the 14th Annual Exhibition</h2>
 			<p><span class="date">September 24 – November 25, 2004</span></p>
-			<p>Held in collaboration with the Korea Society</p>
+			<p>Held in collaboration with the Korea Society.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Rutherford Chang</li>
