@@ -200,6 +200,7 @@ include '_inc/head.php';
 				<li>Patricia Karetzky, art historian/curator</li>
 				<li>Betty YaQin Chou, artist</li>
 				<li>Christine Y. Kim, assistant curator of Studio Museum of Harlem & moderator</li>
+			</ul>
 			<p><span class="date">June 22nd</span></p>
 			<p><strong>Panel One: A Role for the Arts in Community Development</strong>. A spirit of Community has shaped many years of Asian Americans activities, particularly not-profit arts and cultural organizations. Will the arts continue to help shape the development of the Asian American community? Will the visible differences of an Asian ethnicity continue to be accepted long term in America?  In the age of virtual technologies, what role exists for local cultural  not-profits and for-profits?</p>
 			<h6>Panelists:</h6>
