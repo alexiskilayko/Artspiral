@@ -107,7 +107,7 @@ include '_inc/head.php';
 
 			<h2>Fathers</h2>
 			<p><span class="date">May 30 – June 25, 1986</span></p>
-			<p>Catalogue includes essays by Fay Chiang.</p>
+			<p>An exhibition based on <i>Heroes and Strangers</i>, a film that looks at our fathers through the eyes of grown children. The works call on Asian Americans to look again at their fathers, at the historical experience they brought with them to fatherhood, and to harvest the affection and appreciation that grows as we approach our own parenthood. Catalogue includes essays by Fay Chiang.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tomie Arai</li>
