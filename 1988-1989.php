@@ -41,7 +41,7 @@ include '_inc/head.php';
 
 			<h2>The 18 Levels of Hell</h2>
 			<p><span class="date">November 3 – 23, 1988</span></p>
-			<p>An installation by Epoxy Art Group. </p>
+			<p>An installation by Epoxy Art Group, a group of artists originally from Hong Kong and China now based in New York City.  “Epoxy’s joint creative endeavors embody a shared Chinese heritage and cross-cultural influences unique in the United States, but without consciously proclaiming statements about those bi-cultural experiences.”</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Kang Lok Chung </li>
