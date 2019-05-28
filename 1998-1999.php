@@ -39,7 +39,7 @@ include '_inc/head.php';
 
       <h2>Gulp and Gallop!</h2>
 			<p><span class="date">December 4, 1998 – January 16, 1999</span></p>
-      <p>Guest curated by Hideki Kurasawa.</p>
+      <p>An exhibition presenting two different artists, Ushio Shinohara and Rocky Kagoshima, and their works that reflect a similar stubborn awareness of their cultural complexity, an awareness that arose from their experience of global cultural conflict. Their works express chaos in values and in energy, as well as shed light on Asian American sensibility in a postmodern world. Guest curated by Hideki Kawahara.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Ushio Shinohara </li>
