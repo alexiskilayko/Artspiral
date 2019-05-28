@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1983 &ndash; 1984</span>
 			<h2>In the Spirit of Dunhuang: Studies by Zhang Hongtu</h2>
 			<p><span class="date">March 16 – April 9, 1984</span></p>
-			<p>Catalogue includes a foreword by Robert Lee. Preface by guest curator Ross Lewis. Essays by Annette Juliano and Zhang Hongtu.</p>
+			<p>An exhibition of Zhang Hongtu’s works, which present a contemporary interpretation of the spirit of Dunhuang, a city in Western China and notably home to many works of Buddhist art found in caves. Catalogue includes a foreword by Robert Lee. Preface by guest curator Ross Lewis. Essays by Annette Juliano and Zhang Hongtu.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Zhang Hongtu</li>
