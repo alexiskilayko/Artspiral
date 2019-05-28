@@ -15,8 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1999 &ndash; 2000</span>
 			<h2>Cross-cultural Voices II: Between Memories</h2>
       <p><span class="date">September 1 - October 15, 1999</span></p>
-      <p>A collaboration with The Korea Society and the Stephen Gang Gallery.</p>
-      <p>Curated by Young M. Park.</p>
+      <p>An exhibition on cross-cultural experience, focusing on Asian American and Western artists and their migrant experiences. Centers on the global sense of being exiled - not in the sense of being banished for dissidance but in the sense of moving to another country for the sake of economical and cultural reasons - and the art community’s dependence on memories to overcome such a feeling of loss. A collaboration with The Korea Society and the Stephen Gang Gallery. Curated by Young M. Park.</p>
       <h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Sukran Aziz</li>
