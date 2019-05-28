@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">2003 &ndash; 2004</span>
 			<h2>In the Shadow of 9/11: A Chinatown Memorial Exhibition</h2>
       <p><span class="date">September 11 – October 15, 2003</span> extended to <span class="date">November 3, 2003</span></p>
-      <p>Held at The Gallery at Silk Road Place, 30 Mott Street. Organized by Bob Lee & Chee Wang Ng.</p>
+      <p>An exhibition held in recognition of the events at the World Trade Center and the hardship experienced by the Chinatown community as a result of 9/11. This exhibition was created in collaboration between AAAC and SilkRoad Place to revive the attractiveness of Chinatown utilizing the asset of culture and the arts. Exhibited art works document what happened at the WTC site, the reaction in Chinatown itself, even the personal experience of being related to a professional who originally designed the Towers, among many other subjects. Held at The Gallery at Silk Road Place, 30 Mott Street. Organized by Bob Lee & Chee Wang Ng.</p>
       <h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Alan Chin</li>
