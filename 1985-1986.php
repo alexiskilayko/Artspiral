@@ -49,7 +49,7 @@ include '_inc/head.php';
 
 			<h2>The City</h2>
 			<p><span class="date">March 7 – April 4, 1986</span></p>
-			<p>Curated by Robert Lee.</p>
+			<p>An exhibition reflecting the efforts by Asian Americans to make sense of the city, to create a viable and visible community within this urban environment, and to find a compromise between making our communities here more attractive to the public and retaining their distinctive ethnic character, between embracing modernity and not abandoning our cultural past. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Y. J. Cho</li>
