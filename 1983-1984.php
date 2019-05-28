@@ -23,7 +23,7 @@ include '_inc/head.php';
 
 			<h2>Chihung Yang:  Works on Paper</h2>
 			<p><span class="date">April 27 - May 26, 1984</span></p>
-			<p>Catalogue includes an introduction by Robert Lee, essay by John Yau, and several color illustrations. Curated by Robert Lee.</p>
+			<p>An exhibition of Chihung Yang’s works on paper (a great contrast to his larger works on canvas), centered on themes of memory. His works express past and present in coexistence and his desire for his art not to be seen as tied to his identities but simply to reflect the spirit of his era. Catalogue includes an introduction by Robert Lee, essay by John Yau, and several color illustrations. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Chihung Yang</li>
