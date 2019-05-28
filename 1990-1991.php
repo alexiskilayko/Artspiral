@@ -100,7 +100,7 @@ include '_inc/head.php';
 
 			<h2>Okuhara Tetsuaki</h2>
 			<p><span class="date">June 4 - June 24, 1990</span></p>
-			<p>A one person photography show.</p>
+			<p>A one-person photography show featuring the Japanese-American artist Tetsuaki Okuhara. The exhibition features 14 photography assemblage of black and white photos, primarily works made in the year of and a range of various sizes.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tetsu Okuhara</li>
