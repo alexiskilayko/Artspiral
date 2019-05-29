@@ -62,6 +62,7 @@ include '_inc/head.php';
 
 	    <h2>"This Used To Be a Poodle": 9th AAAC Annual Exhibition</h2>
 			<p><span class="date">October 29 - December 14, 1999</span></p>
+			<p>An exhibition of photography, sculpture, drawing, and installation. The exhibited artists demonstrate innovative approaches by young artists today, displaying a range of thought and expression in the Asian American community as it becomes integrated into the context of international artistic developments both here and in Asia. The exhibition is not meant to establish any current notion of “Asianness” but rather serve as an introduction to the broad and diverse concerns of artists who together compose a part of the contemporary presence of Asia in America.</p>
 			<h6>Selection panel:</h6>
 			<ul class="list-columns">
 				<li>Zhang Hongtu</li>
