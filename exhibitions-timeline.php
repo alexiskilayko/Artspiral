@@ -321,7 +321,7 @@ include '_inc/head.php';
 					<li>CHINA: June 4 1989</li>
 					<li>And He Was Looking for Asia: Alternatives to the Story of Christopher Columbus Today</li>
 					<li>My Eyes Blur Sometimes, at Beauty: AAAC Annual Exhibition</li>
-					<li>Yin Peet</li>
+					<li>Yin Peet: A Woman's Life Choices</li>
 					<li>We Count! The State of Asian Pacific America</li>
 				</ul>
 			</a>

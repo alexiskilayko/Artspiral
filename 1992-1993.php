@@ -126,9 +126,9 @@ include '_inc/head.php';
 				<li>Ellen Pau</li>
 			</ul>
 
-			<h2>Yin Peet</h2>
+			<h2>Yin Peet: A Woman's Life Choices</h2>
 			<p><span class="date">March 12 – April 16, 1993</span></p>
-			<p>Curated by Robert Lee.</p>
+			<p>An exhibition of seal carvings, sculptures, and installations by Yin Peet through which she re-visits her past life and relates it to the life’s choices she has made as an Asian woman living in American society today. Her seal carvings reflect the idea that seals are a recognition of the importance of our existence in society since ancient times; her sculptures combine elements of Western antiquity with modern images of ripe fruit; her installation of a life chess board tells of the current state of her life using strategically positioned chess pieces. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Yin Peet</li>
