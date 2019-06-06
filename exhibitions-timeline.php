@@ -190,7 +190,7 @@ include '_inc/head.php';
 					<li>Not Your Chop Suey Chinatown: Eight Photographers selected by Corky Lee</li>
 					<li>Below the Canal: After 9/11</li>
 					<li>Shaping Wholeness: Asian American Artists Create</li>
-					<li>Mid Career: David Diao/Gang Zhao</li>
+					<li>Mid Career: David Diao & Gang Zhao</li>
 				</ul>
 			</a>
 		</div>
