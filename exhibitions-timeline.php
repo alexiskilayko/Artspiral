@@ -131,7 +131,7 @@ include '_inc/head.php';
 					<li>THREE WOMEN: Art and Spiritual Practice</li>
 					<li>Understanding the Past: Freedom of Expression and Democratic Processes Today</li>
 					<li>Future Creatures in Chinatown</li>
-					<li>Fracture Fairytales: 16th Annual Exhibition</li>
+					<li>Fracture Fairytales: 16th AAAC Annual Exhibition</li>
 					<li>Chinese Classical Architecture</li>
 					<li>Mid Career: Bing Lee & Bovey Lee</li>
 					<li>Mixed Skin</li>
@@ -144,7 +144,7 @@ include '_inc/head.php';
 				<span class="date">2005 – 2006</span>
 				<ul>
 					<li>Organized Spaces</li>
-					<li>Aphasia: 15th Annual Exhibition</li>
+					<li>Aphasia: 15th AAAC Annual Exhibition</li>
 					<li>Nuo Masks</li>
 					<li>Tibetan Thangka Paintings</li>
 					<li>Detained</li>
@@ -160,10 +160,10 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/2004-2005.php">
 				<span class="date">2004 – 2005</span>
 				<ul>
-					<li>Butternut Ink: 14th Annual Exhibition</li>
+					<li>Butternut Ink: 14th AAAC Annual Exhibition</li>
 					<li>The Topography of Absence</li>
 					<li>為盼 New York Eviction Blues</li>
-					<li>Mid Career: Mei-ling Hom / Zhang Jian-jun</li>
+					<li>Mid Career: Mei-ling Hom & Zhang Jian-jun</li>
 					<li>ARTSLAM</li>
 				</ul>
 			</a>
@@ -174,10 +174,10 @@ include '_inc/head.php';
 				<span class="date">2003 – 2004</span>
 				<ul>
 					<li>In the Shadow of 9/11: A Chinatown Memorial Exhibition</li>
-					<li>Provocations: 13th Annual Exhibition</li>
-					<li>dream so much 2</li>
+					<li>Provocations: 13th AAAC Annual Exhibition</li>
+					<li>Dream So Much 2</li>
 					<li>Landscape and Memory</li>
-					<li>Mid Career: Carol Sun/Nobuho Nagasawa</li>
+					<li>Mid Career: Carol Sun & Nobuho Nagasawa</li>
 				</ul>
 			</a>
 		</div>
@@ -186,9 +186,9 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/2002-2003.php">
 				<span class="date">2002 – 2003</span>
 				<ul>
-					<li>Contrary Equilibriums: 12th Annual Exhibition</li>
+					<li>Contrary Equilibriums: 12th AAAC Annual Exhibition</li>
 					<li>Not Your Chop Suey Chinatown: Eight Photographers selected by Corky Lee</li>
-					<li>Below the Canal: after 9/11</li>
+					<li>Below the Canal: After 9/11</li>
 					<li>Shaping Wholeness: Asian American Artists Create</li>
 					<li>Mid Career: David Diao/Gang Zhao</li>
 				</ul>
@@ -213,7 +213,7 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/2000-2001.php">
 				<span class="date">2000 – 2001</span>
 				<ul>
-					<li>Too Far Too Close: 10th Annual Exhibition</li>
+					<li>Too Far Too Close: 10th AAAC Annual Exhibition</li>
 					<li>Car Pooling from LA</li>
 					<li>Mid Career: Colin Lee</li>
 					<li>Point Arabesque: Paintings by Charles Yuen</li>
@@ -226,13 +226,13 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/1999-2000.php">
 				<span class="date">1999 – 2000</span>
 				<ul>
-					<li>Cross-cultural Voices II: Between Memories</li>
-					<li>FIREHOUSE: AAAC 25th Anniversary</li>
+					<li>Cross-Cultural Voices II: Between Memories</li>
+					<li>Firehouse: AAAC 25th Anniversary</li>
 					<li>"This Used To Be a Poodle": 9th AAAC Annual Exhibition</li>
 					<li>Looking at Beijing: Photography as Art/CHINA</li>
 					<li>Lunar New Year Exhibition</li>
 					<li>Apartment #3F</li>
-					<li>MILIEU PART III: Color in the Art of </li>
+					<li>Milieu Part III: Color in the Art of </li>
 				</ul>
 			</a>
 		</div>
@@ -256,10 +256,10 @@ include '_inc/head.php';
 				<span class="date">1997 – 1998</span>
 				<ul>
 					<li>Looking at Beijing: Photography as Art/CHINA</li>
-					<li>Stream Segment: 7th Annual Exhibition</li>
+					<li>Stream Segment: 7th AAAC Annual Exhibition</li>
 					<li>Paper Deities in New York: Beliefs and Legends of China</li>
 					<li>Silk Light: Four Artists From Korea</li>
-					<li>Inside One : Columbia Fiero and Bivas Chaudhuri</li>
+					<li>Inside One: Columbia Fiero and Bivas Chaudhuri</li>
 				</ul>
 			</a>
 		</div>
@@ -307,7 +307,7 @@ include '_inc/head.php';
 				<span class="date">1993 – 1994</span>
 				<ul>
 					<li>Three: Works by 1992-1993 Artists-in-Residence</li>
-					<li>Milieu: Part I</li>
+					<li>Milieu Part I</li>
 					<li>Betrayal/Empowerment Part I</li>
 					<li>Betrayal/Empowerment Part II</li>
 				</ul>
@@ -320,7 +320,7 @@ include '_inc/head.php';
 				<ul>
 					<li>CHINA: June 4 1989</li>
 					<li>And He Was Looking for Asia: Alternatives to the Story of Christopher Columbus Today</li>
-					<li>My Eyes Blur Sometimes, at Beauty: AAAC Annual Exhibition</li>
+					<li>My Eyes Blur Sometimes, at Beauty: 3rd AAAC Annual Exhibition</li>
 					<li>Yin Peet: A Woman's Life Choices</li>
 					<li>We Count! The State of Asian Pacific America</li>
 				</ul>
@@ -331,10 +331,10 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/1991-1992.php">
 				<span class="date">1991 – 1992</span>
 				<ul>
-					<li>From “Star Star” to Avant Garde: AAAC Annual Exhibition</li>
+					<li>From “Star Star” to Avant Garde: 2nd AAAC Annual Exhibition</li>
 					<li>Four Asian American Artists</li>
 					<li>Collection of Buddhas</li>
-					<li>RE... To be Continued</li>
+					<li>RE... To Be Continued</li>
 				</ul>
 			</a>
 		</div>
@@ -343,14 +343,14 @@ include '_inc/head.php';
 			<a class="timeline-content" href="/1990-1991.php">
 				<span class="date">1990 – 1991</span>
 				<ul>
-					<li>AAAC Annual Exhibition</li>
+					<li>1st AAAC Annual Exhibition</li>
 					<li>Focus on Artists from Hong Kong</li>
 					<li>Folk Tradition</li>
 					<li>Tai Dang</li>
 					<li>Violence of Victory</li>
 					<li>The Art of Asian American Artists</li>
 					<li>Okuhara Tetsuaki</li>
-					<li>...wa(IT) WA(i)T(in)G... part II: Lessons of History &/or Forgetting Amnesia</li>
+					<li>...wa(IT) WA(i)T(in)G... Part II: Lessons of History &/or Forgetting Amnesia</li>
 				</ul>
 			</a>
 		</div>
