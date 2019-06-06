@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main role="navigation" class="content-wrapper narrow">
 		<span class="tag">2005 &ndash; 2006</span>
-			<h2>Butternut Ink: the 14th Annual Exhibition</h2>
+			<h2>Butternut Ink: 14th AAAC Annual Exhibition</h2>
 			<p><span class="date">September 24 – November 25, 2004</span></p>
 			<p>An exhibition of eleven artists from diverse backgrounds. Butternuts are a natural ingredient specific to the state of Vermont that the artist James Jack uses to create ink for his Eastern calligraphy influenced work. Just as Jack’s butternut ink represents an infusion of cultures, the works exhibited in Butternut Ink represent the reciprocal exchanges and influences of Asian and Western aesthetic values and how these influences affect a wide variety of subjects, ranging from everyday life to politics. Held in collaboration with the Korea Society.</p>
 			<h6>Participating artists:</h6>

@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav><!--HERE -->
 	<main class="content-wrapper narrow" role="main"><!--HERE -->
 		<span class="tag">2002 &ndash; 2003</span>
-			<h2>Contrary Equilibriums: 12th Annual Exhibition</h2>
+			<h2>Contrary Equilibriums: 12th AAAC Annual Exhibition</h2>
       <p><span class="date">September 27 – November 8, 2002</span></p>
       <p>A collaboration with The Korea Society.</p>
       <p>Eleven artists reflect the diversity of work being done today. Selected artists were chosen from a national field of nearly 150 submissions by the selection panel: Mihee Ahn, Timothy Liu, Margo Machida Tricia Paik, and Lydia Yee</p>

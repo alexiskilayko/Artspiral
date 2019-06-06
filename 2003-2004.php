@@ -38,7 +38,7 @@ include '_inc/head.php';
         <li>Yoichiro Yoda</li>
 			</ul>
 
-      <h2>Provocations: The 13th Annual Exhibition</h2>
+      <h2>Provocations: 13th AAAC Annual Exhibition</h2>
 			<p><span class="date">September 26 – November 7, 2003</span></p>
       <p>AAAC in collaboration with The Korea Society.</p>
       <p>Selection Panel: Timothy Liu, Jeff Koan Baysa, Susette Min, Midori Yoshimoto, & Christine Y. Kim.</p>

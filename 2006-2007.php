@@ -37,7 +37,7 @@ include '_inc/head.php';
 				<li>Eunjung Hwang</li>
 			</ul>
 
-			<h2>Fracture Fairytales: The 16th Annual Exhibition</h2>
+			<h2>Fracture Fairytales: 16th AAAC Annual Exhibition</h2>
 			<p><span class="date">December 8, 2006 – January 19, 2007</span></p>
 			<p>Through a review of the Asian American Artists Slide Archive's previous year's submissions, artists are selected by a panel.  This year five artists were chosen who reflect a nexus of themes around personal icons - fantasy, dreams, pop culture, identity & appropriation.  In a complex society with multiple contradictory interests at work, the drive to encompass these through creativity is a sustaining mark of these artist's works. </p>
 			<h6>Participating artists:</h6>

@@ -30,7 +30,7 @@ include '_inc/head.php';
 				<li>sciSKEW collaborative</li>
 			</ul>
 
-			<h2>Aphasia: 15th Annual Exhibition</h2>
+			<h2>Aphasia: 15th AAAC Annual Exhibition</h2>
 			<p><span class="date">September 23 – October 28, 2005</span></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">

@@ -29,7 +29,7 @@ include '_inc/head.php';
         <li>Nicholetta West</li>
 			</ul>
 
-			<h2>FIREHOUSE: AAAC 25th Anniversary</h2>
+			<h2>Firehouse: AAAC 25th Anniversary</h2>
 			<p><span class="date">Octpber 30 – November 14, 1999</span></p>
       <p>An exhibition of 25 artists and a celebration of the 25th anniversaries of the Asian American Arts Centre, of Asian American community leaders Rocky and May Chin’s marriage, and of Robert Lee and Eleanor Yung’s marriage. Organized by Young M. Park, Trinh Le, and Robert Lee.</p>
       <h6>Participating artists:</h6>
