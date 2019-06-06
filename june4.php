@@ -46,7 +46,7 @@ include '_inc/head.php';
 			<p>With Kind Regards,
 			<br />Robert Lee
 			<br />June 2019</p>
-
+			<img src="/images/LibertySculpturePark.jpg">
 			<div class="grid">
 			<div class="col-1-2">
 			<p>It has been 25 years since the student uprising in Tiananmen Square and the exhibition AAAC mounted in response. Political crisis abounds in modern times, yet this confrontation resulted in a unique artistic event with the power to communicate years after its original impact.</p>
