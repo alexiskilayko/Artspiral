@@ -37,6 +37,7 @@ include '_inc/head.php';
 			<img src="/_images/photowall.jpg">
 			<img src="/_images/tiantop05.jpg">
 			</div>
+			<h3>6.4.2019</h3>
 			<p>For the 30th Anniversary of Tiananmen Square, AAAC announces the transfer of hundreds of artworks to the California based Humanitarian China organization.  The purpose of the original goal will continue. Humanitarian China (HC) is going to carry on AAAC’s goal, the task of remembrance, by exhibiting, promoting, and preserving these artworks, to educate the public, to ensure that “China, June 4, 1989” as a primary reflection of an important historical movement, will not be forgotten, and the spirit of those who suffered because of this, shall never perish.</p>
 			<p>Humanitarian China, a non-profit organization incorporated in California, by Fengsuo Zhou, Zhao Jing and Gang Xu, all student leaders from the Tiananmen movement, joins together with AAAC to renew the purpose and vitality of this effort. HC is dedicated to provide humanitarian care for political prisoners and Tiananmen Mothers in China, to preserve the history of China’s democracy movement and to educate the general public. Liberty Sculpture Park near Los Angeles, has become the new home of these precious artworks.</p>
 			<p>In assigning its care of the CHINA: June 4, 1989 exhibition to HC, the artworks created in the grip of that moment will keep vivid what was felt and link us to what is felt in the present - the meaning of Tiananmen Square today, enabling each generation to reflect upon the diversity of perspectives from many, many artists.</p>
@@ -47,6 +48,7 @@ include '_inc/head.php';
 			<br />Robert Lee
 			<br />June 2019</p>
 			<img src="/images/LibertySculpturePark.jpg">
+			<h3>6.4.2014</h3>
 			<div class="grid">
 			<div class="col-1-2">
 			<p>It has been 25 years since the student uprising in Tiananmen Square and the exhibition AAAC mounted in response. Political crisis abounds in modern times, yet this confrontation resulted in a unique artistic event with the power to communicate years after its original impact.</p>
