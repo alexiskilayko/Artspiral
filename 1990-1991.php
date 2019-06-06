@@ -13,7 +13,7 @@ include '_inc/head.php';
 	</nav>
 	<main role="main" class="content-wrapper narrow">
 		<span class="tag">1990 &ndash; 1991</span>
-			<h2>1st Annual AAAC Exhibition</h2>
+			<h2>1st AAAC Annual Exhibition</h2>
 			<p><span class="date">September – November, 1990</span></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
