@@ -108,7 +108,7 @@ include '_inc/head.php';
 				<li>Barbara Takenaga</li>
 			</ul>
 
-			<h2>My Eyes Blur Sometimes, at Beauty: 3rd Annual Exhibition</h2>
+			<h2>My Eyes Blur Sometimes, at Beauty: 3rd AAAC Annual Exhibition</h2>
 			<p><span class="date">November 20 – December 30, 1992</span></p>
 			<p>An exhibition showing women artists selected from AAAC’s archive. Curated by Robert Lee.</p>
 			<h6>Participating artists:</h6>

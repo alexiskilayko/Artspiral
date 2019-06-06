@@ -295,7 +295,7 @@ include '_inc/head.php';
 				<ul>
 					<li>CHINA: June 4 1989</li>
 					<li>Three: Works by Artists-in-Residence</li>
-					<li>Photography and Community: AAAC Annual Exhibition</li>
+					<li>Photography and Community: 4th AAAC Annual Exhibition</li>
 					<li>Chinese/Korean Calligraphy</li>
 					<li>Ancestors: a Collaborative Project with Kenkeleba House</li>
 				</ul>

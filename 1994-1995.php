@@ -130,7 +130,7 @@ include '_inc/head.php';
 				<li>Sikay Tang </li>
 			</ul>
 
-			<h2>Photography and Community: 4th Annual Exhibition</h2>
+			<h2>Photography and Community: 4th AAAC Annual Exhibition</h2>
 			<p><span class="date">November 17 – December 31, 1994</span></p>
 			<p>Curated by Robert Lee.
 			<h6>Participating artists:</h6>
