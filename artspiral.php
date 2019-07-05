@@ -12,8 +12,9 @@ include '_inc/head.php';
     </div>
     <main class="content-wrapper narrow">
         <h2>Artspiral Magazine Issue 1</h2>
-            <p class="emphasis">Artspiral was a regular publication produced by the Asian American Art Centre, with seven issues in total. It followed the format of the catalogue for Public Art in Chinatown and was the beginning of our concern for the field of Asian American culture and the art groups that had sprung up seeking to serve their community full time. This then laid the seeds for what became the Asian American Art Alliance and its initial direction. </p>
-            <article>      
+            <p class="emphasis">Artspiral was a regular publication produced by the Asian American Art Centre, with seven issues in total. It followed the format of the catalogue for Public Art in Chinatown in 1988 and marked the beginning of our concern for the field of Asian American culture and the art groups that had sprung up seeking to serve their community full time.</p>
+            <p class="emphasis">(Since R. Lee was Chair of the Alliance as well as staff of AAAC in 1984, the direction of the Artspiral publication transitioned easily to form the Asian American Art Alliance  initial direction.)</p>
+            <article>
             <h3 style="text-transform:none">Negotiating Modernisms: Contemporary Asian Art and The West</h3>
             <h6>Thomas McEvilley, 1996</h6>
             <p>The exhibition Traditions/ Tensions: Contemporary Art from Asia, which was originated by the Asia Society and opened at three venues in New York City in October 1996, contains contemporary art from India, Indonesia, the Philippines, Thailand, and South Korea. The work is “contemporary” not only because it is being made today but also because it is self-consciously historicity in a framework that gives some account of its relationship to the West as well as to its own tradition. I have written elsewhere (Frieze, January 1997) about the exhibition’s structure and some of the artwork in it. Here I would like to mention briefly an important issue that has been in the air for some time but has not been openly discussed enough.</p>
@@ -28,11 +29,11 @@ include '_inc/head.php';
             </article>
             <article>
             <h3 style="text-transform:none">Sleeping with the Enemy: New York Newsday’s Review of Ancestors</h3>
-            <h6>Joan Kee, 1996</h6>    
+            <h6>Joan Kee, 1996</h6>
             <p>On Tuesday, May 2, New York Newsday published a review of the exhibition and its key figures, including Director Robert Lee and several participating artists. In it, multiracial artist Yolanda Skeete was quoted as remarking, “Bob Lee is saying, ‘You’re [Skeete] a half-breed, but we love you anyway.” The author, David Garrick also quoted Skeete as saying, “Never before have Chinese held their hands out to an African group like this,” despite the fact that the Ancestors show was a joint African American-Asian American effort. Skeete never made any of these comments. The editorial and management leadership of Newsday did meet with Asian American community leaders and agreed to “look into the matter.” However, neither they nor Garrick could later be reached for comment. This occurred a few months prior to the termination of Newsday’s Manhattan edition.</p>
             <p>While the prominent placement of the article on page 2 and phrases like “ancestral harmony” and “common roots” suggest a step towards the elimination of racism, Newsday’s article is a reminder that racism through words and generalizations still permeate even the supposedly liberal side of the mass media. However, instead of direct name-calling, writers like Gerrick opt to perpetuate racist sentiments by roundabout ways enabling them to escape accusations of racism. Since mass publications like Newsday reach a wide audience, these manifestations of racism can be disseminated over a large area and Newsday’s liberal reputation lend credibility to these racial slurs as acceptable and legitimate expressions. By allowing “half-breed” to infiltrate a major article, Newsday has endorsed racism, and betrayed the ideals of tolerance and harmony it feigns to purport.</p>
             <p>To read the original Newsday article by David Garrick, <a href="/artspiral_magazine/issue_01/garrick.html">click here.</a></p>
-            </article> 
+            </article>
             <article>
             <h3 style="text-transform:none">Ethnicity and Abstraction</h3>
             <h6>Luis Camnitzer, 1993</h6>
@@ -48,7 +49,7 @@ include '_inc/head.php';
             <figure class="inline-images">
             <img src="/_images/KHY.jpg" alt="Hae Yuon Kim, “Home,” 1994, tempera on paper, 40 x 26”">
             <figcaption>Hae Yuon Kim, “Home,” 1994, tempera on paper, 40 x 26”</figcaption>
-            </figure>    
+            </figure>
             <p>The political opposition wasn’t much better, more subtle or more lucid in its manipulation of aesthetics. From the Soviet point of view, abstraction became the symbol of bourgeois corruption, a symptom of the disintegration of imperialist societies and the neglect of the people. Realism was presented as the only vehicle capable of expressing beauty -- as much in the political as in the visual sense. And beauty, here, was defined as being the “truthful portrayal of life in the Land of the Soviets.”</p>
 
             <p>To go through an art education in the midst of this cold-war conceptual mess made things quite difficult and even more so on the periphery, where this political polarity arrived very muddled. Some exhibits of abstract art financed by the U.S. travelled through Latin America and arrived in Uruguay while I was an art student. However, the shows were interpreted more as a sign of U.S. national assertion against the School of Paris ... than as a sale of an international concept of freedom. Thus abstraction vs. figuration became primarily a formalist issue, albeit creating violent animosities, where only some Communist Party artist raised ideological issues of the heavy kind.</p>
@@ -110,4 +111,3 @@ include '_inc/head.php';
 </script>
 </body>
 </html>
-
