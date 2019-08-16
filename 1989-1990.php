@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1989 &ndash; 1990</span>
 			<h2>Aurora</h2>
 			<p><span class="date">March 8 – April 4th, 1990</span></p>
-			<p>Guest curated by Fred Wilson.</p>
+			<p>Guest curated by Fred Wilson. It was only two years after this exhibition that Wilson rose to prominence in the art world, garnering recognition for his groundbreaking use of museum collection objects to construct installations and museum spaces that reframe traditional historical narratives. <i><a href="http://artasiamerica.org/documents/3748/166" target="_blank">Learn more</a>.</i></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Sook-Jin Jo</li>
@@ -25,6 +25,7 @@ include '_inc/head.php';
 
 			<h2>Witnesses</h2>
 			<p><span class="date">May 10 – June 29, 1990</span></p>
+			<p>Three artists were found to have been in Beijing’s Tiananmen Square at the time of the June 4th massacre. Their work is exhibited here in this show. Stefan Umaerus came from Sweden, Alan Chan from New York, and Zhang Yong Xu of China did oil paintings among the students in the Square and had an American woman bring his work to New York. For his protection, we gave Zhang the name “Deng” at that time.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Stefan Umaerus</li>
@@ -32,16 +33,16 @@ include '_inc/head.php';
 				<li>Deng (Zhang Yong Xu)</li>
 			</ul>
 
-			<h2>CHINA: June 4 1989</h2>
-			<p><span class="date">June 9 – September 30, 1989</span> at the Asian American Arts Center</p>
+			<h2>CHINA June 4 1989</h2>
+			<p><span class="date">June 9 – September 30, 1989</span> at the Asian American Arts Centre</p>
 			<p><span class="date">October 12 - November 12, 1989</span> at Blum Helman</p>
-			<p><span class="date">November 20 -January 12, 1990</span> extended exhibition at the Asian American Arts Centre</p>
-			<p><span class="date">April 22 - June 17, 1990</span>at PS1 Museum</p>
-			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. <a href="june4-exhibition-timeline.php">View a complete timeline of this exhibition</a></p>
-
-			<h2>CHINA: June 4 1989 — International Memorial Arts Festival</h2>
-			<p><span class="date"> June 4 – June 24, 1990</span></p>
+			<p><span class="date">November 20 - January 12, 1990</span> extended exhibition at the Asian American Arts Centre</p>
+			<p><span class="date">April 22 - June 17, 1990</span> at PS1 Museum</p>
 			<p>The continuation of a traveling exhibition of art responding to the Tiananmen Square event in China, in which students protesting for democracy were massacred. About one hundred small works were selected by the guest curators John Yau, Susanna Torruella Leval, Nancy Spiro, and Howard McCalebb. Oversize works were excluded by the curators.</p>
+
+			<h2>CHINA June 4 1989: International Memorial Arts Festival</h2>
+			<p><span class="date">June 4 – June 24, 1990</span></p>
+			<p>Held at the Hong Kong Art Centre. <i>Learn more: <a href="http://www.artspiral.org/june4.php" target="_blank">Artspiral</a>, <a href="https://www.flickr.com/photos/asianamericanartscentre/albums/72157645294053044" target="_blank">photo album</a>, <a href="https://www.flickr.com/photos/asianamericanartscentre/albums/72157709069518157" target="_blank">artworks</a>.</i></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Vito Acconci	</li>
@@ -268,6 +269,7 @@ include '_inc/head.php';
 				<li>Machiko Ogawa</li>
 				<li>Mary Anne O'Malley</li>
 				<li>Mari Oshima</li>
+				<li>William Osterman</li>
 				<li>Saul Ostrow</li>
 				<li>Catherine Owens</li>
 				<li>Nam June Paik</li>
