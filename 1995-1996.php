@@ -14,15 +14,16 @@ include '_inc/head.php';
 	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1995 &ndash; 1996</span>
 			<h2>Joseph Yen</h2>
-			<p><span class="date">September 1995</span></p>
-      <p>Essay by Eleanor Heartney. Organized by Yin Peet.</p>
-			<h6>Participating artists:</h6>
+			<p><span class="date">September 22 - October 28, 1995</span></p>
+      <p>Joseph Yen, who has spent much of his life between Taiwan and the United States, creates works that call to mind traditional Chinese ink paintings yet invoke the abstraction and lyrical simplicity of Western modernism. As featured essayist Eleanor Heartney writes, Yen’s work reveals how arbitrary conventional distinctions between Eastern and Western aesthetics can be. </p>
+			<h6>Participating artist:</h6>
 			<ul class="list-columns">
 				<li>Joseph Yen</li>
 			</ul>
 
-      <h2>12 Thoughts and Frank</h2>
-			<p><span class="date">November 1995</span></p>
+      <h2>5th AAAC Annual: 12 Thoughts and Frank</h2>
+			<p><span class="date">November 10 - December 31, 1995</span></p>
+			<p>The work of these thirteen artists shows the diverse approaches to art by young artists today. Taken together the exhibition displays a range of thought and expression in the Asian American art community in the international context of Asian artistic developments. Includes a panel discussion on artistic goals, irregardless of the fate of NEA, featuring panelists Theresa Chong, Sky Kim, Gilbert Oh, Jill Waterman, Fay Torres-Yap, and Jason S. Yi. <i>Learn more: <a href="http://artasiamerica.org/documents/3363/46" target="_blank">press release</a>, <a href="http://artasiamerica.org/documents/3362/46" target="_blank">flyer</a>.</i></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Wei-in Chen</li>
@@ -40,33 +41,26 @@ include '_inc/head.php';
         <li>Frank Russell</li>
 			</ul>
 
-			<h2>Passion and Compassion: Five Artists Reflections on Buddhism</h2>
+			<h2>Passion and Compassion: Five Artists' Reflections on Buddhism</h2>
 			<p><span class="date">January 1996</span></p>
-			<p>This exhibition seeks to generate a dialogue by examining a relationship of congruence between a belief in the creative act and Buddhism.  Inspired metaphysical vision touches upon the phenomena of mysticism where the creative act may claim its Epiphany. In this American cultural context artists push the limits of Buddhist vision. To see their art may be to see mundane existence in its most enhanced state, informed by the tradition of Buddhism as it has been transplanted and mediated in a new cultural context.</p>
-			<h6>Participating artists:</h6>
+			<p>This exhibition seeks to generate a dialogue by examining a relationship of congruence between a belief in the creative act and Buddhism. Inspired metaphysical vision, as it has been transplanted and mediated in a new cultural context, touches upon the phenomena of mysticism where the creative act may claim its Epiphany. In this American cultural context artists push the limits of Buddhist vision. To see their art may be to see mundane existence in its most enhanced state, informed by the tradition of Buddhism as it has been transplanted and mediated in a new cultural context. </p>
+			<p>Pope John Paul wrote of Buddhism as constituting a problem for the future while Arnold Toynebee said it will be the encounter with Buddhism, not science, that will determine the character of our time. Asians in America reflect this controversy. Lawrence Ferlingetti wrote poetically of the fear of a dragon as it danced, escaping from a Chinatown tenement basement, only to return finally to its underground sanctuary. The effect of a pervasive mass culture has been to discourage if not disenfranchise Asian Americans as well as others from exploring the traditions and beliefs of “Nature” or ungodly religions. The resistance to Buddhism as part of an awakened Asian community is a thread in the story of colonialism that continues today. When Allen Ginsberg was asked, "Were the Beat Poets first and foremost artists, or first and foremost spiritual seekers?" The two, he answered, are inseparable, "The life of poetry is a sacramental life on earth." From the book, Big Sky Mind.</p>
+			<p>A Buddhist Dance, the SinmiojangguDaeDarani dance by Ven. Jihyun Sunim. Ven. Jihyun Sunim said that unlike other religions, Buddhism has been deeply involved in all types of art forms; sculpture, painting, printmaking, music, dance, etc.  and includes such in its ritual ceremonies.</p>
+			<p><i>Learn more: <a href="http://artasiamerica.org/documents/3058/173" target="_blank">flyer</a>, <a href="http://artasiamerica.org/documents/3059/173" target="_blank">press release</a>.</i></p>
+			<h6>Art & Buddhism panelists:</h6>
 			<ul class="list-columns">
-				<li>Junko Chodos, J (Ca)</li>
-				<li>Heejung Kim, K</li>
-				<li>Choong-Sup Lim, K</li>
-				<li>Linda Peer, A</li>
-				<li>Yin Peet (Ma)</li>
-			</ul>
-
-			<h2>Art & Buddhism Panel</h2>
-			<p><span class="list-columns">February 9, 1996</span></p>
-			<p>It was the renowned historian, Arnold Toynebee who said that if we looked back at the 20th Century from 200 years in the future, it will be the encounter with Buddhism, not science, that determines the character of our time. His comment contrasts sharply with Pope John Paul whose recent book speaks of Buddhism as negative, constituting a problem for the future. The history of Asians in America reflects this controversy. The well known writer Lawrence Ferlingetti wrote poetically of the fear of a dragon as it danced, escaping from a Chinatown tenement basement, only to return finally to its underground sanctuary.  The resistance to Buddhism as part of an awakened Asian American community is a thread in the story of colonialism that continues today. The effect of a pervasive mass culture has been to discourage if not disenfranchise Asian Americans as well as others from exploring their traditions and beliefs. </p>
-			<p>Pope John Paul wrote of Buddhism as constituting a problem for the future while Arnold Toynebee said it will be the encounter with Buddhism, not science, that will determine the character of our time. Asians in America reflects this controversy. Lawrence Ferlingetti wrote poetically of the fear of a dragon as it danced, escaping from a Chinatown tenement basement, only to return finally to its underground sanctuary. The resistance to Buddhism as part of an awakened Asian community is a thread in the story of colonialism that continues today. Inspired metaphysical vision, as it has been transplanted and mediated in a new cultural context, touches upon the phenomena of mysticism where the creative act may claim its Epiphany.</p>
-			<h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Rev. Pat Enkyo O'Hara</li>
-				<li>Village Zendo</li>
-				<li>Rev. Miao Tong - Chuang Yen Monaster</li>
+				<li>Rev. Pat Enkyo O'Hara, Village Zendo</li>
+				<li>Rev. Miao Tong, Chuang Yen Monastery</li>
 				<li>Linda Peer</li>
 				<li>Yin Peet</li>
 			</ul>
-			<h6>Buddhist dancer:</h6>
+			<h6>Participating artists:</h6>
 			<ul class="list-columns">
-				<li>Ven. Jihyun Sunim</li>
+				<li>Junko Chodos</li>
+				<li>Heejung Kim</li>
+				<li>Choong-Sup Lim</li>
+				<li>Linda Peer</li>
+				<li>Yin Peet</li>
 			</ul>
 	</main>
 	<div class="fade"></div>
