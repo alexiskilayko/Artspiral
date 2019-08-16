@@ -15,7 +15,7 @@ include '_inc/head.php';
 		<span class="tag">1985 &ndash; 1986</span>
 			<h2>Roots to Reality: Asian America in Transition</h2>
 			<p><span class="date">October 11 – November 24, 1985</span></p>
-			<p>A collaborative show between the Henry Street Settlement & the Alliance for Asian American Arts and Culture, of which the AAAC was a member. The show was held at the Henry Sterrt Settlement and featured a sixteen page catalogue with an introduction by Robert Lee and remarks by Fred Wei-han Houn.</p>
+			<p>A Collaboration: Henry St. Settlement & the Alliance for Asian American Arts and Culture. A Festival of Asian American Visual & Performing Arts. (AAAC as a member of the Alliance, joined visual artists with performing artists events.)  Catalogue 16 pages with introduction by Robert Lee, Chair of the Alliance ’83-‘89, and remarks by Fred Wei-han Houn, Project Director. Held at Henry St. Settlement. </p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Yoshiki Araki</li>
@@ -40,16 +40,20 @@ include '_inc/head.php';
 			</ul>
 
 			<h2>Ming Chip Fung: The Seal 1975-1985</h2>
-			<p><span class="date">January 9 – February 5 1986</span></p>
-			<p>Curated by Robert Lee, this show includes a catalogue pamphlet with essay by Wang Fangyu. The catalogue was later reprinted by the Han Art Gallery in Hong Kong years later.</p>
+			<p><span class="date">January 9 – February 5, 1986</span></p>
+			<p>Ming Chip Fung challenges the traditional notion that seal carving is a utilitarian, non-independent art form, subordinate to other mediums of art. He discards rules that govern the seal-carving tradition, such as those that mandate the size of the seal and the material out of which to make it. Most notably he discards the literary meanings of the text and individual characters featured in his seals, instead creating new characters belonging to his “own private language.” Catalogue pamphlet by Wang Fangyu. Curated by Robert Lee. This exhibition was remounted in Han Art Gallery in Hong Kong. <i><a href="http://artasiamerica.org/documents/3116/148" target="_blank">Learn more</a>.</i></p>
+			<h6>Participating artist:</h6>
+			<ul class="list-columns">
+				<li>Ming Chip Fung</li>
+			</ul>
 
 			<h2>New Year’s Embroidery</h2>
 			<p><span class="date">February 7 – February 28, 1986</span></p>
-			<p>From the collection of folklorist in residence Prof. Chen. Held in conjunction with Asian American Dance Theatre’s D’Asia Vu performances of Kuang-Yu Fong, Yung Yung Tsuai, Music from China, and Kwok.</p>
+			<p>From the collection of folklorist in residence Prof. Chen. Held in conjunction with Asian American Dance Theatre’s D’Asia Vu performances of Kuang-Yu Fong, Yung Yung Tsuai, Music from China, and Kwok on February 8.</p>
 
 			<h2>The City</h2>
 			<p><span class="date">March 7 – April 4, 1986</span></p>
-			<p>An exhibition reflecting the efforts by Asian Americans to make sense of the city, to create a viable and visible community within this urban environment, and to find a compromise between making our communities here more attractive to the public and retaining their distinctive ethnic character, between embracing modernity and not abandoning our cultural past. Curated by Robert Lee.</p>
+			<p>An exhibition reflecting the efforts by Asian Americans to make sense of their community and the city, to design a viable and visible community within this urban environment, and, by looking at Y.J. Cho, Jerry Kwan, and Ming MurRay, to see how they actually perceive these built historical environments. If the paradox is unavoidable and no compromise exists, how does one retain a distinctive sense of place without resorting to traditional decorative motifs. Perhaps by following how these artists see, an approach will be free to emerge. Curated by Robert Lee. </p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Y. J. Cho</li>
@@ -59,8 +63,7 @@ include '_inc/head.php';
 
 			<h2>Orientalism</h2>
 			<p><span class="date">April 11 – May 9, 1986</span></p>
-			<p>Curated by Robert Lee. This show includes a catalogue with essays by Dominique Nahas, curator at the Everson Museum.</p>
-			<p>A panel discussion entitled “Orientalism – A Surrogate Heritage” was held on April 20. Panelists included Robert G. Lee of Brown University, Dominique Nahas, Peter Kwong of SUNY, Rockwell Chin and Charles Yuen.</p>
+			<p>Orientalism raises complex questions of otherness. By inhabiting this ‘otherness’ – a heightening of perceptions enables us to see what we could never have thought before – a transcultural space can emerge. There is only the investigation, the painting of the painting by which to recognize and authenticate ourselves. There is no other frame of reference to identify contemporary authenticity. Three years ago (1983) Charles Yuen chose to ‘appropriate the (Asian) stereotype’. Now his painting flourishes through a fructile world of pseudo organisms. One of them may be us. A panel discussion entitled “Orientalism – A Surrogate Heritage” was held on April 20. Panelists included Robert G. Lee of Brown University, Dominique Nahas, Peter Kwong of SUNY, Rockwell Chin and Charles Yuen. Curated by Robert Lee. Catalogue essay by Dominique Nahas, curator at the Everson Museum.</p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Margo Machida</li>
@@ -69,7 +72,7 @@ include '_inc/head.php';
 
 			<h2>The 2nd Annual Open Studio Show</h2>
 			<p><span class="date">May 1986</span></p>
-			<p>Featured guided tours to thirteen artists' studios in the Chinatown community, and a group show of works by fifteen artists.</p>
+			<p>Featured guided tours to thirteen artists’ studios in the Chinatown community and a group show of works by fifteen artists. <i><a href="http://artasiamerica.org/documents/3332/196" target="_blank">Learn more</a>.</i></p>
 			<h6>Open studio participants:</h6>
 			<ul class="list-columns">
 				<li>Arlan Huang</li>
@@ -107,7 +110,7 @@ include '_inc/head.php';
 
 			<h2>Fathers</h2>
 			<p><span class="date">May 30 – June 25, 1986</span></p>
-			<p>An exhibition based on <i>Heroes and Strangers</i>, a film that looks at our fathers through the eyes of grown children. The works call on Asian Americans to look again at their fathers, at the historical experience they brought with them to fatherhood, and to harvest the affection and appreciation that grows as we approach our own parenthood. Catalogue includes essays by Fay Chiang.</p>
+			<p>An exhibition based on <i>Heroes and Strangers</i>, a film that looks at our fathers through the eyes of grown children. The works call on Asian Americans to look again at their fathers, at the historical experience they brought with them to fatherhood, and to harvest the affection and appreciation that grows as we approach our own parenthood. Catalogue includes essays by Fay Chiang. <i><a href="http://artasiamerica.org/documents/1360/176" target="_blank">Learn more</a>.</i></p>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Tomie Arai</li>
