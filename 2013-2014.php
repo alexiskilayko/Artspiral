@@ -13,11 +13,11 @@ include '_inc/head.php';
 	</nav>
 	<main role="main" class="content-wrapper narrow">
 		<span class="tag">2013 &ndash; 2014</span>
-			<h2>CHINA: June 4 1989</h2>
+			<h2>China June 4 1989</h2>
 			<p><span class="date">June 1 – 10, 2014</span></p>
-			<p>The 25th Anniversary Exhibition in commemoration of the Tiananmen Square 1989 Student Movement was held at the Whitebox Art Center.  Curated by Robert Lee, the exhibition features works from artists that were part of the original 1989-90 exhibition. <a href="june4.php">Find out more about the exhibition.</a></p>
-			<p>A special screening of “Portraits of Loss and the Quest for Justice”, a documentary produced by Huan Rights in China with footage by the Tiananmen Mothers was held.</p>
-			<h6>Participating artists:</h6>
+			<p>The 25th Anniversary Exhibition In Commemoration of the Tiananmen Square 1989 Student Movement.  Curated by Robert Lee, the exhibition features works from artists that were part of the original 1989-90 exhibition. Here the clash of Chinese political destinies was transformed into a televised drama of global proportions, imprinting itself on the human imaginary in epic dimensions. Never before was such violence turned into a spectacle with weeks to prepare a global viewership for the unspeakable to suddenly become reality</p>
+			<p>Featured a special screening of “Portraits of Loss and the Quest for Justice”, a documentary produced by Human Rights In China with footage shot by the Tiananmen Mothers, a group whose members are family to those killed during the violent crackdown on the 1989 Democracy Movement. To resist enforced amnesia, expose the truth and bring justice to the Tiananmen Mothers is to undo the basis for so much of the corruption that is flourishing today. Held at Whitebox Art Center, 329 Broome St. <i>Learn more: <a href="http://www.artspiral.org/past_exhibitions/june4/june4.php" target="_blank">Artspiral</a>, <a href="https://www.flickr.com/photos/asianamericanartscentre/albums/72157645294053044" target="_blank">photo album 1</a>, <a href="https://www.flickr.com/photos/asianamericanartscentre/albums/72157645284145582" target="_blank">2</a>, <a href="http://artspiral.blogspot.com/search?q=tiananmen+" target="_blank">blog</a>, <a href="http://www.hrichina.org/en/june-fourth-25-resisting-enforced-amnesia-building-just-future" target="_blank">article</a>.</i></p>
+			<h6>Participating Artists:</h6>
 			<ul class="list-columns">
 				<li>Vito Acconci</li>
 				<li>Grimanessa Amoros</li>
