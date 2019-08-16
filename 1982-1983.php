@@ -14,8 +14,19 @@ include '_inc/head.php';
 	<main class="content-wrapper narrow" role="main">
 		<span class="tag">1982 &ndash; 1983</span>
 			<h2>Eye To Eye</h2>
-			<p>This was the first panel on the East Coast bringing together Asian American visual artists to discuss mutual concerns. A slideshow of 21 important artists was presented.</p>
-			<p>Panelists: David Diao, Margo Machida, Lucy Lippard, Lydia Okumura, Kit Yin Snyder, John Woo, John Yau</p>
+			<p><span class="date">June 25, 1983</span></p>
+			<p>This was the first panel on the East Coast bringing together Asian American visual artists to discuss mutual concerns. A slide show of 21 important artists was presented. <i>Learn more: <a href="http://artspiral.blogspot.com/2014/09/editors-commentary-on-mocas-oil-water.html" target="_blank">blog 1</a>, <a href="http://artspiral.blogspot.com/2014/03/taiping-tianguo-revisited.html" target="_blank">2</a>.</i></p>
+			<h6>Panelists:</h6>
+			<ul class="list-columns">
+				<li>Lucy Lippard</li>
+				<li>Lydia Okumura</li>
+				<li>Kit Yin Snyder</li>
+				<li>John Yau</li>
+				<li>David Diao</li>
+				<li>Margo Machida</li>
+				<li>John Woo</li>
+				<li>Robert Lee, moderator</li>
+			</ul>
 			<h6>Participating artists:</h6>
 			<ul class="list-columns">
 				<li>Fong Chow</li>
