@@ -7,19 +7,18 @@ include '_inc/head.php';
 
 <body class="exhibitions">
 <div class="page-wrapper">
-	<?php include '_inc/header.php'; ?>
-	<nav id="menu" role="navigation"> <!--HERE -->
-	<?php include '_inc/menu.php';?>
-	</nav><!--HERE -->
-	<main class="content-wrapper narrow" role="main"><!--HERE -->
-		<span class="tag">1997 &ndash; 1998</span>
-			<h2>Looking at Beijing: Photography as Art/CHINA</h2>
+  <?php include '_inc/header.php'; ?>
+  <nav id="menu" role="navigation"> <!--HERE -->
+  <?php include '_inc/menu.php';?>
+  </nav><!--HERE -->
+  <main class="content-wrapper narrow" role="main"><!--HERE -->
+    <span class="tag">1997 &ndash; 1998</span>
+      <h2>Looking at Beijing: Photography as Art/CHINA</h2>
       <p><span class="date">September 25 – October 10, 1997</span></p>
-      <p>A collaboration with the New York University Dept. of Art and Art Professions.</p>
-      <p>Curated by Professor Gerald Pryor & Ann Chwatsky.</p>
-			<h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Melanie Abruzzese</li>
+      <p>The photographers featured in this exhibition are students who had taken a special NYU trip to China and, through AAAC, were given an exhibition upon their return. A collaboration with the New York University Dept. of Art and Art Professions. Curated by Prof. Gerald Pryor and Ann Chwatsky.</p>
+      <h6>Participating artists:</h6>
+      <ul class="list-columns">
+        <li>Melanie Abruzzese</li>
         <li>Cyndie Burkhardt</li>
         <li>Marine Glickman</li>
         <li>Yihai Yvonne Lai</li>
@@ -33,11 +32,11 @@ include '_inc/head.php';
         <li>Christine Nassy</li>
         <li>Naomi Tarantal</li>
         <li>Nicole Woo</li>
-    	</ul>
+      </ul>
 
-			<h2>Stream Segment: 7th AAAC Annual Exhibition</h2>
-			<p><span class="date">October – December 1997</span></p>
-      <p>The Reintegration of Tradition in Contemporary Art. Organized by Sewon Oh, Danielle DiMonda & Robert Lee.</p>
+      <h2>7th AAAC Annual: Stream Segment: The Reintegration of Tradition in Contemprary Art</h2>
+      <p><span class="date">October 30 – December 20, 1997</span></p>
+      <p>An exhibition that shows the diverse approaches to art today by artists at different stages in their careers. As such the exhibition displays a range of thought and expression and reflects artistic developments both in the United States and in Asia. As a whole the exhibit serves as an introduction to the broad and diverse concerns of artists who together make up a part of the contemporary presence of Asia in America. Organized by Sewon Oh, Danielle DiMonda, Robert Lee. <i>Learn more: <a href="http://artasiamerica.org/documents/3117/62" target="_blank">flyer</a>, <a href="http://artasiamerica.org/documents/3118/62" target="_blank">press release</a>.</i></p>
       <h6>Participating artists:</h6>
       <ul class="list-columns">
         <li>Salma Arastu</li>
@@ -59,39 +58,33 @@ include '_inc/head.php';
       </ul>
 
       <h2>Paper Deities in New York: Beliefs and Legends of China</h2>
-			<p><span class="date">January 30 – early March, 1998</span></p>
-      <p>Selections from the Permanent Folk Art Collection of AAAC. Held at the NY Flushing Council on Culture and the Arts.</p>
-      <p>An introduction to the Paper Deities of China and their relationship to the Chinese American community in the United States. In Chinese communities throughout the world today, fresh fruit, incense, and liquor are given as offerings to these deities.  In the vivid language of a mythology fraught with significance, these offerings stand silently as the unspoken faith that serves to keep the memory of Chinese ideals alive.  The pantheon of these courageous and noble characters are exemplary spirits in a resilient, ongoing historical process, framing Chinese thought and culture for centuries.</p>
-			<h6>Performances by:</h6>
-			<ul class="list-columns">
-				<li>Chen Guo</li>
-        <li>Wang Chang Yuan</li>
-			</ul>
+      <p><span class="date">January 30 – early March, 1998</span></p>
+      <p>Selections from the Permanent Folk Art Collection of AAAC. An introduction to the Paper Deities of China and their relationship to the Chinese American community in the United States. In Chinese communities throughout the world today, these deities can be found with fresh fruit, incense, and liquor as offerings in their alter.  In the vivid language of a mythology fraught with significance, they stand silently in the background as the unspoken faith that serves to keep the memory of Chinese ideals alive.  The pantheon of these courageous and noble characters are exemplary spirits in a resilient, ongoing historical process, abundant in role models that for centuries among the common people, framed Chinese thought and culture. NY Flushing Council on Culture and the Arts. Performances by Chen Guo and Wang Chang Yuan.</p>
 
       <h2>Silk Light: Four Artists From Korea</h2>
-			<p><span class="date">May – June  1998</span></p>
-      <p>Guest curated by Choong Sup Lim.</p>
+      <p><span class="date">May 22 – June 20, 1998</span></p>
+      <p>The works of these four Korean artists together exhibit one facet of Korean contemporary art and help uncover a relationship to the artistic situation of Asian Americans. The Korean phrase, “Working In Silk Robes In the Evening Moonlight,” provokes, in the original Korean, the passion and futility of the artistic impulse in the absence of the beholder. Such is the situation here. Such is the situation of Seoul, Korea. Guest Curated by Choong Sup Lim.</p>
       <h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Djin-Suk Kim</li>
+      <ul class="list-columns">
+        <li>Djin-Suk Kim</li>
         <li>Soo-Kyung Lee</li>
         <li>WonGi Sul</li>
         <li>Dong-Koo Yun</li>
       </ul>
 
       <h2>Inside One: Columbia Fiero and Bivas Chaudhuri</h2>
-			<p><span class="date">June 1998</span></p>
-      <p>Curated by Robert Lee.</p>
+      <p><span class="date">June 26 - July 26, 1998</span></p>
+      <p>This exhibition is an opportunity to open a dialogue between these two artists and their work. Their artistic goals, their personal experience, and the two cultures of India and the United States serve as background to the exhibition and its theme, the contemporary perception of “oneness” in art. Curated by Robert Lee. <i>Learn more: <a href="http://artasiamerica.org/documents/2177/38" target="_blank">flyer</a>, <a href="http://artasiamerica.org/documents/2178/38" target="_blank">press release</a>.</i></p>
       <h6>Participating artists:</h6>
-			<ul class="list-columns">
-				<li>Columbia Fiero</li>
+      <ul class="list-columns">
+        <li>Columbia Fiero</li>
         <li>Bivas Chaudhuri</li>
       </ul>
-	</main><!--HERE -->
-	<div class="fade"></div>
-	<nav id="mm" role="navigation"><!--HERE -->
-	<?php include '_inc/menu.php'; ?>
-	</nav><!--HERE -->
+  </main><!--HERE -->
+  <div class="fade"></div>
+  <nav id="mm" role="navigation"><!--HERE -->
+  <?php include '_inc/menu.php'; ?>
+  </nav><!--HERE -->
 </div>
 </body>
 </html>
